@@ -1,0 +1,286 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 757622,
+    "createdate": 1135036800000,
+    "gurasid": 51706576,
+    "principaladdresssiteoid": 2182876,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 967630,
+    "uuid": "aee5302b-6304-38e8-ba25-9f5f6ad2a75f",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "5",
+    "address": "5 CENTENNIAL AVENUE CHATSWOOD",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 633.86291881809154,
+    "shape_Area": 19409.704350440396
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16828955.689499997,
+       -4001749.9132499993
+      ],
+      [
+       16828949.510750003,
+       -4001728.417750001
+      ],
+      [
+       16828945.050375,
+       -4001712.8326250017
+      ],
+      [
+       16828974.764749996,
+       -4001704.0907500014
+      ],
+      [
+       16828997.068000004,
+       -4001697.2390000001
+      ],
+      [
+       16828999.55675,
+       -4001696.5233750008
+      ],
+      [
+       16829039.940375,
+       -4001685.0293750018
+      ],
+      [
+       16829054.095124997,
+       -4001680.9695000015
+      ],
+      [
+       16829075.115125,
+       -4001674.9643750004
+      ],
+      [
+       16829079.079625003,
+       -4001688.401250001
+      ],
+      [
+       16829075.611000001,
+       -4001689.462749999
+      ],
+      [
+       16829076.837375,
+       -4001693.7003749982
+      ],
+      [
+       16829077.597750001,
+       -4001693.4710000008
+      ],
+      [
+       16829082.521250002,
+       -4001709.9386250004
+      ],
+      [
+       16829077.737499997,
+       -4001711.3016249985
+      ],
+      [
+       16829080.078500003,
+       -4001719.2076250017
+      ],
+      [
+       16829087.595375001,
+       -4001717.004124999
+      ],
+      [
+       16829104.258749999,
+       -4001773.1258749999
+      ],
+      [
+       16829106.577875003,
+       -4001780.9431249984
+      ],
+      [
+       16829107.259374999,
+       -4001783.3098750003
+      ],
+      [
+       16829117.023500003,
+       -4001808.4415000007
+      ],
+      [
+       16829118.748750001,
+       -4001812.2265000008
+      ],
+      [
+       16829115.847000003,
+       -4001812.3297500014
+      ],
+      [
+       16828997.7795,
+       -4001810.4468749985
+      ],
+      [
+       16828972.979625002,
+       -4001810.0517500006
+      ],
+      [
+       16828920.124624997,
+       -4001809.2401250005
+      ],
+      [
+       16828916.152125001,
+       -4001806.2272499986
+      ],
+      [
+       16828904.569875002,
+       -4001766.9766249992
+      ],
+      [
+       16828955.689499997,
+       -4001749.9132499993
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 903763,
+    "createdate": 1242064824000,
+    "gurasid": 68368812,
+    "principaladdresssiteoid": 3092238,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 8,
+    "valnetlotcount": 8,
+    "valnetworkflowid": null,
+    "propid": 3449470,
+    "uuid": "c9650526-9013-301b-96fa-e63bf12bf8e0",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "1",
+    "address": "1 RIDGELAND AVENUE KILLARA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 660.7705634510404,
+    "shape_Area": 19828.677006721053
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16825697.918624997,
+       -3997443.8907499984
+      ],
+      [
+       16825677.785625003,
+       -3997451.4001250006
+      ],
+      [
+       16825658.695500001,
+       -3997399.3111249991
+      ],
+      [
+       16825652.047750004,
+       -3997380.9050000012
+      ],
+      [
+       16825688.709250003,
+       -3997366.6185000017
+      ],
+      [
+       16825674.976625003,
+       -3997330.416375
+      ],
+      [
+       16825682.5515,
+       -3997315.9354999997
+      ],
+      [
+       16825823.699625,
+       -3997263.8073749989
+      ],
+      [
+       16825830.509000003,
+       -3997261.1667499989
+      ],
+      [
+       16825850.851499997,
+       -3997315.4673749991
+      ],
+      [
+       16825854.904875003,
+       -3997326.6881249994
+      ],
+      [
+       16825802.292374998,
+       -3997346.1719999984
+      ],
+      [
+       16825781.984750003,
+       -3997353.698125001
+      ],
+      [
+       16825800.432374999,
+       -3997405.3716249987
+      ],
+      [
+       16825796.72625,
+       -3997406.7652500011
+      ],
+      [
+       16825780.36225,
+       -3997412.9169999994
+      ],
+      [
+       16825759.672499999,
+       -3997420.6496249996
+      ],
+      [
+       16825738.570625,
+       -3997428.6511249989
+      ],
+      [
+       16825718.824874997,
+       -3997436.0512499996
+      ],
+      [
+       16825697.918624997,
+       -3997443.8907499984
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

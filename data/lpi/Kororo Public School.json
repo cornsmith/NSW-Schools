@@ -1,0 +1,250 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 765875,
+    "createdate": 1452197372000,
+    "gurasid": 51737638,
+    "principaladdresssiteoid": 2213163,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 4,
+    "valnetlotcount": 4,
+    "valnetworkflowid": null,
+    "propid": 1703009,
+    "uuid": "b8e941ad-f223-3064-aa5f-21045bbceced",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "3",
+    "address": "3 KORORA SCHOOL ROAD KORORA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 884.08181793141773,
+    "shape_Area": 35089.667185390477
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17046467.955624998,
+       -3536454.3515000008
+      ],
+      [
+       17046461.375749998,
+       -3536472.6999999993
+      ],
+      [
+       17046441.013250001,
+       -3536449.9697499983
+      ],
+      [
+       17046460.805,
+       -3536401.0773749985
+      ],
+      [
+       17046439.15625,
+       -3536357.7474999987
+      ],
+      [
+       17046453.741125003,
+       -3536330.0488750003
+      ],
+      [
+       17046498.624124996,
+       -3536244.8165000007
+      ],
+      [
+       17046535.041125,
+       -3536175.6614999995
+      ],
+      [
+       17046545.886,
+       -3536155.1256249994
+      ],
+      [
+       17046593.058124997,
+       -3536164.3417499997
+      ],
+      [
+       17046646.474875003,
+       -3536174.6703750007
+      ],
+      [
+       17046649.907499999,
+       -3536178.6350000016
+      ],
+      [
+       17046679.318625003,
+       -3536212.6579999998
+      ],
+      [
+       17046699.344750002,
+       -3536235.8267499991
+      ],
+      [
+       17046690.02375,
+       -3536246.3298749998
+      ],
+      [
+       17046556.083125003,
+       -3536356.4778750017
+      ],
+      [
+       17046553.930749997,
+       -3536358.25
+      ],
+      [
+       17046511.878749996,
+       -3536392.8348749988
+      ],
+      [
+       17046489.477624997,
+       -3536418.5951250009
+      ],
+      [
+       17046467.955624998,
+       -3536454.3515000008
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

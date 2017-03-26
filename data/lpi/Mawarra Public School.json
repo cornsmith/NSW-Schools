@@ -1,0 +1,302 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 762796,
+    "createdate": 1135036800000,
+    "gurasid": 51725870,
+    "principaladdresssiteoid": 2176002,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 2287936,
+    "uuid": "39a661e5-5e3f-391b-9183-89f9f6295fd9",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "68",
+    "address": "68 MACARTHUR ROAD ELDERSLIE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 937.66173541252294,
+    "shape_Area": 42406.273248544952
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16777132.538125001,
+       -4037063.6021250002
+      ],
+      [
+       16777116.414499998,
+       -4037061.1062499993
+      ],
+      [
+       16777071.108499996,
+       -4037054.0791249983
+      ],
+      [
+       16777075.098875001,
+       -4037030.6826249994
+      ],
+      [
+       16777136.534500003,
+       -4037040.8944999985
+      ],
+      [
+       16777140.64875,
+       -4037017.8268750012
+      ],
+      [
+       16777144.739,
+       -4036994.9171250015
+      ],
+      [
+       16777145.152125001,
+       -4036992.5948750004
+      ],
+      [
+       16777146.310625002,
+       -4036986.0953750014
+      ],
+      [
+       16777148.887125,
+       -4036971.6327500008
+      ],
+      [
+       16777153.057125002,
+       -4036948.2401250005
+      ],
+      [
+       16777157.285125002,
+       -4036924.5331249982
+      ],
+      [
+       16777160.193875,
+       -4036908.222874999
+      ],
+      [
+       16777198.747500002,
+       -4036914.8669999987
+      ],
+      [
+       16777236.816,
+       -4036921.427875001
+      ],
+      [
+       16777239.044249997,
+       -4036921.8048750013
+      ],
+      [
+       16777241.381250001,
+       -4036922.2083749995
+      ],
+      [
+       16777288.277000003,
+       -4036930.2881250009
+      ],
+      [
+       16777329.740249999,
+       -4036938.027125001
+      ],
+      [
+       16777330.255125001,
+       -4036986.0917499997
+      ],
+      [
+       16777330.476750001,
+       -4037006.7707500011
+      ],
+      [
+       16777330.762125,
+       -4037032.807500001
+      ],
+      [
+       16777331.019500002,
+       -4037056.5544999987
+      ],
+      [
+       16777331.273000002,
+       -4037079.5618750006
+      ],
+      [
+       16777331.5255,
+       -4037102.5827500001
+      ],
+      [
+       16777331.732000001,
+       -4037124.1472500004
+      ],
+      [
+       16777331.901625,
+       -4037144.6217500009
+      ],
+      [
+       16777331.9925,
+       -4037154.4362500012
+      ],
+      [
+       16777300.382124998,
+       -4037148.9652500004
+      ],
+      [
+       16777273.726125002,
+       -4037144.3084999993
+      ],
+      [
+       16777215.461750001,
+       -4037134.193
+      ],
+      [
+       16777124.501249999,
+       -4037118.6064999998
+      ],
+      [
+       16777132.538125001,
+       -4037063.6021250002
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,454 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1702824,
+    "createdate": 1137974400000,
+    "gurasid": 49571476,
+    "principaladdresssiteoid": 91103,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 1142249,
+    "uuid": "5ab184f6-12a2-3111-a583-eb45d6269cc0",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "127",
+    "address": "127 COWPER STREET WARRAWONG",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1442.1573189740598,
+    "shape_Area": 68180.443075350879
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16795323.244000003,
+       -4093399.4688749984
+      ],
+      [
+       16795341.454999998,
+       -4093398.8805
+      ],
+      [
+       16795360.089125,
+       -4093398.2135000005
+      ],
+      [
+       16795378.278250001,
+       -4093397.5901249982
+      ],
+      [
+       16795396.818625003,
+       -4093396.9171250015
+      ],
+      [
+       16795415.252125002,
+       -4093396.2925000004
+      ],
+      [
+       16795433.57,
+       -4093395.5818750001
+      ],
+      [
+       16795450.74425,
+       -4093395.0008749999
+      ],
+      [
+       16795458.191375002,
+       -4093394.6316250004
+      ],
+      [
+       16795465.422875002,
+       -4093394.2732499987
+      ],
+      [
+       16795476.315624997,
+       -4093393.6922499985
+      ],
+      [
+       16795479.584624998,
+       -4093396.3747499995
+      ],
+      [
+       16795490.879375003,
+       -4093405.3920000009
+      ],
+      [
+       16795502.684124999,
+       -4093414.7831249982
+      ],
+      [
+       16795517.103375003,
+       -4093426.1378749982
+      ],
+      [
+       16795528.739500001,
+       -4093435.3936249986
+      ],
+      [
+       16795568.265874997,
+       -4093419.8577499986
+      ],
+      [
+       16795568.902500004,
+       -4093419.5562499985
+      ],
+      [
+       16795569.489249997,
+       -4093419.1652499996
+      ],
+      [
+       16795570.014124997,
+       -4093418.6943750009
+      ],
+      [
+       16795570.46525,
+       -4093418.1532500014
+      ],
+      [
+       16795570.835375004,
+       -4093417.5505000018
+      ],
+      [
+       16795571.114749998,
+       -4093416.9027500004
+      ],
+      [
+       16795571.299374998,
+       -4093416.2201250009
+      ],
+      [
+       16795571.38425,
+       -4093415.5179999992
+      ],
+      [
+       16795571.368249997,
+       -4093414.8122499995
+      ],
+      [
+       16795571.250500001,
+       -4093414.1149999984
+      ],
+      [
+       16795571.034999996,
+       -4093413.4418749996
+      ],
+      [
+       16795570.724624999,
+       -4093412.8076249994
+      ],
+      [
+       16795570.327500001,
+       -4093412.222874999
+      ],
+      [
+       16795569.851499997,
+       -4093411.703625001
+      ],
+      [
+       16795576.731749997,
+       -4093418.3348749988
+      ],
+      [
+       16795583.546250001,
+       -4093425.0351249985
+      ],
+      [
+       16795590.293750003,
+       -4093431.8043750003
+      ],
+      [
+       16795596.971500002,
+       -4093438.6426250003
+      ],
+      [
+       16795603.582374997,
+       -4093445.5474999994
+      ],
+      [
+       16795609.824000001,
+       -4093452.2005000003
+      ],
+      [
+       16795610.121375002,
+       -4093452.5188749991
+      ],
+      [
+       16795616.592500001,
+       -4093459.5557500012
+      ],
+      [
+       16795617.995499998,
+       -4093461.1136250012
+      ],
+      [
+       16795622.984875001,
+       -4093466.6614999995
+      ],
+      [
+       16795629.305375002,
+       -4093473.8289999999
+      ],
+      [
+       16795635.553000003,
+       -4093481.061999999
+      ],
+      [
+       16795590.025375001,
+       -4093498.0578749999
+      ],
+      [
+       16795551.891874999,
+       -4093512.2948749997
+      ],
+      [
+       16795516.241125003,
+       -4093551.3202500008
+      ],
+      [
+       16795497.876500003,
+       -4093581.8863749988
+      ],
+      [
+       16795458.190375,
+       -4093558.4902499989
+      ],
+      [
+       16795453.214000002,
+       -4093555.5558749996
+      ],
+      [
+       16795449.180624999,
+       -4093561.1424999982
+      ],
+      [
+       16795120.627374999,
+       -4093552.9701250009
+      ],
+      [
+       16795133.245375,
+       -4093430.8988750018
+      ],
+      [
+       16795137.922375001,
+       -4093386.2027500011
+      ],
+      [
+       16795144.240874998,
+       -4093385.713750001
+      ],
+      [
+       16795142.210249998,
+       -4093388.2461250015
+      ],
+      [
+       16795138.037124999,
+       -4093430.3638750017
+      ],
+      [
+       16795167.030125,
+       -4093426.5967499986
+      ],
+      [
+       16795185.914750002,
+       -4093424.0933750011
+      ],
+      [
+       16795192.565499999,
+       -4093421.7714999989
+      ],
+      [
+       16795213.666374996,
+       -4093414.3837499991
+      ],
+      [
+       16795232.714625001,
+       -4093407.7463749982
+      ],
+      [
+       16795248.458875,
+       -4093402.2699999996
+      ],
+      [
+       16795261.310500003,
+       -4093401.6598750018
+      ],
+      [
+       16795280.444499999,
+       -4093400.833124999
+      ],
+      [
+       16795300.466750003,
+       -4093400.0100000016
+      ],
+      [
+       16795304.39525,
+       -4093358.9878749996
+      ],
+      [
+       16795301.217124999,
+       -4093355.3526250012
+      ],
+      [
+       16795312.607749999,
+       -4093354.8926250003
+      ],
+      [
+       16795308.875749998,
+       -4093358.9116250016
+      ],
+      [
+       16795304.827375002,
+       -4093400.0547499992
+      ],
+      [
+       16795323.244000003,
+       -4093399.4688749984
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

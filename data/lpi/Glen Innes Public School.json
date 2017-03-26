@@ -1,0 +1,278 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 769276,
+    "createdate": 1135036800000,
+    "gurasid": 51752942,
+    "principaladdresssiteoid": 2228400,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 5,
+    "valnetlotcount": 5,
+    "valnetworkflowid": null,
+    "propid": 1845945,
+    "uuid": "5b6ffcb6-9dae-39c1-8db7-93917882184e",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "170",
+    "address": "170 CHURCH STREET GLEN INNES",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1448.1254200818928,
+    "shape_Area": 95514.538464108511
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16891493.322875001,
+       -3469511.828125
+      ],
+      [
+       16891496.717625,
+       -3469490.6959999986
+      ],
+      [
+       16891504.564750001,
+       -3469441.833124999
+      ],
+      [
+       16891560.46525,
+       -3469451.2252499983
+      ],
+      [
+       16891580.515375003,
+       -3469454.5946249999
+      ],
+      [
+       16891599.142499998,
+       -3469457.7238750011
+      ],
+      [
+       16891617.717749998,
+       -3469460.8449999988
+      ],
+      [
+       16891637.167125002,
+       -3469464.1108749993
+      ],
+      [
+       16891656.30325,
+       -3469467.3275000006
+      ],
+      [
+       16891674.817625001,
+       -3469470.4382500015
+      ],
+      [
+       16891693.860875003,
+       -3469473.6376250014
+      ],
+      [
+       16891713.196500003,
+       -3469476.885125
+      ],
+      [
+       16891733.548,
+       -3469480.3051250018
+      ],
+      [
+       16891744.742124997,
+       -3469409.3000000007
+      ],
+      [
+       16891972.454000004,
+       -3469446.1527500004
+      ],
+      [
+       16891936.091750003,
+       -3469678.0382499993
+      ],
+      [
+       16891933.536250003,
+       -3469694.3315000013
+      ],
+      [
+       16891846.161124997,
+       -3469680.1458749995
+      ],
+      [
+       16891847.585124999,
+       -3469670.9132499993
+      ],
+      [
+       16891741.281499997,
+       -3469654.4396249987
+      ],
+      [
+       16891739.803625003,
+       -3469663.8216250017
+      ],
+      [
+       16891705.527999997,
+       -3469658.0457499996
+      ],
+      [
+       16891598.623625003,
+       -3469640.0287499987
+      ],
+      [
+       16891594.107249998,
+       -3469639.2668749988
+      ],
+      [
+       16891598.337250002,
+       -3469611.7576249987
+      ],
+      [
+       16891480.442374997,
+       -3469592.0226249993
+      ],
+      [
+       16891493.322875001,
+       -3469511.828125
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

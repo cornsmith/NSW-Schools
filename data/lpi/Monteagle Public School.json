@@ -1,0 +1,298 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3556782,
+    "createdate": 1273549338000,
+    "gurasid": 70801661,
+    "principaladdresssiteoid": 3172963,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 21,
+    "valnetlotcount": 21,
+    "valnetworkflowid": null,
+    "propid": 3508698,
+    "uuid": "9bd3e052-390e-3185-923a-d066d1f3e117",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "890",
+    "address": "890 MONTEAGLE STOCK ROUTE EAST MONTEAGLE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1253.2167883917521,
+    "shape_Area": 60852.133465900661
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16514109.393124998,
+       -4054666.8036249988
+      ],
+      [
+       16514092.774750002,
+       -4054768.9677500017
+      ],
+      [
+       16514091.587250002,
+       -4054776.2676250003
+      ],
+      [
+       16514075.383874997,
+       -4054875.8752500005
+      ],
+      [
+       16514046.822999999,
+       -4054871.1256249994
+      ],
+      [
+       16514018.638250001,
+       -4054866.4400000013
+      ],
+      [
+       16513990.453500003,
+       -4054861.7531250007
+      ],
+      [
+       16513962.268875003,
+       -4054857.0673750006
+      ],
+      [
+       16513978.751625001,
+       -4054757.7435000017
+      ],
+      [
+       16513950.558875002,
+       -4054753.1146249995
+      ],
+      [
+       16513922.365125,
+       -4054748.484375
+      ],
+      [
+       16513905.899374999,
+       -4054847.6936249994
+      ],
+      [
+       16513877.714749999,
+       -4054843.0067499988
+      ],
+      [
+       16513849.530000001,
+       -4054838.3200000003
+      ],
+      [
+       16513821.345250003,
+       -4054833.6331249997
+      ],
+      [
+       16513793.160499997,
+       -4054828.9473749995
+      ],
+      [
+       16513765.292125002,
+       -4054824.3123750016
+      ],
+      [
+       16513781.395750001,
+       -4054725.3386249989
+      ],
+      [
+       16513781.499499999,
+       -4054724.7052499987
+      ],
+      [
+       16513782.238875002,
+       -4054717.7648749985
+      ],
+      [
+       16513799.186624996,
+       -4054615.6554999985
+      ],
+      [
+       16513827.441249996,
+       -4054619.9212500006
+      ],
+      [
+       16513855.624875002,
+       -4054624.6067500003
+      ],
+      [
+       16513883.808624998,
+       -4054629.2936250009
+      ],
+      [
+       16513911.993375003,
+       -4054633.9816249982
+      ],
+      [
+       16513940.177124999,
+       -4054638.6671250015
+      ],
+      [
+       16513968.361749999,
+       -4054643.353875
+      ],
+      [
+       16513996.545500003,
+       -4054648.0395000018
+      ],
+      [
+       16514024.730250001,
+       -4054652.7262500003
+      ],
+      [
+       16514052.913999997,
+       -4054657.4131250009
+      ],
+      [
+       16514081.098624997,
+       -4054662.0986250006
+      ],
+      [
+       16514109.393124998,
+       -4054666.8036249988
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

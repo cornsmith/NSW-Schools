@@ -1,0 +1,234 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 944515,
+    "createdate": 1291235373000,
+    "gurasid": 72102796,
+    "principaladdresssiteoid": 3236042,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 3543433,
+    "uuid": "9e08876c-719b-3fe5-a594-b4215968ed05",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": null,
+    "address": "HAWKES PLACE TOLLAND",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 771.12175830961951,
+    "shape_Area": 37263.326140619589
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16402775.482249998,
+       -4183885.5241249986
+      ],
+      [
+       16402769.094875,
+       -4183890.1871250011
+      ],
+      [
+       16402585.9705,
+       -4183860.8178750016
+      ],
+      [
+       16402565.4155,
+       -4183857.5472499989
+      ],
+      [
+       16402527.702124998,
+       -4183797.7850000001
+      ],
+      [
+       16402540.284249999,
+       -4183718.3888750002
+      ],
+      [
+       16402558.666000001,
+       -4183705.0053750016
+      ],
+      [
+       16402585.310000002,
+       -4183709.2631249987
+      ],
+      [
+       16402588.819499999,
+       -4183709.8220000006
+      ],
+      [
+       16402657.060500003,
+       -4183720.7551250011
+      ],
+      [
+       16402693.40275,
+       -4183726.5762500018
+      ],
+      [
+       16402792.556625001,
+       -4183742.4602500014
+      ],
+      [
+       16402797.186750002,
+       -4183748.8768749982
+      ],
+      [
+       16402786.086499996,
+       -4183818.7740000002
+      ],
+      [
+       16402780.346749999,
+       -4183855.0723749995
+      ],
+      [
+       16402775.482249998,
+       -4183885.5241249986
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

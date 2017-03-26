@@ -1,0 +1,238 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 761213,
+    "createdate": 1137974400000,
+    "gurasid": 51720236,
+    "principaladdresssiteoid": 2539951,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 9,
+    "valnetlotcount": 9,
+    "valnetworkflowid": null,
+    "propid": 631212,
+    "uuid": "ce8a6d5c-465c-35ac-ae28-a9fdf4bd4a23",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "106",
+    "address": "106 BROOKLYN ROAD BROOKLYN",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 501.68066091444121,
+    "shape_Area": 16244.899934077866
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16833109.869125001,
+       -3968343.4822500013
+      ],
+      [
+       16833101.672750004,
+       -3968271.1333750002
+      ],
+      [
+       16833113.181125,
+       -3968271.5907500014
+      ],
+      [
+       16833113.535374999,
+       -3968271.5501249991
+      ],
+      [
+       16833137.732625,
+       -3968268.7698750012
+      ],
+      [
+       16833161.574625,
+       -3968266.0603750013
+      ],
+      [
+       16833185.446500003,
+       -3968263.3712499999
+      ],
+      [
+       16833209.520000003,
+       -3968260.5551250018
+      ],
+      [
+       16833233.743249997,
+       -3968257.7307499982
+      ],
+      [
+       16833240.591624998,
+       -3968317.7962500006
+      ],
+      [
+       16833242.298874997,
+       -3968332.8728750013
+      ],
+      [
+       16833246.60475,
+       -3968370.0771250017
+      ],
+      [
+       16833199.386749998,
+       -3968387.1724999994
+      ],
+      [
+       16833178.675999999,
+       -3968391.4996250011
+      ],
+      [
+       16833151.897249997,
+       -3968393.3374999985
+      ],
+      [
+       16833115.400375001,
+       -3968391.3079999983
+      ],
+      [
+       16833109.869125001,
+       -3968343.4822500013
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

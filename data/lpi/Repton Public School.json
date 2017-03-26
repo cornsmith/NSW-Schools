@@ -1,0 +1,238 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 751023,
+    "createdate": 1135036800000,
+    "gurasid": 51680260,
+    "principaladdresssiteoid": 2130673,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 7,
+    "valnetlotcount": 7,
+    "valnetworkflowid": null,
+    "propid": 1663026,
+    "uuid": "6d73c678-148d-3d9b-8022-5e5be66142f0",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "1-11",
+    "address": "1-11 RIVER STREET REPTON",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 445.73426692879161,
+    "shape_Area": 11960.735476220449
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17035050.651124999,
+       -3561072.1966250017
+      ],
+      [
+       17035054.315250002,
+       -3561049.9418749996
+      ],
+      [
+       17035057.979500003,
+       -3561027.686999999
+      ],
+      [
+       17035061.643624999,
+       -3561005.4322500005
+      ],
+      [
+       17035065.307750002,
+       -3560983.1776250005
+      ],
+      [
+       17035083.887000002,
+       -3560960.7782500014
+      ],
+      [
+       17035100.800875001,
+       -3560940.3871250004
+      ],
+      [
+       17035133.416125,
+       -3560968.7624999993
+      ],
+      [
+       17035156.262249999,
+       -3560997.8403749987
+      ],
+      [
+       17035156.375,
+       -3560997.9851250015
+      ],
+      [
+       17035166.475374997,
+       -3561023.3511249982
+      ],
+      [
+       17035171.974624999,
+       -3561047.9741250016
+      ],
+      [
+       17035173.316749997,
+       -3561083.8003749996
+      ],
+      [
+       17035116.252875,
+       -3561074.5104999989
+      ],
+      [
+       17035109.357625,
+       -3561073.3876250014
+      ],
+      [
+       17035108.024374999,
+       -3561081.4992499985
+      ],
+      [
+       17035050.651124999,
+       -3561072.1966250017
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

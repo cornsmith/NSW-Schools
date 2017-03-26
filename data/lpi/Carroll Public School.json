@@ -1,0 +1,280 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 830728,
+    "createdate": 1182437962000,
+    "gurasid": 62948300,
+    "principaladdresssiteoid": 2827130,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 1852962,
+    "uuid": "945fb418-12a3-347a-abaa-6f21495b2aaf",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "4",
+    "address": "4 DAVID STREET CARROLL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 375.58647948227565,
+    "shape_Area": 8290.2329217672814
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16747646.202375002,
+       -3630905.2052499987
+      ],
+      [
+       16747660.562624998,
+       -3630886.5072499998
+      ],
+      [
+       16747675.033749998,
+       -3630867.9397500008
+      ],
+      [
+       16747767.204625003,
+       -3630939.7438750006
+      ],
+      [
+       16747752.845250003,
+       -3630958.5722500011
+      ],
+      [
+       16747738.484999999,
+       -3630977.271625001
+      ],
+      [
+       16747724.013999999,
+       -3630995.9697499983
+      ],
+      [
+       16747631.732375003,
+       -3630923.9045000002
+      ],
+      [
+       16747646.202375002,
+       -3630905.2052499987
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 839962,
+    "createdate": 1200308583000,
+    "gurasid": 63692067,
+    "principaladdresssiteoid": 704895,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 4,
+    "valnetlotcount": 4,
+    "valnetworkflowid": null,
+    "propid": 1852961,
+    "uuid": "b24e4912-bd19-373a-a64e-7b394604b178",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "73-79",
+    "address": "73-79 PHILLIP STREET CARROLL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 422.73900852382167,
+    "shape_Area": 11050.610295814222
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16747631.732375003,
+       -3630923.9045000002
+      ],
+      [
+       16747646.202375002,
+       -3630905.2052499987
+      ],
+      [
+       16747660.562624998,
+       -3630886.5072499998
+      ],
+      [
+       16747675.033749998,
+       -3630867.9397500008
+      ],
+      [
+       16747767.204625003,
+       -3630939.7438750006
+      ],
+      [
+       16747752.845250003,
+       -3630958.5722500011
+      ],
+      [
+       16747738.484999999,
+       -3630977.271625001
+      ],
+      [
+       16747724.013999999,
+       -3630995.9697499983
+      ],
+      [
+       16747709.653624997,
+       -3631014.6678749993
+      ],
+      [
+       16747617.372000001,
+       -3630942.6026250012
+      ],
+      [
+       16747631.732375003,
+       -3630923.9045000002
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

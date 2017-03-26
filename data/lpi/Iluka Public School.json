@@ -1,0 +1,230 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3525969,
+    "createdate": 1241353554000,
+    "gurasid": 68318693,
+    "principaladdresssiteoid": 3090503,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 7,
+    "valnetlotcount": 7,
+    "valnetworkflowid": null,
+    "propid": 3445718,
+    "uuid": "0086f21d-f07d-3423-914a-a4f2749492db",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "21-27",
+    "address": "21-27 CHARLES STREET ILUKA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 615.9884003263104,
+    "shape_Area": 16734.916032549212
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17070762.507124998,
+       -3427321.480250001
+      ],
+      [
+       17070721.397,
+       -3427362.2932499982
+      ],
+      [
+       17070688.947375,
+       -3427329.307
+      ],
+      [
+       17070656.496875003,
+       -3427296.3208750002
+      ],
+      [
+       17070697.586874999,
+       -3427255.4988749996
+      ],
+      [
+       17070702.561250001,
+       -3427250.5563750006
+      ],
+      [
+       17070670.091750003,
+       -3427217.5738749988
+      ],
+      [
+       17070637.631125003,
+       -3427184.6017500013
+      ],
+      [
+       17070678.707249999,
+       -3427143.7824999988
+      ],
+      [
+       17070711.171875,
+       -3427176.7487500012
+      ],
+      [
+       17070743.653375,
+       -3427209.7335000001
+      ],
+      [
+       17070776.134875,
+       -3427242.7171249986
+      ],
+      [
+       17070808.616499998,
+       -3427275.7019999996
+      ],
+      [
+       17070767.504375003,
+       -3427316.526250001
+      ],
+      [
+       17070762.507124998,
+       -3427321.480250001
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

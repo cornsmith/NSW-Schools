@@ -1,0 +1,230 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1026841,
+    "createdate": 1370699156000,
+    "gurasid": 77356361,
+    "principaladdresssiteoid": 3481303,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 3703890,
+    "uuid": "675d66a7-9d97-303b-ae3b-511f41eec534",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "5",
+    "address": "5 DORLIE LANE KENTUCKY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 883.89788525698509,
+    "shape_Area": 43903.460335206597
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16859361.544500001,
+       -3601589.1993749999
+      ],
+      [
+       16859343.201750003,
+       -3601644.6701250002
+      ],
+      [
+       16859273.438874997,
+       -3601632.9846250005
+      ],
+      [
+       16859267.570500001,
+       -3601672.3296249993
+      ],
+      [
+       16859242.876249999,
+       -3601668.2094999999
+      ],
+      [
+       16859107.2315,
+       -3601645.5282500014
+      ],
+      [
+       16859103.930500001,
+       -3601644.9767500013
+      ],
+      [
+       16859114.985875003,
+       -3601571.6473749988
+      ],
+      [
+       16859132.840625003,
+       -3601453.2272499986
+      ],
+      [
+       16859251.051875003,
+       -3601472.4569999985
+      ],
+      [
+       16859346.896875001,
+       -3601488.0021249987
+      ],
+      [
+       16859343.223624997,
+       -3601518.9626250006
+      ],
+      [
+       16859363.148999996,
+       -3601522.2012500018
+      ],
+      [
+       16859382.629375003,
+       -3601525.4387499988
+      ],
+      [
+       16859361.544500001,
+       -3601589.1993749999
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

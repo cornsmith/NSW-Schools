@@ -1,0 +1,318 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 802309,
+    "createdate": 1369267076000,
+    "gurasid": 62107128,
+    "principaladdresssiteoid": 2625107,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 3266016,
+    "uuid": "802a0030-bde6-312c-afdb-37bdca65459b",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "196-202",
+    "address": "196-202 RIVER STREET GREENHILL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 729.03354443797957,
+    "shape_Area": 14077.270839840705
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17009900.399999999,
+       -3640543.2914999984
+      ],
+      [
+       17009849.266374998,
+       -3640543.5233750008
+      ],
+      [
+       17009824.109125003,
+       -3640530.7038750015
+      ],
+      [
+       17009838.840625003,
+       -3640446.7760000005
+      ],
+      [
+       17009930.885750003,
+       -3640465.6295000017
+      ],
+      [
+       17010006.322499998,
+       -3640481.0802499987
+      ],
+      [
+       17010019.068125002,
+       -3640485.1689999998
+      ],
+      [
+       17009918.836625002,
+       -3640534.2777500004
+      ],
+      [
+       17009900.399999999,
+       -3640543.2914999984
+      ]
+     ],
+     [
+      [
+       17009848.140749998,
+       -3640605.4565000013
+      ],
+      [
+       17009835.763250001,
+       -3640605.7652500011
+      ],
+      [
+       17009823.400749996,
+       -3640605.6347500011
+      ],
+      [
+       17009811.096000001,
+       -3640604.84375
+      ],
+      [
+       17009815.036624998,
+       -3640582.3918749988
+      ],
+      [
+       17009817.857500002,
+       -3640566.3200000003
+      ],
+      [
+       17009910.098250002,
+       -3640584.0646249987
+      ],
+      [
+       17009906.787375003,
+       -3640602.9263750017
+      ],
+      [
+       17009897.8455,
+       -3640603.3225000016
+      ],
+      [
+       17009885.297250003,
+       -3640603.7861250006
+      ],
+      [
+       17009872.91375,
+       -3640604.2788750008
+      ],
+      [
+       17009860.526249997,
+       -3640604.8984999992
+      ],
+      [
+       17009848.140749998,
+       -3640605.4565000013
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 830558,
+    "createdate": 1369267076000,
+    "gurasid": 62945360,
+    "principaladdresssiteoid": 2826624,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 1728160,
+    "uuid": "31926925-5ffd-3b20-8b34-7932efc50ded",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "196-202",
+    "address": "196-202 RIVER STREET GREENHILL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 348.75622372090129,
+    "shape_Area": 8064.9561440874713
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17009900.399999999,
+       -3640543.2914999984
+      ],
+      [
+       17009849.266374998,
+       -3640543.5233750008
+      ],
+      [
+       17009824.109125003,
+       -3640530.7038750015
+      ],
+      [
+       17009838.840625003,
+       -3640446.7760000005
+      ],
+      [
+       17009930.885750003,
+       -3640465.6295000017
+      ],
+      [
+       17009918.836625002,
+       -3640534.2777500004
+      ],
+      [
+       17009900.399999999,
+       -3640543.2914999984
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

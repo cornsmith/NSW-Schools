@@ -1,0 +1,234 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 954110,
+    "createdate": 1300204075000,
+    "gurasid": 73149282,
+    "principaladdresssiteoid": 2242496,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 19,
+    "valnetlotcount": 19,
+    "valnetworkflowid": null,
+    "propid": 1520883,
+    "uuid": "d4af8fba-e2f3-39cf-8626-32271b7c9e96",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "59",
+    "address": "59 FLORENCE STREET RAMSGATE BEACH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 625.35722902104897,
+    "shape_Area": 24403.629313657628
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16825295.475374997,
+       -4026360.7892500013
+      ],
+      [
+       16825289.431374997,
+       -4026397.2892500013
+      ],
+      [
+       16825129.078249998,
+       -4026369.9193749987
+      ],
+      [
+       16825135.075499997,
+       -4026333.9008749984
+      ],
+      [
+       16825141.570625,
+       -4026294.9726249985
+      ],
+      [
+       16825144.622000001,
+       -4026276.698125001
+      ],
+      [
+       16825147.671499997,
+       -4026258.4261250012
+      ],
+      [
+       16825150.721000001,
+       -4026240.1588749997
+      ],
+      [
+       16825153.756499998,
+       -4026221.9024999999
+      ],
+      [
+       16825233.473999999,
+       -4026235.4657500014
+      ],
+      [
+       16825313.897,
+       -4026249.1047499999
+      ],
+      [
+       16825310.894374996,
+       -4026267.3888750002
+      ],
+      [
+       16825307.878875002,
+       -4026285.6704999991
+      ],
+      [
+       16825304.860375002,
+       -4026303.9498750009
+      ],
+      [
+       16825301.840750001,
+       -4026322.2303749993
+      ],
+      [
+       16825295.475374997,
+       -4026360.7892500013
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

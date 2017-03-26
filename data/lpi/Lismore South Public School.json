@@ -1,0 +1,296 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3343073,
+    "createdate": 1341193873000,
+    "gurasid": 51674401,
+    "principaladdresssiteoid": 2151554,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 14,
+    "valnetlotcount": 14,
+    "valnetworkflowid": null,
+    "propid": 3128730,
+    "uuid": "0a5e4be6-fdb9-316a-ab3e-eb245390f444",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "69-79",
+    "address": "69-79 KYOGLE STREET SOUTH LISMORE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 943.1885052190114,
+    "shape_Area": 27786.855403359987
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17061112.968500003,
+       -3351433.0863750018
+      ],
+      [
+       17061103.179375,
+       -3351489.8955000006
+      ],
+      [
+       17061086.215625003,
+       -3351486.999499999
+      ],
+      [
+       17061069.252999999,
+       -3351484.1046250015
+      ],
+      [
+       17061035.327500001,
+       -3351478.3137499988
+      ],
+      [
+       17061018.364749998,
+       -3351475.4187499993
+      ],
+      [
+       17060984.439374998,
+       -3351469.6290000007
+      ],
+      [
+       17060994.228375003,
+       -3351412.8244999982
+      ],
+      [
+       17061004.037500001,
+       -3351355.9086249992
+      ],
+      [
+       17061037.961874999,
+       -3351361.6983750015
+      ],
+      [
+       17061054.924625002,
+       -3351364.5921249986
+      ],
+      [
+       17061088.851000004,
+       -3351370.3818750009
+      ],
+      [
+       17061105.813749999,
+       -3351373.2756250016
+      ],
+      [
+       17061122.777500004,
+       -3351376.1682499982
+      ],
+      [
+       17061112.968500003,
+       -3351433.0863750018
+      ]
+     ],
+     [
+      [
+       17060960.113375001,
+       -3351407.2328750007
+      ],
+      [
+       17060950.437124997,
+       -3351464.0556249991
+      ],
+      [
+       17060916.504625,
+       -3351458.3102499992
+      ],
+      [
+       17060899.538000003,
+       -3351455.436999999
+      ],
+      [
+       17060882.571249999,
+       -3351452.5637499988
+      ],
+      [
+       17060865.604500003,
+       -3351449.691624999
+      ],
+      [
+       17060848.638875,
+       -3351446.8183749989
+      ],
+      [
+       17060831.672124997,
+       -3351443.9451249987
+      ],
+      [
+       17060851.025749996,
+       -3351330.2978749983
+      ],
+      [
+       17060867.991499998,
+       -3351333.1711249985
+      ],
+      [
+       17060884.958125003,
+       -3351336.0443749987
+      ],
+      [
+       17060901.924874999,
+       -3351338.9175000004
+      ],
+      [
+       17060918.891625002,
+       -3351341.7907500006
+      ],
+      [
+       17060935.85825,
+       -3351344.6640000008
+      ],
+      [
+       17060969.789750002,
+       -3351350.4105000012
+      ],
+      [
+       17060960.113375001,
+       -3351407.2328750007
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

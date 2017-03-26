@@ -1,0 +1,238 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 772029,
+    "createdate": 1135036800000,
+    "gurasid": 51767097,
+    "principaladdresssiteoid": 2242564,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 1603052,
+    "uuid": "901fdcf1-2e92-3d66-9e13-55d0e48a18ef",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "2C",
+    "address": "2C TURRIELL BAY ROAD LILLI PILLI",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 581.45383303113829,
+    "shape_Area": 13520.918990542406
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16822393.067374997,
+       -4037409.7781249993
+      ],
+      [
+       16822342.486500002,
+       -4037401.1077499986
+      ],
+      [
+       16822342.202124998,
+       -4037373.2332499996
+      ],
+      [
+       16822341.646375,
+       -4037309.3886249997
+      ],
+      [
+       16822434.308124997,
+       -4037325.2958750017
+      ],
+      [
+       16822466.497249998,
+       -4037330.8223749995
+      ],
+      [
+       16822478.176250003,
+       -4037332.8712499999
+      ],
+      [
+       16822474.689750001,
+       -4037354.2375000007
+      ],
+      [
+       16822469.354125001,
+       -4037387.3252499998
+      ],
+      [
+       16822467.382375002,
+       -4037399.5502500013
+      ],
+      [
+       16822517.817500003,
+       -4037408.3012499996
+      ],
+      [
+       16822506.018749997,
+       -4037428.6667499989
+      ],
+      [
+       16822423.854500003,
+       -4037414.9817500003
+      ],
+      [
+       16822419.299249999,
+       -4037428.9052500017
+      ],
+      [
+       16822416.766625002,
+       -4037437.2888749987
+      ],
+      [
+       16822389.656625003,
+       -4037432.980250001
+      ],
+      [
+       16822393.067374997,
+       -4037409.7781249993
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 737860,
+    "createdate": 1135036800000,
+    "gurasid": 51628985,
+    "principaladdresssiteoid": 2128215,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 17,
+    "valnetlotcount": 17,
+    "valnetworkflowid": null,
+    "propid": 1043435,
+    "uuid": "a138b364-53ac-36ab-85d2-102b24aa39ce",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "51-53",
+    "address": "51-53 MARY STREET SHELLHARBOUR",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 831.03238815368138,
+    "shape_Area": 38037.309680649378
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16794110.741374999,
+       -4106746.2617500015
+      ],
+      [
+       16794132.115625001,
+       -4106737.416875001
+      ],
+      [
+       16794152.387374997,
+       -4106729.0131249987
+      ],
+      [
+       16794291.387999997,
+       -4106671.5483749993
+      ],
+      [
+       16794316.765749998,
+       -4106733.8488750011
+      ],
+      [
+       16794339.88425,
+       -4106790.6801250018
+      ],
+      [
+       16794294.848624997,
+       -4106809.4813750014
+      ],
+      [
+       16794306.234250002,
+       -4106837.6389999986
+      ],
+      [
+       16794314.075499997,
+       -4106857.058375001
+      ],
+      [
+       16794318.068000004,
+       -4106866.6801250018
+      ],
+      [
+       16794301.191,
+       -4106873.7351250015
+      ],
+      [
+       16794312.316249996,
+       -4106901.3196250014
+      ],
+      [
+       16794306.622374997,
+       -4106903.6490000002
+      ],
+      [
+       16794295.428374998,
+       -4106908.2617500015
+      ],
+      [
+       16794280.770750001,
+       -4106914.3337499984
+      ],
+      [
+       16794266.183875002,
+       -4106920.396125
+      ],
+      [
+       16794251.724875003,
+       -4106926.3651250005
+      ],
+      [
+       16794237.197875001,
+       -4106932.3171250001
+      ],
+      [
+       16794216.654875003,
+       -4106940.797375001
+      ],
+      [
+       16794193.823749997,
+       -4106950.1683750004
+      ],
+      [
+       16794178.449625,
+       -4106912.4297499992
+      ],
+      [
+       16794152.197750002,
+       -4106847.9916249998
+      ],
+      [
+       16794128.992375001,
+       -4106791.1212499999
+      ],
+      [
+       16794110.741374999,
+       -4106746.2617500015
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

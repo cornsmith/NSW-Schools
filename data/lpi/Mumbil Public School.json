@@ -1,0 +1,272 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1473801,
+    "createdate": 1287726216000,
+    "gurasid": 51737672,
+    "principaladdresssiteoid": 2241977,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 4,
+    "valnetlotcount": 4,
+    "valnetworkflowid": null,
+    "propid": 1290792,
+    "uuid": "630fc2e6-720a-3cea-bbe0-adbe394c4bb1",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "38-44",
+    "address": "38-44 BURRANDONG STREET MUMBIL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 589.07211924741705,
+    "shape_Area": 22131.18009036723
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16592417.178625003,
+       -3858445.2666249983
+      ],
+      [
+       16592545.748625003,
+       -3858467.1085000001
+      ],
+      [
+       16592531.662749998,
+       -3858489.0300000012
+      ],
+      [
+       16592501.543250002,
+       -3858560.6551249996
+      ],
+      [
+       16592454.587624997,
+       -3858618.802875001
+      ],
+      [
+       16592363.316875003,
+       -3858590.6742499992
+      ],
+      [
+       16592353.277374998,
+       -3858587.7718750015
+      ],
+      [
+       16592361.794124998,
+       -3858537.2413749993
+      ],
+      [
+       16592374.35125,
+       -3858462.2206249982
+      ],
+      [
+       16592379.446374997,
+       -3858463.0888749994
+      ],
+      [
+       16592417.178625003,
+       -3858445.2666249983
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1494901,
+    "createdate": 1287726216000,
+    "gurasid": 62938395,
+    "principaladdresssiteoid": 2723148,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 1290793,
+    "uuid": "3e308ce2-b199-396f-a35f-81e64ed08292",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "35-37",
+    "address": "35-37 BURRANDONG STREET MUMBIL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 455.04129060790211,
+    "shape_Area": 11426.499939278503
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16592531.662749998,
+       -3858489.0300000012
+      ],
+      [
+       16592501.543250002,
+       -3858560.6551249996
+      ],
+      [
+       16592377.866750002,
+       -3858539.9338749982
+      ],
+      [
+       16592361.794124998,
+       -3858537.2413749993
+      ],
+      [
+       16592374.35125,
+       -3858462.2206249982
+      ],
+      [
+       16592379.446374997,
+       -3858463.0888749994
+      ],
+      [
+       16592531.662749998,
+       -3858489.0300000012
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3568327,
+    "createdate": 1415560037000,
+    "gurasid": 71532381,
+    "principaladdresssiteoid": 2220767,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 170978,
+    "uuid": "1dddd674-7564-3a3a-9de7-d4ed098025d4",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "78",
+    "address": "78 FLORAVILLE ROAD FLORAVILLE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 794.92883026001516,
+    "shape_Area": 39905.965064995726
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16883232.072875001,
+       -3897310.2250000015
+      ],
+      [
+       16883232.290375002,
+       -3897321.0124999993
+      ],
+      [
+       16883187.330499999,
+       -3897311.5768750012
+      ],
+      [
+       16883166.321500003,
+       -3897307.1678749993
+      ],
+      [
+       16883137.164875001,
+       -3897301.0487499982
+      ],
+      [
+       16883123.870250002,
+       -3897298.2581249997
+      ],
+      [
+       16883105.211125001,
+       -3897294.3429999985
+      ],
+      [
+       16883084.582249999,
+       -3897278.0956249982
+      ],
+      [
+       16883056.445500001,
+       -3897255.9398749992
+      ],
+      [
+       16883036.999124996,
+       -3897240.6231250018
+      ],
+      [
+       16883040.649250001,
+       -3897219.3909999989
+      ],
+      [
+       16883046.123499997,
+       -3897187.5438750014
+      ],
+      [
+       16883048.124250002,
+       -3897175.9638749994
+      ],
+      [
+       16883049.464374997,
+       -3897168.1538750008
+      ],
+      [
+       16883053.219374999,
+       -3897146.2588750012
+      ],
+      [
+       16883061.532624997,
+       -3897097.8983750008
+      ],
+      [
+       16883065.252625003,
+       -3897076.2891249992
+      ],
+      [
+       16883068.038625002,
+       -3897060.1076250002
+      ],
+      [
+       16883227.450750001,
+       -3897087.7655000016
+      ],
+      [
+       16883229.149125002,
+       -3897169.0201250017
+      ],
+      [
+       16883229.953374997,
+       -3897207.5146250017
+      ],
+      [
+       16883231.350374997,
+       -3897274.3446249999
+      ],
+      [
+       16883232.072875001,
+       -3897310.2250000015
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3391595,
+    "createdate": 1453408755000,
+    "gurasid": 51756401,
+    "principaladdresssiteoid": 2204849,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 2721340,
+    "uuid": "bb3f080c-de1e-3a25-9a4c-f55e72c3a1ed",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "5077",
+    "address": "5077 OXLEY HIGHWAY LONG FLAT",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 739.50113612383211,
+    "shape_Area": 28327.936706371547
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16974720.648000002,
+       -3689686.7573749982
+      ],
+      [
+       16974773.616625004,
+       -3689695.9113750011
+      ],
+      [
+       16974799.953374997,
+       -3689690.8566249982
+      ],
+      [
+       16974789.306125,
+       -3689753.1582500003
+      ],
+      [
+       16974782.899750002,
+       -3689790.5196250007
+      ],
+      [
+       16974778.611000001,
+       -3689815.5748750009
+      ],
+      [
+       16974685.799500003,
+       -3689799.4690000005
+      ],
+      [
+       16974625.351750001,
+       -3689788.9722499996
+      ],
+      [
+       16974546.450499997,
+       -3689775.2721249983
+      ],
+      [
+       16974569.652874999,
+       -3689640.0716250017
+      ],
+      [
+       16974589.706,
+       -3689652.188000001
+      ],
+      [
+       16974635.384374999,
+       -3689671.0398750007
+      ],
+      [
+       16974675.895625003,
+       -3689679.8465000018
+      ],
+      [
+       16974705.630125001,
+       -3689684.1621249989
+      ],
+      [
+       16974720.648000002,
+       -3689686.7573749982
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

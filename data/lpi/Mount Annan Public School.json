@@ -1,0 +1,302 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3296788,
+    "createdate": 1135036800000,
+    "gurasid": 51608961,
+    "principaladdresssiteoid": 2053393,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2292543,
+    "uuid": "c6d91ff4-60b7-3508-af82-9d22164ef82c",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "12",
+    "address": "12 STENHOUSE DRIVE MOUNT ANNAN",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 877.89660783042962,
+    "shape_Area": 47031.105175704586
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16782684.639624998,
+       -4036986.8408749998
+      ],
+      [
+       16782694.371875003,
+       -4037015.8335000016
+      ],
+      [
+       16782699.124750003,
+       -4037029.2951250002
+      ],
+      [
+       16782701.830875002,
+       -4037038.4818749987
+      ],
+      [
+       16782705.770499997,
+       -4037049.8537500016
+      ],
+      [
+       16782710.294749998,
+       -4037061.0038749985
+      ],
+      [
+       16782715.395874999,
+       -4037071.8987499997
+      ],
+      [
+       16782677.156750001,
+       -4037090.5218750015
+      ],
+      [
+       16782663.627625003,
+       -4037105.9962499999
+      ],
+      [
+       16782649.30325,
+       -4037122.3766250014
+      ],
+      [
+       16782634.976875,
+       -4037138.7604999989
+      ],
+      [
+       16782623.039499998,
+       -4037152.4137500003
+      ],
+      [
+       16782609.509374999,
+       -4037167.8859999999
+      ],
+      [
+       16782595.184,
+       -4037184.271125
+      ],
+      [
+       16782580.857625,
+       -4037200.6515000015
+      ],
+      [
+       16782566.534249999,
+       -4037217.03675
+      ],
+      [
+       16782545.999250002,
+       -4037240.5191249996
+      ],
+      [
+       16782508.696000002,
+       -4037208.473749999
+      ],
+      [
+       16782490.156625003,
+       -4037147.0247500017
+      ],
+      [
+       16782458.060374998,
+       -4037132.2705000006
+      ],
+      [
+       16782444.027374998,
+       -4037091
+      ],
+      [
+       16782453.180749997,
+       -4037005.4782500006
+      ],
+      [
+       16782489.385375001,
+       -4036995.2832500003
+      ],
+      [
+       16782492.415875003,
+       -4036994.4317499995
+      ],
+      [
+       16782519.607625,
+       -4036986.7734999992
+      ],
+      [
+       16782584.307250001,
+       -4036968.5552500002
+      ],
+      [
+       16782615.65625,
+       -4036959.7274999991
+      ],
+      [
+       16782666.694124997,
+       -4036945.3564999998
+      ],
+      [
+       16782672.70025,
+       -4036955.8477500007
+      ],
+      [
+       16782678.149625003,
+       -4036966.6377499998
+      ],
+      [
+       16782681.051375002,
+       -4036973.0276249982
+      ],
+      [
+       16782683.961125001,
+       -4036984.8257500008
+      ],
+      [
+       16782684.639624998,
+       -4036986.8408749998
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

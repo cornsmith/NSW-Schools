@@ -1,0 +1,242 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 755511,
+    "createdate": 1435869920000,
+    "gurasid": 51696462,
+    "principaladdresssiteoid": 2200235,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 7,
+    "valnetlotcount": 7,
+    "valnetworkflowid": null,
+    "propid": 1837872,
+    "uuid": "0d423914-5fcd-3f35-a840-9394108c1f76",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "15",
+    "address": "15 CORAL STREET CORINDI BEACH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 804.82715347292526,
+    "shape_Area": 32666.873830874469
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17053515.556500003,
+       -3506211.4396249987
+      ],
+      [
+       17053659.279124998,
+       -3506289.8289999999
+      ],
+      [
+       17053660.833875,
+       -3506313.1091249995
+      ],
+      [
+       17053661.266874999,
+       -3506315.8060000017
+      ],
+      [
+       17053587.802000001,
+       -3506348.4743749984
+      ],
+      [
+       17053546.065250002,
+       -3506366.9937499985
+      ],
+      [
+       17053452.139250003,
+       -3506408.7473750003
+      ],
+      [
+       17053431.196000002,
+       -3506378.5682500005
+      ],
+      [
+       17053391.854125001,
+       -3506349.7109999992
+      ],
+      [
+       17053401.566375002,
+       -3506282.5683749989
+      ],
+      [
+       17053399.211374998,
+       -3506282.2248749994
+      ],
+      [
+       17053355.633625001,
+       -3506275.8586249985
+      ],
+      [
+       17053404.924249999,
+       -3506242.7835000008
+      ],
+      [
+       17053434.888125002,
+       -3506238.2842499986
+      ],
+      [
+       17053462.531999998,
+       -3506234.1342500001
+      ],
+      [
+       17053485.505874999,
+       -3506237.4902499989
+      ],
+      [
+       17053489.353625,
+       -3506241.6022499986
+      ],
+      [
+       17053515.556500003,
+       -3506211.4396249987
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

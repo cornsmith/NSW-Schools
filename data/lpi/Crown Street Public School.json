@@ -1,0 +1,242 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3375326,
+    "createdate": 1137974400000,
+    "gurasid": 51727055,
+    "principaladdresssiteoid": 2231223,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 2118646,
+    "uuid": "ccff50f0-7a02-311e-82e3-81f92f520ef4",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "356",
+    "address": "356 CROWN STREET SURRY HILLS",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 386.81083922931236,
+    "shape_Area": 9130.0302173370601
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16833152.388250001,
+       -4012947.676874999
+      ],
+      [
+       16833185.893624999,
+       -4012960.3553749993
+      ],
+      [
+       16833190.883874997,
+       -4012962.4539999999
+      ],
+      [
+       16833191.227124996,
+       -4012962.5982500017
+      ],
+      [
+       16833218.518749997,
+       -4012973.1516249999
+      ],
+      [
+       16833225.068750001,
+       -4012975.7514999993
+      ],
+      [
+       16833232.488875002,
+       -4012978.6963750012
+      ],
+      [
+       16833253.669624999,
+       -4012987.0176250003
+      ],
+      [
+       16833257.218000002,
+       -4012988.3709999993
+      ],
+      [
+       16833260.957000002,
+       -4012989.8170000017
+      ],
+      [
+       16833255.653375,
+       -4013005.4992499985
+      ],
+      [
+       16833237.941249996,
+       -4013057.8756249994
+      ],
+      [
+       16833207.923500001,
+       -4013053.6807500012
+      ],
+      [
+       16833205.998625003,
+       -4013053.4331250004
+      ],
+      [
+       16833179.557125002,
+       -4013049.8379999995
+      ],
+      [
+       16833137.429250002,
+       -4013043.4771250002
+      ],
+      [
+       16833150.541249998,
+       -4012959.5187500007
+      ],
+      [
+       16833152.388250001,
+       -4012947.676874999
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

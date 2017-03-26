@@ -1,0 +1,302 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 837894,
+    "createdate": 1198079658000,
+    "gurasid": 63601689,
+    "principaladdresssiteoid": 2110577,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 6,
+    "valnetlotcount": 6,
+    "valnetworkflowid": null,
+    "propid": 108034,
+    "uuid": "5abedd49-52ea-32d9-a6bb-3dbe6cf9ebf6",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "45",
+    "address": "45 MEDCALF STREET WARNERS BAY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1219.2599691889664,
+    "shape_Area": 46166.990491744131
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16880440.795125,
+       -3890711.5531250015
+      ],
+      [
+       16880639.350374997,
+       -3890749.5601250008
+      ],
+      [
+       16880644.723875001,
+       -3890721.0798749998
+      ],
+      [
+       16880817.592124999,
+       -3890753.5384999998
+      ],
+      [
+       16880939.759875,
+       -3890775.8698749989
+      ],
+      [
+       16880863.653624997,
+       -3890790.6857500002
+      ],
+      [
+       16880807.74425,
+       -3890886.7769999988
+      ],
+      [
+       16880758.479625002,
+       -3890877.5296249986
+      ],
+      [
+       16880737.293875001,
+       -3890873.552375
+      ],
+      [
+       16880722.260124996,
+       -3890870.7311250009
+      ],
+      [
+       16880717.017250001,
+       -3890869.7463749982
+      ],
+      [
+       16880696.377374999,
+       -3890865.8726250008
+      ],
+      [
+       16880676.920000002,
+       -3890862.2199999988
+      ],
+      [
+       16880656.245250002,
+       -3890858.3391249999
+      ],
+      [
+       16880654.376249999,
+       -3890857.9882499985
+      ],
+      [
+       16880645.137000002,
+       -3890856.254124999
+      ],
+      [
+       16880638.293624997,
+       -3890854.9696249999
+      ],
+      [
+       16880620.1065,
+       -3890851.5561250001
+      ],
+      [
+       16880616.50925,
+       -3890850.8806249984
+      ],
+      [
+       16880595.8015,
+       -3890846.9937499985
+      ],
+      [
+       16880572.778750002,
+       -3890842.6727499999
+      ],
+      [
+       16880552.073124997,
+       -3890838.7859999985
+      ],
+      [
+       16880541.361000001,
+       -3890836.7747500017
+      ],
+      [
+       16880531.760499999,
+       -3890834.972874999
+      ],
+      [
+       16880510.480999999,
+       -3890830.9766249992
+      ],
+      [
+       16880488.390249997,
+       -3890826.8316249996
+      ],
+      [
+       16880469.178374998,
+       -3890823.2243749984
+      ],
+      [
+       16880472.929375,
+       -3890802.0536249988
+      ],
+      [
+       16880476.544624999,
+       -3890781.646625001
+      ],
+      [
+       16880480.640874997,
+       -3890758.5267499983
+      ],
+      [
+       16880484.630374998,
+       -3890736.0062500015
+      ],
+      [
+       16880435.140124999,
+       -3890726.3617499992
+      ],
+      [
+       16880440.795125,
+       -3890711.5531250015
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

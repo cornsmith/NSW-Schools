@@ -1,0 +1,234 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3543502,
+    "createdate": 1252707967000,
+    "gurasid": 69007404,
+    "principaladdresssiteoid": 3107855,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 3475225,
+    "uuid": "6be5f6a3-ab64-3cca-ba1c-57d259ef6ba5",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "34",
+    "address": "34 GRAFTON STREET NANA GLEN",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 826.11012389918392,
+    "shape_Area": 25935.597591348087
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17032569.62675,
+       -3520978.4197500013
+      ],
+      [
+       17032570.923,
+       -3521012.6142500006
+      ],
+      [
+       17032616.288000003,
+       -3521010.8777500018
+      ],
+      [
+       17032614.025875002,
+       -3520950.9601249993
+      ],
+      [
+       17032709.430749997,
+       -3521016.6006250009
+      ],
+      [
+       17032660.077375002,
+       -3521065.2492499985
+      ],
+      [
+       17032656.366250001,
+       -3521090.6252500005
+      ],
+      [
+       17032658.182374999,
+       -3521103.3150000013
+      ],
+      [
+       17032662.923249997,
+       -3521109.4498750009
+      ],
+      [
+       17032521.703249998,
+       -3521088.5080000013
+      ],
+      [
+       17032519.444124997,
+       -3521095.3605000004
+      ],
+      [
+       17032510.439374998,
+       -3521081.5238750018
+      ],
+      [
+       17032437.975374997,
+       -3521050.6891250014
+      ],
+      [
+       17032479.145374998,
+       -3520944.9302500002
+      ],
+      [
+       17032559.252999999,
+       -3520974.5867500007
+      ],
+      [
+       17032569.62675,
+       -3520978.4197500013
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

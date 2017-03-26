@@ -1,0 +1,278 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1477122,
+    "createdate": 1137974400000,
+    "gurasid": 51785441,
+    "principaladdresssiteoid": 2233191,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 11,
+    "valnetlotcount": 11,
+    "valnetworkflowid": null,
+    "propid": 2914401,
+    "uuid": "584b0e17-579c-36af-ac3b-d470ca44dcac",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "6",
+    "address": "6 TRISTRAM ROAD BEACON HILL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 564.72586986586964,
+    "shape_Area": 12500.236451562847
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16838112.541000001,
+       -3995555.7676250003
+      ],
+      [
+       16838092.080750003,
+       -3995552.3088749982
+      ],
+      [
+       16838100.981749997,
+       -3995497.9697499983
+      ],
+      [
+       16838121.299249999,
+       -3995501.4453749992
+      ],
+      [
+       16838139.780749999,
+       -3995504.5813749991
+      ],
+      [
+       16838157.873000003,
+       -3995507.6117499992
+      ],
+      [
+       16838175.550250001,
+       -3995510.629999999
+      ],
+      [
+       16838193.688375004,
+       -3995513.6843749993
+      ],
+      [
+       16838212.210749999,
+       -3995516.7687500007
+      ],
+      [
+       16838255.837499999,
+       -3995524.108874999
+      ],
+      [
+       16838273.840000004,
+       -3995527.1165000014
+      ],
+      [
+       16838291.855374999,
+       -3995530.1528749987
+      ],
+      [
+       16838310.048500001,
+       -3995533.2396249995
+      ],
+      [
+       16838326.753749996,
+       -3995536.0383750014
+      ],
+      [
+       16838321.133749999,
+       -3995570.5714999996
+      ],
+      [
+       16838318.717,
+       -3995585.4078750014
+      ],
+      [
+       16838313.618874997,
+       -3995588.8511249982
+      ],
+      [
+       16838301.331124999,
+       -3995586.8312500007
+      ],
+      [
+       16838283.137125,
+       -3995583.8379999995
+      ],
+      [
+       16838264.883125,
+       -3995580.8460000008
+      ],
+      [
+       16838246.255999997,
+       -3995577.7292499989
+      ],
+      [
+       16838203.038374998,
+       -3995570.6027499996
+      ],
+      [
+       16838184.819375001,
+       -3995567.6203749999
+      ],
+      [
+       16838166.676124997,
+       -3995564.6236249991
+      ],
+      [
+       16838148.820375003,
+       -3995561.666375
+      ],
+      [
+       16838130.87675,
+       -3995558.7572499998
+      ],
+      [
+       16838112.541000001,
+       -3995555.7676250003
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

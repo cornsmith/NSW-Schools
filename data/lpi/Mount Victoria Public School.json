@@ -1,0 +1,258 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3378154,
+    "createdate": 1135036800000,
+    "gurasid": 51731909,
+    "principaladdresssiteoid": 2204045,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 2266080,
+    "uuid": "a2884245-c0ec-3055-9654-0c954934dc5f",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "105-107",
+    "address": "105-107 GREAT WESTERN HIGHWAY MOUNT VICTORIA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 721.43814340975916,
+    "shape_Area": 20231.294013582326
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16726166.186999999,
+       -3974191.8928750008
+      ],
+      [
+       16726127.156499997,
+       -3974165.3995000012
+      ],
+      [
+       16726155.913999997,
+       -3974006.1776250005
+      ],
+      [
+       16726156.515625,
+       -3974002.9899999984
+      ],
+      [
+       16726174.713749997,
+       -3973903.7368750013
+      ],
+      [
+       16726213.484750003,
+       -3973932
+      ],
+      [
+       16726204.497000001,
+       -3973981.2133749984
+      ],
+      [
+       16726201.850749999,
+       -3973995.6983750015
+      ],
+      [
+       16726206.035750002,
+       -3973998.6044999994
+      ],
+      [
+       16726215.983499996,
+       -3974005.5080000013
+      ],
+      [
+       16726225.932125002,
+       -3974012.4079999998
+      ],
+      [
+       16726235.879874997,
+       -3974019.3042499982
+      ],
+      [
+       16726241.542750001,
+       -3974023.2298749983
+      ],
+      [
+       16726237.574249998,
+       -3974045.047375001
+      ],
+      [
+       16726231.725749999,
+       -3974077.4077499993
+      ],
+      [
+       16726230.204999998,
+       -3974085.7021250017
+      ],
+      [
+       16726226.893124998,
+       -3974103.9978750013
+      ],
+      [
+       16726216.548249997,
+       -3974161.2356249988
+      ],
+      [
+       16726206.156499997,
+       -3974219.0269999988
+      ],
+      [
+       16726196.160875,
+       -3974212.2647500001
+      ],
+      [
+       16726186.180249996,
+       -3974205.4677500017
+      ],
+      [
+       16726166.186999999,
+       -3974191.8928750008
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

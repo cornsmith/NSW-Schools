@@ -1,0 +1,244 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3535050,
+    "createdate": 1331002881000,
+    "gurasid": 68674328,
+    "principaladdresssiteoid": 3097002,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 3458567,
+    "uuid": "ac553a23-eac7-36c6-ba90-8b0afe465c3e",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "X",
+    "address": " HANLEY STREET GUNDAGAI",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1512.0261296031385,
+    "shape_Area": 70191.608782839947
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16486476.159874998,
+       -4171703.5936250016
+      ],
+      [
+       16486467.376625001,
+       -4171764.6243750006
+      ],
+      [
+       16486456.616625004,
+       -4171763.0616250001
+      ],
+      [
+       16486203.7685,
+       -4171726.33825
+      ],
+      [
+       16486231.601999998,
+       -4171532.3327500001
+      ],
+      [
+       16486495.308875002,
+       -4171570.5364999995
+      ],
+      [
+       16486476.159874998,
+       -4171703.5936250016
+      ]
+     ],
+     [
+      [
+       16486451.878749996,
+       -4171800.5665000007
+      ],
+      [
+       16486406.239375003,
+       -4171894.1767500006
+      ],
+      [
+       16486361.727624997,
+       -4171872.5923749991
+      ],
+      [
+       16486345.508374996,
+       -4171905.858874999
+      ],
+      [
+       16486334.799249999,
+       -4171927.8249999993
+      ],
+      [
+       16486312.744374998,
+       -4171917.1290000007
+      ],
+      [
+       16486290.691500001,
+       -4171906.4354999997
+      ],
+      [
+       16486270.676375002,
+       -4171896.6416249983
+      ],
+      [
+       16486246.311499998,
+       -4171884.7157500014
+      ],
+      [
+       16486298.160625003,
+       -4171778.3715000004
+      ],
+      [
+       16486451.878749996,
+       -4171800.5665000007
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

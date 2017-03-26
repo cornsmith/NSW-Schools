@@ -1,0 +1,282 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 460090,
+    "createdate": 1366911528000,
+    "gurasid": 50826506,
+    "principaladdresssiteoid": 2546832,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 3192022,
+    "uuid": "23879d1d-ecc1-328d-b91b-b908ead32a52",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "2",
+    "address": "2 ANZAC AVENUE CAMMERAY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 592.09708104973447,
+    "shape_Area": 14365.416559587151
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16832737.696249999,
+       -4005443.1852499992
+      ],
+      [
+       16832732.325750001,
+       -4005473.6389999986
+      ],
+      [
+       16832730.480625004,
+       -4005484.1026250012
+      ],
+      [
+       16832738.639250003,
+       -4005485.7517499998
+      ],
+      [
+       16832735.424125001,
+       -4005503.8957500011
+      ],
+      [
+       16832730.742124997,
+       -4005530.3208750002
+      ],
+      [
+       16832732.712875001,
+       -4005530.7136249989
+      ],
+      [
+       16832732.193999998,
+       -4005533.6553750001
+      ],
+      [
+       16832730.030625001,
+       -4005545.9292499982
+      ],
+      [
+       16832719.919249997,
+       -4005544.1538750008
+      ],
+      [
+       16832717.019500002,
+       -4005560.5995000005
+      ],
+      [
+       16832709.347874999,
+       -4005604.09375
+      ],
+      [
+       16832657.430875003,
+       -4005595.0798749998
+      ],
+      [
+       16832667.828625001,
+       -4005534.0386249982
+      ],
+      [
+       16832660.447499998,
+       -4005532.7124999985
+      ],
+      [
+       16832661.481250003,
+       -4005526.6452500001
+      ],
+      [
+       16832619.289499998,
+       -4005519.3178750016
+      ],
+      [
+       16832629.056625001,
+       -4005465.2727500014
+      ],
+      [
+       16832634.346249998,
+       -4005466.197625
+      ],
+      [
+       16832637.292000003,
+       -4005449.8938749991
+      ],
+      [
+       16832639.902374998,
+       -4005435.4532499984
+      ],
+      [
+       16832642.520750001,
+       -4005420.9621249996
+      ],
+      [
+       16832645.149125002,
+       -4005406.4169999994
+      ],
+      [
+       16832669.3345,
+       -4005410.5851249993
+      ],
+      [
+       16832666.031499997,
+       -4005428.916375
+      ],
+      [
+       16832689.281750001,
+       -4005433.5457499996
+      ],
+      [
+       16832712.855374999,
+       -4005438.2387499996
+      ],
+      [
+       16832737.696249999,
+       -4005443.1852499992
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

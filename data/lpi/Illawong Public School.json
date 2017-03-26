@@ -1,0 +1,428 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 786965,
+    "createdate": 1174917653000,
+    "gurasid": 61635067,
+    "principaladdresssiteoid": 2785212,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 6,
+    "valnetlotcount": 6,
+    "valnetworkflowid": null,
+    "propid": 1586843,
+    "uuid": "96891d06-4268-3b83-bfdb-74ff10724a54",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "276",
+    "address": "276 FOWLER ROAD ILLAWONG",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1071.72525545853,
+    "shape_Area": 66920.472165480009
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16814043.092124999,
+       -4028541.9482499994
+      ],
+      [
+       16814062.144374996,
+       -4028543.9293750003
+      ],
+      [
+       16814071.688000001,
+       -4028543.1072500013
+      ],
+      [
+       16814095.755500004,
+       -4028545.6553750001
+      ],
+      [
+       16814126.762125,
+       -4028548.9256250001
+      ],
+      [
+       16814168.562749997,
+       -4028553.3501249999
+      ],
+      [
+       16814162.408875003,
+       -4028590.3938749991
+      ],
+      [
+       16814161.014875002,
+       -4028598.7843750007
+      ],
+      [
+       16814151.397500001,
+       -4028656.5137500018
+      ],
+      [
+       16814149.548375003,
+       -4028667.5943749994
+      ],
+      [
+       16814144.516125001,
+       -4028697.5816249996
+      ],
+      [
+       16814138.64875,
+       -4028732.8096249998
+      ],
+      [
+       16814133.755125001,
+       -4028762.1736249998
+      ],
+      [
+       16814132.184500001,
+       -4028771.5113749988
+      ],
+      [
+       16814128.0035,
+       -4028796.6037500016
+      ],
+      [
+       16814124.328374997,
+       -4028818.6556250006
+      ],
+      [
+       16814121.523374997,
+       -4028835.8304999992
+      ],
+      [
+       16814102.156750001,
+       -4028832.6156250015
+      ],
+      [
+       16814098.626374997,
+       -4028832.0306250006
+      ],
+      [
+       16813932.295125,
+       -4028804.1457500011
+      ],
+      [
+       16813892.421374999,
+       -4028797.4342500009
+      ],
+      [
+       16813860.609375,
+       -4028792.0828749985
+      ],
+      [
+       16813832.313000001,
+       -4028787.239374999
+      ],
+      [
+       16813818.292874999,
+       -4028784.8622500002
+      ],
+      [
+       16813844.505874999,
+       -4028748.3088749982
+      ],
+      [
+       16813860.917750001,
+       -4028725.416875001
+      ],
+      [
+       16813861.061499998,
+       -4028725.2171249986
+      ],
+      [
+       16813886.089874998,
+       -4028690.3092500009
+      ],
+      [
+       16813890.998374999,
+       -4028683.3740000017
+      ],
+      [
+       16813903.519625001,
+       -4028666.0524999984
+      ],
+      [
+       16813909.397124998,
+       -4028657.9219999984
+      ],
+      [
+       16813929.43925,
+       -4028630.2266249992
+      ],
+      [
+       16813958.261500001,
+       -4028590.3975000009
+      ],
+      [
+       16813995.233499996,
+       -4028539.307500001
+      ],
+      [
+       16814004.035625003,
+       -4028535.9675000012
+      ],
+      [
+       16814033.706124999,
+       -4028539.105250001
+      ],
+      [
+       16814043.092124999,
+       -4028541.9482499994
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 3429715,
+    "createdate": 1182437962000,
+    "gurasid": 62942996,
+    "principaladdresssiteoid": 2826359,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 1586842,
+    "uuid": "30163a99-1acc-3b23-afbe-e62bb38925f9",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "276A",
+    "address": "276A FOWLER ROAD ILLAWONG",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 706.28380014981997,
+    "shape_Area": 28618.669168260989
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16814043.092124999,
+       -4028541.9482499994
+      ],
+      [
+       16814062.144374996,
+       -4028543.9293750003
+      ],
+      [
+       16814071.688000001,
+       -4028543.1072500013
+      ],
+      [
+       16814095.755500004,
+       -4028545.6553750001
+      ],
+      [
+       16814126.762125,
+       -4028548.9256250001
+      ],
+      [
+       16814168.562749997,
+       -4028553.3501249999
+      ],
+      [
+       16814162.408875003,
+       -4028590.3938749991
+      ],
+      [
+       16814161.014875002,
+       -4028598.7843750007
+      ],
+      [
+       16814151.397500001,
+       -4028656.5137500018
+      ],
+      [
+       16814149.548375003,
+       -4028667.5943749994
+      ],
+      [
+       16814144.516125001,
+       -4028697.5816249996
+      ],
+      [
+       16814005.101374999,
+       -4028674.0747499987
+      ],
+      [
+       16813975.886875004,
+       -4028669.1446250007
+      ],
+      [
+       16813909.397124998,
+       -4028657.9219999984
+      ],
+      [
+       16813929.43925,
+       -4028630.2266249992
+      ],
+      [
+       16813958.261500001,
+       -4028590.3975000009
+      ],
+      [
+       16813995.233499996,
+       -4028539.307500001
+      ],
+      [
+       16814004.035625003,
+       -4028535.9675000012
+      ],
+      [
+       16814033.706124999,
+       -4028539.105250001
+      ],
+      [
+       16814043.092124999,
+       -4028541.9482499994
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

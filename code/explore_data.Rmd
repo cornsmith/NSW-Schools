@@ -1,0 +1,101 @@
+---
+title: "Data Exploration"
+output: html_notebook
+---
+
+
+```{r, include=FALSE}
+require(tidyverse)
+schools <- read_csv("../data/school_list.csv")
+schools$student_number <- parse_double(schools$student_number, na = "np")
+
+```
+
+# School Types
+Lots of different types of schools included in the dataset. Let's just focus on the traditional K-12 schools, most of which have enrolment numbers.
+
+```{r, echo=TRUE}
+schools %>% 
+  group_by(
+    school_subtype
+  ) %>% 
+  summarise(counts = n(),
+            nas = sum(is.na(student_number)),
+            avg = mean(student_number, na.rm = T)
+  )
+```
+
+-----
+Once we filter out the other types, we are left with...
+```{r}
+schools <- schools %>%
+  filter(grepl("[0-9]", school_subtype))
+
+schools %>% 
+  group_by(
+    school_subtype,
+    level_of_schooling
+  ) %>% 
+  summarise(
+    count = n()
+  )
+```
+
+-----
+# School attributes
+```{r}
+schools %>% 
+  ggplot(aes(late_opening_school)) +
+  geom_bar()
+
+schools %>% 
+  ggplot(aes(school_gender)) +
+  geom_bar()
+
+schools %>% 
+  ggplot(aes(intensive_english_centre)) +
+  geom_bar()
+
+schools %>% 
+  ggplot(aes(preschool_ind)) +
+  geom_bar()
+
+schools %>% 
+  ggplot(aes(distance_education)) +
+  geom_bar()
+
+schools %>% 
+  ggplot(aes(school_subtype)) +
+  geom_bar() +
+  coord_flip()
+
+schools %>% 
+  ggplot(aes(selective_school)) +
+  geom_bar()
+
+schools %>% 
+  ggplot(aes(level_of_schooling)) +
+  geom_bar() +
+  coord_flip()
+
+schools %>% 
+  ggplot(aes(opportunity_class)) +
+  geom_bar()
+
+schools %>% 
+  filter(school_specialty_type != "Comprehensive") %>% 
+  ggplot(aes(school_specialty_type)) +
+  geom_bar() +
+  coord_flip()
+
+```
+
+-----
+# Enrolment
+```{r}
+schools %>% 
+  ggplot(aes(student_number)) +
+  geom_histogram(binwidth = 50)
+
+```
+

@@ -1,0 +1,290 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 748340,
+    "createdate": 1135036800000,
+    "gurasid": 51669850,
+    "principaladdresssiteoid": 2141336,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 4,
+    "valnetlotcount": 4,
+    "valnetworkflowid": null,
+    "propid": 606478,
+    "uuid": "ab280e2e-64ce-38ca-8755-068e1dee2eb8",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "5540",
+    "address": "5540 OLD NORTHERN ROAD WISEMANS FERRY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 754.12469405282968,
+    "shape_Area": 27790.964401648809
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16807354.951375,
+       -3946623.027125001
+      ],
+      [
+       16807362.794624999,
+       -3946603.7829999998
+      ],
+      [
+       16807364.377250001,
+       -3946601.4346249998
+      ],
+      [
+       16807365.851999998,
+       -3946598.9943750016
+      ],
+      [
+       16807367.210124999,
+       -3946596.4763749987
+      ],
+      [
+       16807368.440499999,
+       -3946593.902125001
+      ],
+      [
+       16807369.533124998,
+       -3946591.2897499986
+      ],
+      [
+       16807370.806500003,
+       -3946587.2933750004
+      ],
+      [
+       16807371.693499997,
+       -3946583.1405000016
+      ],
+      [
+       16807372.333125003,
+       -3946578.8932499997
+      ],
+      [
+       16807372.869000003,
+       -3946574.6161249988
+      ],
+      [
+       16807373.441875003,
+       -3946570.3736249991
+      ],
+      [
+       16807374.056500003,
+       -3946564.9157500006
+      ],
+      [
+       16807374.416749999,
+       -3946559.4065000005
+      ],
+      [
+       16807374.761,
+       -3946553.9008749984
+      ],
+      [
+       16807375.326750003,
+       -3946548.4549999982
+      ],
+      [
+       16807556.067249998,
+       -3946581.0480000004
+      ],
+      [
+       16807548.961374998,
+       -3946602.6931249984
+      ],
+      [
+       16807560.576499999,
+       -3946618.7321249992
+      ],
+      [
+       16807589.164375,
+       -3946658.2077500001
+      ],
+      [
+       16807576.924625002,
+       -3946673.9600000009
+      ],
+      [
+       16807563.051250003,
+       -3946678.0973750018
+      ],
+      [
+       16807513.174000002,
+       -3946667.0692499988
+      ],
+      [
+       16807511.766999997,
+       -3946681.7316249982
+      ],
+      [
+       16807536.053999998,
+       -3946686.1486250013
+      ],
+      [
+       16807481.548625,
+       -3946722.9678750001
+      ],
+      [
+       16807453.695124999,
+       -3946746.7906249985
+      ],
+      [
+       16807363.447250001,
+       -3946654.7611249983
+      ],
+      [
+       16807348.843374997,
+       -3946652.1044999994
+      ],
+      [
+       16807354.951375,
+       -3946623.027125001
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

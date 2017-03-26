@@ -1,0 +1,246 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 2013653,
+    "createdate": 1135036800000,
+    "gurasid": 49973558,
+    "principaladdresssiteoid": 493772,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 1518957,
+    "uuid": "1f894da5-de31-3e42-90a8-0443d6e5697c",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "70",
+    "address": "70 DARLEY ROAD BARDWELL PARK",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 321.98726577930682,
+    "shape_Area": 4402.6085235301243
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16823271.269000001,
+       -4019861.9256250001
+      ],
+      [
+       16823269.854999997,
+       -4019869.957249999
+      ],
+      [
+       16823259.119000003,
+       -4019854.7238750011
+      ],
+      [
+       16823243.163125001,
+       -4019861.3171250001
+      ],
+      [
+       16823245.366374999,
+       -4019864.9601249993
+      ],
+      [
+       16823235.355750002,
+       -4019876.9715000018
+      ],
+      [
+       16823225.406000003,
+       -4019888.9058750011
+      ],
+      [
+       16823215.259750001,
+       -4019901.0772500001
+      ],
+      [
+       16823205.340999998,
+       -4019913.0333749987
+      ],
+      [
+       16823177.934625,
+       -4019870.5333749987
+      ],
+      [
+       16823163.817749999,
+       -4019848.6551249996
+      ],
+      [
+       16823177.408749998,
+       -4019842.9602500014
+      ],
+      [
+       16823191.049500003,
+       -4019837.2438750006
+      ],
+      [
+       16823204.663374998,
+       -4019831.5395000018
+      ],
+      [
+       16823218.266374998,
+       -4019825.8398750015
+      ],
+      [
+       16823231.349375002,
+       -4019820.3567500003
+      ],
+      [
+       16823249.655249998,
+       -4019847.7674999982
+      ],
+      [
+       16823262.398874998,
+       -4019849.2094999999
+      ],
+      [
+       16823271.269000001,
+       -4019861.9256250001
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

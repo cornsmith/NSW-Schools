@@ -1,0 +1,320 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 896171,
+    "createdate": 1241275069000,
+    "gurasid": 68294090,
+    "principaladdresssiteoid": 3065725,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 7,
+    "valnetlotcount": 7,
+    "valnetworkflowid": null,
+    "propid": 3426316,
+    "uuid": "fb93d1c5-790c-3cd7-8d75-310dcd021ea2",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "116",
+    "address": "116 LORNE STREET JUNEE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 738.09533773347982,
+    "shape_Area": 24847.022730948349
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16429115.288000003,
+       -4146786.6576250009
+      ],
+      [
+       16429113.449874997,
+       -4146798.8193750009
+      ],
+      [
+       16429065.262999997,
+       -4146791.4693749994
+      ],
+      [
+       16429063.424874999,
+       -4146803.6311249994
+      ],
+      [
+       16429061.586874999,
+       -4146815.7930000015
+      ],
+      [
+       16429059.748750001,
+       -4146827.9547500014
+      ],
+      [
+       16429047.64175,
+       -4146826.1083750017
+      ],
+      [
+       16429049.47975,
+       -4146813.9466250017
+      ],
+      [
+       16429051.317874998,
+       -4146801.7847499996
+      ],
+      [
+       16429053.155874997,
+       -4146789.6229999997
+      ],
+      [
+       16429004.725500003,
+       -4146782.2363750003
+      ],
+      [
+       16429006.563500002,
+       -4146770.0746250004
+      ],
+      [
+       16429008.401625,
+       -4146757.9128750004
+      ],
+      [
+       16429012.378124997,
+       -4146733.3509999998
+      ],
+      [
+       16429018.202624999,
+       -4146694.8127500005
+      ],
+      [
+       16429021.569499999,
+       -4146672.5399999991
+      ],
+      [
+       16429037.633125,
+       -4146562.4664999992
+      ],
+      [
+       16429146.214874998,
+       -4146578.9883750007
+      ],
+      [
+       16429135.372000001,
+       -4146651.9957499988
+      ],
+      [
+       16429130.050375,
+       -4146689.0852500014
+      ],
+      [
+       16429129.182250001,
+       -4146694.8297500014
+      ],
+      [
+       16429120.859125003,
+       -4146749.8962499984
+      ],
+      [
+       16429117.126125,
+       -4146774.495875001
+      ],
+      [
+       16429115.288000003,
+       -4146786.6576250009
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 3467842,
+    "createdate": 1311096565000,
+    "gurasid": 65252607,
+    "principaladdresssiteoid": 3300995,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 535064,
+    "uuid": "9ee04065-560b-314d-8285-b72301e1dea7",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": null,
+    "address": "LORNE STREET JUNEE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 442.08383336577106,
+    "shape_Area": 12207.293275570772
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16429135.372000001,
+       -4146651.9957499988
+      ],
+      [
+       16429130.050375,
+       -4146689.0852500014
+      ],
+      [
+       16429021.569499999,
+       -4146672.5399999991
+      ],
+      [
+       16429037.633125,
+       -4146562.4664999992
+      ],
+      [
+       16429146.214874998,
+       -4146578.9883750007
+      ],
+      [
+       16429135.372000001,
+       -4146651.9957499988
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

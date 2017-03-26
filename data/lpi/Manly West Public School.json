@@ -1,0 +1,266 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1436159,
+    "createdate": 1135036800000,
+    "gurasid": 51453809,
+    "principaladdresssiteoid": 1959192,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 742727,
+    "uuid": "f86e6d5f-1423-37e6-b07a-e2d929d93b0c",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": null,
+    "address": "GRIFFITHS STREET BALGOWLAH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 790.56709383505256,
+    "shape_Area": 35058.698423231726
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16839282.238124996,
+       -4000810.9803749993
+      ],
+      [
+       16839279.414125003,
+       -4000826.7901250012
+      ],
+      [
+       16839276.571249999,
+       -4000842.8602499999
+      ],
+      [
+       16839251.166625001,
+       -4000986.6420000009
+      ],
+      [
+       16839153.095375001,
+       -4000969.3792500012
+      ],
+      [
+       16839130.369000003,
+       -4000965.3784999996
+      ],
+      [
+       16839036.199375004,
+       -4000948.8001249991
+      ],
+      [
+       16839056.402125001,
+       -4000832.8236249983
+      ],
+      [
+       16839060.660999998,
+       -4000808.3773749992
+      ],
+      [
+       16839101.496749997,
+       -4000814.922375001
+      ],
+      [
+       16839120.509000003,
+       -4000817.9853749983
+      ],
+      [
+       16839148.039125003,
+       -4000822.4243750013
+      ],
+      [
+       16839168.245875001,
+       -4000825.6686250009
+      ],
+      [
+       16839170.905249998,
+       -4000809.7784999982
+      ],
+      [
+       16839173.524625003,
+       -4000793.7672500014
+      ],
+      [
+       16839180.101625003,
+       -4000794.8106250018
+      ],
+      [
+       16839194.981749997,
+       -4000797.1676249988
+      ],
+      [
+       16839209.482749999,
+       -4000799.4644999988
+      ],
+      [
+       16839216.853,
+       -4000800.6316250004
+      ],
+      [
+       16839224.253124997,
+       -4000801.8046250008
+      ],
+      [
+       16839238.402874999,
+       -4000804.046374999
+      ],
+      [
+       16839253.383874997,
+       -4000806.421374999
+      ],
+      [
+       16839267.802000001,
+       -4000808.7062500007
+      ],
+      [
+       16839282.238124996,
+       -4000810.9803749993
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

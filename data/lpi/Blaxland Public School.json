@@ -1,0 +1,242 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3331554,
+    "createdate": 1135036800000,
+    "gurasid": 51656013,
+    "principaladdresssiteoid": 2105610,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 2246996,
+    "uuid": "c50f3916-1bea-3f9f-9d5b-7a9c765a8ac8",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "186",
+    "address": "186 GREAT WESTERN HIGHWAY BLAXLAND",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 851.12720856127578,
+    "shape_Area": 33460.268790739654
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16765119.647375003,
+       -3993618.6334999986
+      ],
+      [
+       16765106.32,
+       -3993616.7243749984
+      ],
+      [
+       16765096.306374997,
+       -3993615.2699999996
+      ],
+      [
+       16765092.558375001,
+       -3993644.7696250007
+      ],
+      [
+       16764955.292999998,
+       -3993623.9924999997
+      ],
+      [
+       16764956.57525,
+       -3993551.4041250013
+      ],
+      [
+       16765111.385124996,
+       -3993473.7981249988
+      ],
+      [
+       16765109.46125,
+       -3993496.2465000004
+      ],
+      [
+       16765118.424000002,
+       -3993497.5748750009
+      ],
+      [
+       16765133.274250001,
+       -3993499.7827499993
+      ],
+      [
+       16765188.185874999,
+       -3993507.8367500007
+      ],
+      [
+       16765194.438500002,
+       -3993508.7366250008
+      ],
+      [
+       16765190.033875003,
+       -3993530.3151249997
+      ],
+      [
+       16765248.31425,
+       -3993539.0758749992
+      ],
+      [
+       16765241.562624998,
+       -3993598.8115000017
+      ],
+      [
+       16765244.436499998,
+       -3993636.3698749989
+      ],
+      [
+       16765189.176749997,
+       -3993628.5258749984
+      ],
+      [
+       16765119.647375003,
+       -3993618.6334999986
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

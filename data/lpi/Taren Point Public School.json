@@ -1,0 +1,298 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 758488,
+    "createdate": 1137974400000,
+    "gurasid": 51709250,
+    "principaladdresssiteoid": 2212995,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 21,
+    "valnetlotcount": 21,
+    "valnetworkflowid": null,
+    "propid": 1628748,
+    "uuid": "8589e5ff-c8f4-3a38-9084-e7fc9393b443",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "93",
+    "address": "93 WOODLANDS ROAD TAREN POINT",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 699.01812865801298,
+    "shape_Area": 17911.534361406691
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16822837.213375002,
+       -4031319.9242499992
+      ],
+      [
+       16822841.496250004,
+       -4031302.3616250008
+      ],
+      [
+       16822845.937749997,
+       -4031284.3102499992
+      ],
+      [
+       16822850.324375004,
+       -4031266.4936250001
+      ],
+      [
+       16822854.632124998,
+       -4031248.858874999
+      ],
+      [
+       16822857.613750003,
+       -4031230.2308750004
+      ],
+      [
+       16822860.513499998,
+       -4031211.9966249987
+      ],
+      [
+       16822863.388374999,
+       -4031193.5673750006
+      ],
+      [
+       16822870.425375,
+       -4031176.9211249985
+      ],
+      [
+       16822882.272,
+       -4031159.4743749984
+      ],
+      [
+       16822893.84025,
+       -4031142.4079999998
+      ],
+      [
+       16822905.518250003,
+       -4031125.177875001
+      ],
+      [
+       16822916.679375,
+       -4031108.8134999983
+      ],
+      [
+       16822928.376374997,
+       -4031091.5063749999
+      ],
+      [
+       16822925.370750003,
+       -4031110.02575
+      ],
+      [
+       16822922.526874997,
+       -4031128.1177500002
+      ],
+      [
+       16822919.647,
+       -4031146.6203749999
+      ],
+      [
+       16822916.757250004,
+       -4031164.8172499985
+      ],
+      [
+       16822913.783624999,
+       -4031183.3523750007
+      ],
+      [
+       16822910.959624998,
+       -4031200.8161250018
+      ],
+      [
+       16822908.033875003,
+       -4031219.0671250001
+      ],
+      [
+       16822962.043375,
+       -4031227.1597499996
+      ],
+      [
+       16822959.028750002,
+       -4031246.0802499987
+      ],
+      [
+       16822955.949375004,
+       -4031264.9875000007
+      ],
+      [
+       16822953.074500002,
+       -4031283.1568749994
+      ],
+      [
+       16822950.178750001,
+       -4031301.3021249995
+      ],
+      [
+       16822947.190125003,
+       -4031319.5894999988
+      ],
+      [
+       16822944.1985,
+       -4031337.8757500015
+      ],
+      [
+       16822938.708250001,
+       -4031371.6791249998
+      ],
+      [
+       16822886.495999999,
+       -4031352.7512499988
+      ],
+      [
+       16822847.333750002,
+       -4031338.5654999986
+      ],
+      [
+       16822837.213375002,
+       -4031319.9242499992
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

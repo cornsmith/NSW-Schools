@@ -1,0 +1,246 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 895547,
+    "createdate": 1241116774000,
+    "gurasid": 68263105,
+    "principaladdresssiteoid": 2687047,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 248188,
+    "uuid": "9b410a33-c378-3b0f-bab3-400c0e43b942",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "150",
+    "address": "150 RAE CRESCENT KOTARA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 790.16621583829522,
+    "shape_Area": 39003.564328473294
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16886587.452,
+       -3888339.1629999988
+      ],
+      [
+       16886583.913625002,
+       -3888341.5471250005
+      ],
+      [
+       16886494.451875001,
+       -3888325.8354999982
+      ],
+      [
+       16886470.997125,
+       -3888321.7163750008
+      ],
+      [
+       16886420.655749999,
+       -3888304.9962499999
+      ],
+      [
+       16886431.597374998,
+       -3888241.9250000007
+      ],
+      [
+       16886434.894374996,
+       -3888222.927875001
+      ],
+      [
+       16886441.068125002,
+       -3888187.3287499994
+      ],
+      [
+       16886443.674500003,
+       -3888172.3044999987
+      ],
+      [
+       16886457.398125,
+       -3888155.5240000002
+      ],
+      [
+       16886494.333125003,
+       -3888110.363499999
+      ],
+      [
+       16886534.057250001,
+       -3888095.6449999996
+      ],
+      [
+       16886567.829000004,
+       -3888083.1322499998
+      ],
+      [
+       16886584.473375,
+       -3888078.7802500017
+      ],
+      [
+       16886601.614749998,
+       -3888077.3735000007
+      ],
+      [
+       16886618.741125003,
+       -3888078.9549999982
+      ],
+      [
+       16886629.348375,
+       -3888080.9277499989
+      ],
+      [
+       16886631.843000002,
+       -3888085.3106250018
+      ],
+      [
+       16886587.452,
+       -3888339.1629999988
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

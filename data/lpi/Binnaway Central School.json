@@ -1,0 +1,372 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3341811,
+    "createdate": 1174928110000,
+    "gurasid": 51672005,
+    "principaladdresssiteoid": 2149429,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 13,
+    "valnetlotcount": 13,
+    "valnetworkflowid": null,
+    "propid": 2629389,
+    "uuid": "00d4f1d9-d673-3c79-ad16-6dfdfe29d046",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "26-28",
+    "address": "26-28 RENSHAW STREET BINNAWAY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 804.91750886644752,
+    "shape_Area": 37796.206101920478
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16628258.239249997,
+       -3704738.631000001
+      ],
+      [
+       16628310.634125002,
+       -3704677.7411249988
+      ],
+      [
+       16628333.941375002,
+       -3704661.1541250013
+      ],
+      [
+       16628337.564625002,
+       -3704654.6283750013
+      ],
+      [
+       16628341.155874997,
+       -3704655.1318750009
+      ],
+      [
+       16628442.269625001,
+       -3704669.3006250001
+      ],
+      [
+       16628452.779124998,
+       -3704670.7737499997
+      ],
+      [
+       16628460.219250001,
+       -3704671.8147500008
+      ],
+      [
+       16628465.726499997,
+       -3704672.5876250006
+      ],
+      [
+       16628489.184249997,
+       -3704675.874499999
+      ],
+      [
+       16628480.839125,
+       -3704736.4342500009
+      ],
+      [
+       16628479.812375002,
+       -3704743.8817499988
+      ],
+      [
+       16628476.563249998,
+       -3704767.4606250003
+      ],
+      [
+       16628471.584875003,
+       -3704803.5857499987
+      ],
+      [
+       16628463.148999996,
+       -3704820.9187499993
+      ],
+      [
+       16628456.691749997,
+       -3704834.1872499995
+      ],
+      [
+       16628449.431249999,
+       -3704849.1057499982
+      ],
+      [
+       16628392.042000003,
+       -3704840.9918750003
+      ],
+      [
+       16628384.006250001,
+       -3704839.8537500016
+      ],
+      [
+       16628325.953374997,
+       -3704831.6449999996
+      ],
+      [
+       16628302.537500001,
+       -3704828.3335000016
+      ],
+      [
+       16628295.722125001,
+       -3704827.3697500005
+      ],
+      [
+       16628258.778125003,
+       -3704822.144749999
+      ],
+      [
+       16628245.274999999,
+       -3704820.234875001
+      ],
+      [
+       16628237.834875003,
+       -3704819.1845000014
+      ],
+      [
+       16628194.231124997,
+       -3704813.0168749988
+      ],
+      [
+       16628258.239249997,
+       -3704738.631000001
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 3416065,
+    "createdate": 1174928110000,
+    "gurasid": 61789600,
+    "principaladdresssiteoid": 2655479,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 2629388,
+    "uuid": "98d8ad99-1bf4-3265-8d94-4b4255dad043",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": null,
+    "address": "RENSHAW STREET BINNAWAY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 565.50680008348218,
+    "shape_Area": 17092.747987325834
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16628316.155374996,
+       -3704685.7131250016
+      ],
+      [
+       16628333.941375002,
+       -3704661.1541250013
+      ],
+      [
+       16628383.914375,
+       -3704722.9444999993
+      ],
+      [
+       16628390.450499997,
+       -3704731.0277500004
+      ],
+      [
+       16628413.024125002,
+       -3704758.9393749982
+      ],
+      [
+       16628445.50575,
+       -3704799.1020000018
+      ],
+      [
+       16628463.148999996,
+       -3704820.9187499993
+      ],
+      [
+       16628456.691749997,
+       -3704834.1872499995
+      ],
+      [
+       16628449.431249999,
+       -3704849.1057499982
+      ],
+      [
+       16628392.042000003,
+       -3704840.9918750003
+      ],
+      [
+       16628384.006250001,
+       -3704839.8537500016
+      ],
+      [
+       16628325.953374997,
+       -3704831.6449999996
+      ],
+      [
+       16628302.537500001,
+       -3704828.3335000016
+      ],
+      [
+       16628295.722125001,
+       -3704827.3697500005
+      ],
+      [
+       16628306.668624997,
+       -3704753.7121249996
+      ],
+      [
+       16628316.155374996,
+       -3704685.7131250016
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

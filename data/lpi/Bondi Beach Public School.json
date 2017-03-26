@@ -1,0 +1,294 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 2797378,
+    "createdate": 1135036800000,
+    "gurasid": 50978000,
+    "principaladdresssiteoid": 1471160,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2076741,
+    "uuid": "2f423680-4950-37ae-acce-a23554aaef22",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "85",
+    "address": "85 WARNERS AVENUE BONDI BEACH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 526.53437004303373,
+    "shape_Area": 15998.466780072034
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16840158.391125001,
+       -4013850.1847499982
+      ],
+      [
+       16840158.639624998,
+       -4013853.1490000002
+      ],
+      [
+       16840158.573749997,
+       -4013855.3777500018
+      ],
+      [
+       16840157.767499998,
+       -4013857.6881249994
+      ],
+      [
+       16840146.184249997,
+       -4013872.618999999
+      ],
+      [
+       16840144.526749998,
+       -4013874.5194999985
+      ],
+      [
+       16840142.788500004,
+       -4013875.9716250002
+      ],
+      [
+       16840140.445500001,
+       -4013878.2976250015
+      ],
+      [
+       16840137.586625002,
+       -4013879.6209999993
+      ],
+      [
+       16840134.274625003,
+       -4013880.3627500013
+      ],
+      [
+       16840127.824500002,
+       -4013880.2039999999
+      ],
+      [
+       16840122.068750001,
+       -4013880.1607500017
+      ],
+      [
+       16840116.312124997,
+       -4013880.2028749995
+      ],
+      [
+       16840110.558375001,
+       -4013880.3266250007
+      ],
+      [
+       16840104.804750003,
+       -4013880.5358750001
+      ],
+      [
+       16840098.477250002,
+       -4013880.8327500001
+      ],
+      [
+       16840092.154749997,
+       -4013881.2222499996
+      ],
+      [
+       16840085.837250002,
+       -4013881.7042500004
+      ],
+      [
+       16840079.52775,
+       -4013882.2776249982
+      ],
+      [
+       16840073.227250002,
+       -4013882.9447499998
+      ],
+      [
+       16840066.937749997,
+       -4013883.7032499984
+      ],
+      [
+       16840060.661124997,
+       -4013884.5520000011
+      ],
+      [
+       16840054.394500002,
+       -4013885.4931249991
+      ],
+      [
+       16840048.142875001,
+       -4013886.52575
+      ],
+      [
+       16840041.912249997,
+       -4013887.6737499982
+      ],
+      [
+       16839995.739,
+       -4013851.1151250005
+      ],
+      [
+       16839954.207874998,
+       -4013818.2337500006
+      ],
+      [
+       16839969.265625,
+       -4013798.7783749998
+      ],
+      [
+       16839981.441624999,
+       -4013783.0469999984
+      ],
+      [
+       16840015.190375,
+       -4013739.4447499998
+      ],
+      [
+       16840158.391125001,
+       -4013850.1847499982
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

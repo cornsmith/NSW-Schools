@@ -1,0 +1,276 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 752714,
+    "createdate": 1135036800000,
+    "gurasid": 51686256,
+    "principaladdresssiteoid": 2157714,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 1527347,
+    "uuid": "ca031c2d-c6c8-317e-aaef-93f3721a0838",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "30A",
+    "address": "30A JACOBSON AVENUE KYEEMAGH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 570.881471562672,
+    "shape_Area": 19238.288699556182
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16827239.587125003,
+       -4022019.2148750015
+      ],
+      [
+       16827211.061125003,
+       -4021984.6921250001
+      ],
+      [
+       16827201.767999999,
+       -4021973.4351250008
+      ],
+      [
+       16827227.350249998,
+       -4021952.449000001
+      ],
+      [
+       16827332.898500003,
+       -4021865.7306249999
+      ],
+      [
+       16827345.587375,
+       -4021874.3110000007
+      ],
+      [
+       16827386.804250002,
+       -4021902.1368749999
+      ],
+      [
+       16827414.439125001,
+       -4021936.6593750007
+      ],
+      [
+       16827379.801250003,
+       -4021964.4336250015
+      ],
+      [
+       16827267.817749999,
+       -4022053.9615000002
+      ],
+      [
+       16827239.587125003,
+       -4022019.2148750015
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 786796,
+    "createdate": 1174917653000,
+    "gurasid": 61630866,
+    "principaladdresssiteoid": 2678330,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 1527346,
+    "uuid": "a6f703f8-6646-3b9e-8cb1-72409da6ec41",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "30B",
+    "address": "30B JACOBSON AVENUE KYEEMAGH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 482.21713236811894,
+    "shape_Area": 10871.762843936032
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16827386.804250002,
+       -4021902.1368749999
+      ],
+      [
+       16827239.587125003,
+       -4022019.2148750015
+      ],
+      [
+       16827211.061125003,
+       -4021984.6921250001
+      ],
+      [
+       16827201.767999999,
+       -4021973.4351250008
+      ],
+      [
+       16827227.350249998,
+       -4021952.449000001
+      ],
+      [
+       16827332.898500003,
+       -4021865.7306249999
+      ],
+      [
+       16827345.587375,
+       -4021874.3110000007
+      ],
+      [
+       16827386.804250002,
+       -4021902.1368749999
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

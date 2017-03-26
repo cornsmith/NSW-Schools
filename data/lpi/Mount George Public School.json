@@ -1,0 +1,230 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3333984,
+    "createdate": 1135036800000,
+    "gurasid": 51659300,
+    "principaladdresssiteoid": 2131599,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 4,
+    "valnetlotcount": 4,
+    "valnetworkflowid": null,
+    "propid": 1792002,
+    "uuid": "d9d43c78-40d9-3700-88bf-720f7c4889aa",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "1524",
+    "address": "1524 NOWENDOC ROAD MOUNT GEORGE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 791.32971691499654,
+    "shape_Area": 29005.131264897922
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16940470.088500001,
+       -3747769.3255000003
+      ],
+      [
+       16940486.949375004,
+       -3747653.5107499994
+      ],
+      [
+       16940493.801749997,
+       -3747606.4455000013
+      ],
+      [
+       16940518.395125002,
+       -3747573.3186249994
+      ],
+      [
+       16940537.839500003,
+       -3747564.3136250004
+      ],
+      [
+       16940647.289499998,
+       -3747584.1427499987
+      ],
+      [
+       16940633.299374998,
+       -3747687.0491250008
+      ],
+      [
+       16940633.279375002,
+       -3747687.0456250012
+      ],
+      [
+       16940611.354249999,
+       -3747680.5529999994
+      ],
+      [
+       16940582.031000003,
+       -3747671.8698749989
+      ],
+      [
+       16940557.033500001,
+       -3747828.506000001
+      ],
+      [
+       16940532.631624997,
+       -3747840.0764999986
+      ],
+      [
+       16940519.96875,
+       -3747819.4443750009
+      ],
+      [
+       16940466.194750004,
+       -3747796.0694999993
+      ],
+      [
+       16940470.088500001,
+       -3747769.3255000003
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

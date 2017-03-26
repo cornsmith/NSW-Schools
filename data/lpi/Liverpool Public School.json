@@ -1,0 +1,294 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1104462,
+    "createdate": 1447718268000,
+    "gurasid": 79832250,
+    "principaladdresssiteoid": 3661548,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 18,
+    "valnetlotcount": 18,
+    "valnetworkflowid": null,
+    "propid": 3884487,
+    "uuid": "bca60e47-fde8-388e-bfdf-343df1df5a56",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": null,
+    "address": "RAILWAY STREET LIVERPOOL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 641.30293551994748,
+    "shape_Area": 24202.394635055549
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16801066.420874998,
+       -4018621.9814999998
+      ],
+      [
+       16801063.429250002,
+       -4018641.3909999989
+      ],
+      [
+       16801038.157375,
+       -4018637.4237499982
+      ],
+      [
+       16801028.109875001,
+       -4018635.8460000008
+      ],
+      [
+       16801010.885624997,
+       -4018633.1413750015
+      ],
+      [
+       16800915.208374999,
+       -4018618.1176250018
+      ],
+      [
+       16800912.249624997,
+       -4018613.9807499982
+      ],
+      [
+       16800913.438124999,
+       -4018607.118999999
+      ],
+      [
+       16800915.822999999,
+       -4018593.3363750018
+      ],
+      [
+       16800920.044,
+       -4018569.3763750009
+      ],
+      [
+       16800921.939874999,
+       -4018558.6206250004
+      ],
+      [
+       16800925.039250001,
+       -4018541.4576250017
+      ],
+      [
+       16800928.131624997,
+       -4018527.08825
+      ],
+      [
+       16800933.8495,
+       -4018500.2013750002
+      ],
+      [
+       16800934.137874998,
+       -4018498.6693749987
+      ],
+      [
+       16800935.945,
+       -4018488.2492499985
+      ],
+      [
+       16800937.365874998,
+       -4018479.2793750018
+      ],
+      [
+       16800941.653750002,
+       -4018452.2109999992
+      ],
+      [
+       16800945.796875,
+       -4018449.2191249989
+      ],
+      [
+       16800962.059124999,
+       -4018451.9176249988
+      ],
+      [
+       16800975.040375002,
+       -4018454.066624999
+      ],
+      [
+       16800993.745375,
+       -4018457.1583749987
+      ],
+      [
+       16801000.2425,
+       -4018458.2526249997
+      ],
+      [
+       16801031.410750002,
+       -4018463.4561249986
+      ],
+      [
+       16801054.091250002,
+       -4018467.2164999992
+      ],
+      [
+       16801047.022375003,
+       -4018513.1433750018
+      ],
+      [
+       16801082.375749998,
+       -4018518.1785000004
+      ],
+      [
+       16801079.637625001,
+       -4018536.1939999983
+      ],
+      [
+       16801070.807499997,
+       -4018593.2737499997
+      ],
+      [
+       16801068.983374998,
+       -4018605.3547499999
+      ],
+      [
+       16801066.420874998,
+       -4018621.9814999998
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

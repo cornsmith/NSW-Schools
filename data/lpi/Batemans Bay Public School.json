@@ -1,0 +1,234 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3168912,
+    "createdate": 1337026619000,
+    "gurasid": 51447037,
+    "principaladdresssiteoid": 1902019,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2942147,
+    "uuid": "368ccd99-daf0-3e4f-a804-e2a8ba325316",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "3",
+    "address": "3 MUNDARRA WAY NORTH BATEMANS BAY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 967.00589755822216,
+    "shape_Area": 50021.762228518091
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16718952.731875002,
+       -4259408.5080000013
+      ],
+      [
+       16718926.552874997,
+       -4259561.7761249989
+      ],
+      [
+       16718908.678999998,
+       -4259558.6796250008
+      ],
+      [
+       16718895.678874999,
+       -4259566.3963750005
+      ],
+      [
+       16718854.272375003,
+       -4259597.46875
+      ],
+      [
+       16718801.340625003,
+       -4259577.4664999992
+      ],
+      [
+       16718780.910374999,
+       -4259520.0072499998
+      ],
+      [
+       16718803.894125,
+       -4259453.8668750003
+      ],
+      [
+       16718788.183750004,
+       -4259446.4242499992
+      ],
+      [
+       16718811.412124999,
+       -4259391.6185000017
+      ],
+      [
+       16718778.786875002,
+       -4259312.6126249991
+      ],
+      [
+       16718880.579125002,
+       -4259258.822625
+      ],
+      [
+       16718978.290124997,
+       -4259293.3187500015
+      ],
+      [
+       16719003.192874998,
+       -4259302.1128749996
+      ],
+      [
+       16718987.422624998,
+       -4259394.8563750014
+      ],
+      [
+       16718952.731875002,
+       -4259408.5080000013
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

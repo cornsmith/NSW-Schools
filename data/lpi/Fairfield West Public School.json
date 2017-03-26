@@ -1,0 +1,298 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3349833,
+    "createdate": 1137974400000,
+    "gurasid": 51685265,
+    "principaladdresssiteoid": 2162588,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 9,
+    "valnetlotcount": 9,
+    "valnetworkflowid": null,
+    "propid": 2413698,
+    "uuid": "dff47364-ab42-304a-9c56-93561addeb54",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "358-364",
+    "address": "358-364 HAMILTON ROAD FAIRFIELD WEST",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 975.675092784821,
+    "shape_Area": 43106.10402920864
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16800897.153999999,
+       -4011283.1552500017
+      ],
+      [
+       16800886.891874999,
+       -4011289.8805
+      ],
+      [
+       16800872.507624999,
+       -4011285.9842500016
+      ],
+      [
+       16800835.633500002,
+       -4011276.0898750015
+      ],
+      [
+       16800817.608125001,
+       -4011272.1407499984
+      ],
+      [
+       16800815.360875003,
+       -4011271.6527500004
+      ],
+      [
+       16800795.767750002,
+       -4011267.3636250012
+      ],
+      [
+       16800777.851125002,
+       -4011263.4517499991
+      ],
+      [
+       16800788.681000002,
+       -4011193.6527500004
+      ],
+      [
+       16800788.956375003,
+       -4011191.8848749995
+      ],
+      [
+       16800790.771499999,
+       -4011180.1915000007
+      ],
+      [
+       16800813.040875003,
+       -4011036.666375
+      ],
+      [
+       16800814.806125,
+       -4011025.2965000011
+      ],
+      [
+       16800818.967124999,
+       -4011000.4282499999
+      ],
+      [
+       16800821.887874998,
+       -4010981.7658750005
+      ],
+      [
+       16800824.78475,
+       -4010963.2454999983
+      ],
+      [
+       16800827.751374997,
+       -4010944.3044999987
+      ],
+      [
+       16800830.715999998,
+       -4010925.3406249993
+      ],
+      [
+       16800834.227499999,
+       -4010903.0227500014
+      ],
+      [
+       16800844.523500003,
+       -4010904.6440000013
+      ],
+      [
+       16800862.566875003,
+       -4010907.4897500016
+      ],
+      [
+       16800880.737999998,
+       -4010910.3571249992
+      ],
+      [
+       16800893.445874996,
+       -4010912.3520000018
+      ],
+      [
+       16800889.754749998,
+       -4010936.3367500007
+      ],
+      [
+       16800949.646624997,
+       -4010945.6828749999
+      ],
+      [
+       16800941.351374999,
+       -4010999.188000001
+      ],
+      [
+       16800937.071625002,
+       -4011026.6508749984
+      ],
+      [
+       16800932.341624998,
+       -4011056.7841250002
+      ],
+      [
+       16800930.454750001,
+       -4011068.7562500015
+      ],
+      [
+       16800908.1105,
+       -4011212.7685000002
+      ],
+      [
+       16800904.267750002,
+       -4011237.4833750017
+      ],
+      [
+       16800897.153999999,
+       -4011283.1552500017
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

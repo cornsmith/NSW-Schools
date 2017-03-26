@@ -1,0 +1,270 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1509151,
+    "createdate": 1228482919000,
+    "gurasid": 65500498,
+    "principaladdresssiteoid": 2905303,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 13,
+    "valnetlotcount": 13,
+    "valnetworkflowid": null,
+    "propid": 3411351,
+    "uuid": "de86a497-d64f-34ed-a7bc-43943ed27e82",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "14",
+    "address": "14 HOBART AVENUE UMINA BEACH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 780.50995610554003,
+    "shape_Area": 32254.229867663904
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16844264.198250003,
+       -3965181.1452500001
+      ],
+      [
+       16844261.429125004,
+       -3965344.2362499982
+      ],
+      [
+       16844158.380500004,
+       -3965326.5097500011
+      ],
+      [
+       16844127.738124996,
+       -3965321.2381250001
+      ],
+      [
+       16844144.578000002,
+       -3965205.1592499986
+      ],
+      [
+       16844148.487750001,
+       -3965178.2006249987
+      ],
+      [
+       16844155.530625001,
+       -3965129.6616250016
+      ],
+      [
+       16844157.651124999,
+       -3965115.0428749993
+      ],
+      [
+       16844158.379500002,
+       -3965110.0274999999
+      ],
+      [
+       16844159.766625002,
+       -3965100.4648750015
+      ],
+      [
+       16844161.861125,
+       -3965086.0281249993
+      ],
+      [
+       16844163.942625001,
+       -3965071.6727499999
+      ],
+      [
+       16844165.491374999,
+       -3965061.0028750002
+      ],
+      [
+       16844169.577624999,
+       -3965058.0152500011
+      ],
+      [
+       16844218.077875003,
+       -3965066.3390000015
+      ],
+      [
+       16844222.608125001,
+       -3965067.1157499999
+      ],
+      [
+       16844225.871124998,
+       -3965067.675999999
+      ],
+      [
+       16844274.605875,
+       -3965076.0416250005
+      ],
+      [
+       16844278.003624998,
+       -3965080.7003749982
+      ],
+      [
+       16844276.567749999,
+       -3965091.1463750005
+      ],
+      [
+       16844274.593000002,
+       -3965105.519749999
+      ],
+      [
+       16844272.605250001,
+       -3965119.9745000005
+      ],
+      [
+       16844270.5995,
+       -3965134.5716250017
+      ],
+      [
+       16844268.587750003,
+       -3965149.2108750008
+      ],
+      [
+       16844264.198250003,
+       -3965181.1452500001
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

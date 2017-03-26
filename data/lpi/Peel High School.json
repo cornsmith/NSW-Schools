@@ -1,0 +1,286 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3399691,
+    "createdate": 1283703839000,
+    "gurasid": 51775258,
+    "principaladdresssiteoid": 3003488,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 2761754,
+    "uuid": "cf3dfea3-8900-3838-be81-b03b6e85a0f3",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "88",
+    "address": "88 GUNNEDAH ROAD WEST TAMWORTH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1319.8860679054724,
+    "shape_Area": 106194.16142375552
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16797465.001999997,
+       -3645877.3949999996
+      ],
+      [
+       16797464.198749997,
+       -3645915.8118750006
+      ],
+      [
+       16797432.406750001,
+       -3645913.0778749995
+      ],
+      [
+       16797388.798,
+       -3645909.3264999986
+      ],
+      [
+       16797334.448250003,
+       -3645904.8176250011
+      ],
+      [
+       16797272.517624997,
+       -3645899.6806249991
+      ],
+      [
+       16797261.047250003,
+       -3645872.2323749997
+      ],
+      [
+       16797178.709375001,
+       -3645677.8217500001
+      ],
+      [
+       16797148.143749997,
+       -3645531.2178750001
+      ],
+      [
+       16797170.417000003,
+       -3645503.8346249983
+      ],
+      [
+       16797264.499875002,
+       -3645519.953625001
+      ],
+      [
+       16797310.595250003,
+       -3645528.4198749997
+      ],
+      [
+       16797338.237125002,
+       -3645533.4961250015
+      ],
+      [
+       16797473.760250002,
+       -3645558.3845000006
+      ],
+      [
+       16797512.148125,
+       -3645565.4337499999
+      ],
+      [
+       16797505.074249998,
+       -3645606.4552499987
+      ],
+      [
+       16797500.783500001,
+       -3645631.3367500007
+      ],
+      [
+       16797497.139250003,
+       -3645652.4671249986
+      ],
+      [
+       16797493.616750002,
+       -3645672.8900000006
+      ],
+      [
+       16797490.156125002,
+       -3645692.9633749984
+      ],
+      [
+       16797486.694624998,
+       -3645713.0343750007
+      ],
+      [
+       16797483.233000003,
+       -3645733.1078750007
+      ],
+      [
+       16797479.772375003,
+       -3645753.1801250018
+      ],
+      [
+       16797476.31075,
+       -3645773.2512499988
+      ],
+      [
+       16797472.849250004,
+       -3645793.3247499987
+      ],
+      [
+       16797469.387625001,
+       -3645813.3960000016
+      ],
+      [
+       16797465.919,
+       -3645833.5092500001
+      ],
+      [
+       16797465.398125,
+       -3645858.4598749988
+      ],
+      [
+       16797465.001999997,
+       -3645877.3949999996
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

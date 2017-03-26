@@ -1,0 +1,242 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 500027,
+    "createdate": 1135036800000,
+    "gurasid": 50936809,
+    "principaladdresssiteoid": 1435426,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 1457311,
+    "uuid": "47621420-7a3d-3cdb-8f1c-53221e128c41",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "66",
+    "address": "66 VICTORIA AVENUE CONCORD WEST",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 483.91193123550141,
+    "shape_Area": 13072.554492897527
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16818522.030125,
+       -4008434.1133750007
+      ],
+      [
+       16818526.906625003,
+       -4008447.1400000006
+      ],
+      [
+       16818531.744374998,
+       -4008460.1006250009
+      ],
+      [
+       16818536.203749999,
+       -4008472.0652500018
+      ],
+      [
+       16818540.423749998,
+       -4008483.3101250008
+      ],
+      [
+       16818544.88425,
+       -4008495.2722500004
+      ],
+      [
+       16818550.310625002,
+       -4008509.9860000014
+      ],
+      [
+       16818555.9745,
+       -4008525.3376250006
+      ],
+      [
+       16818561.425875001,
+       -4008539.8338750005
+      ],
+      [
+       16818561.537625,
+       -4008540.1162500009
+      ],
+      [
+       16818521.211874999,
+       -4008535.083124999
+      ],
+      [
+       16818522.370375,
+       -4008541.6337499991
+      ],
+      [
+       16818420.781625003,
+       -4008525.9432500005
+      ],
+      [
+       16818442.839500003,
+       -4008410.7958750017
+      ],
+      [
+       16818450.192749999,
+       -4008411.4951249994
+      ],
+      [
+       16818482.313000001,
+       -4008414.5505000018
+      ],
+      [
+       16818510.368000001,
+       -4008402.8167500012
+      ],
+      [
+       16818522.030125,
+       -4008434.1133750007
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

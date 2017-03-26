@@ -1,0 +1,294 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 2641984,
+    "createdate": 1137974400000,
+    "gurasid": 50777013,
+    "principaladdresssiteoid": 1289440,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2219395,
+    "uuid": "aa480572-9fc8-3e6a-886b-b08f07f7bfcf",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "31",
+    "address": "31 MEDLOW DRIVE QUAKERS HILL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 965.80069743400588,
+    "shape_Area": 49635.169791581546
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16796444.756125003,
+       -3993746.1539999992
+      ],
+      [
+       16796421.863124996,
+       -3993774.1203749999
+      ],
+      [
+       16796298.284500003,
+       -3993662.5852500014
+      ],
+      [
+       16796295.744874999,
+       -3993657.9271249995
+      ],
+      [
+       16796296.086125001,
+       -3993653.8112500012
+      ],
+      [
+       16796300.422875002,
+       -3993648.363499999
+      ],
+      [
+       16796457.694499999,
+       -3993509.3978749998
+      ],
+      [
+       16796474.32,
+       -3993494.7010000013
+      ],
+      [
+       16796538.532624997,
+       -3993437.9910000004
+      ],
+      [
+       16796556.073124997,
+       -3993454.0124999993
+      ],
+      [
+       16796570.25575,
+       -3993467.0293750018
+      ],
+      [
+       16796584.630999997,
+       -3993480.1553750001
+      ],
+      [
+       16796599.133000001,
+       -3993493.4146250002
+      ],
+      [
+       16796613.178000003,
+       -3993506.2647500001
+      ],
+      [
+       16796626.754874997,
+       -3993518.6290000007
+      ],
+      [
+       16796640.153250001,
+       -3993530.8311249986
+      ],
+      [
+       16796611.652249999,
+       -3993557.1710000001
+      ],
+      [
+       16796598.28475,
+       -3993569.5221249983
+      ],
+      [
+       16796586.982000001,
+       -3993579.9663750008
+      ],
+      [
+       16796574.831,
+       -3993591.1966250017
+      ],
+      [
+       16796563.257749997,
+       -3993601.890625
+      ],
+      [
+       16796561.602250002,
+       -3993603.4193749987
+      ],
+      [
+       16796551.93,
+       -3993615.2352499999
+      ],
+      [
+       16796540.839625001,
+       -3993628.7838749997
+      ],
+      [
+       16796530.891000003,
+       -3993640.9357500002
+      ],
+      [
+       16796521.2685,
+       -3993652.6892499998
+      ],
+      [
+       16796511.114249997,
+       -3993665.0943749994
+      ],
+      [
+       16796501.417000003,
+       -3993676.9391250014
+      ],
+      [
+       16796489.915624999,
+       -3993690.989374999
+      ],
+      [
+       16796480.078625001,
+       -3993703.0057500005
+      ],
+      [
+       16796444.756125003,
+       -3993746.1539999992
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

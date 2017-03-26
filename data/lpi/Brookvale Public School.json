@@ -1,0 +1,266 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3357955,
+    "createdate": 1137974400000,
+    "gurasid": 51698504,
+    "principaladdresssiteoid": 2170800,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 12,
+    "valnetlotcount": 12,
+    "valnetworkflowid": null,
+    "propid": 929924,
+    "uuid": "adced558-e87f-3de9-a09b-715cca80b9e6",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "2-8",
+    "address": "2-8 OLD PITTWATER ROAD BROOKVALE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 670.70941159520191,
+    "shape_Area": 26150.176538691539
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16839419.9745,
+       -3996741.6277500018
+      ],
+      [
+       16839436.298625,
+       -3996764.7702500001
+      ],
+      [
+       16839450.594999999,
+       -3996785.0873750001
+      ],
+      [
+       16839489.888999999,
+       -3996841.0241249986
+      ],
+      [
+       16839468.314125001,
+       -3996856.0217499994
+      ],
+      [
+       16839452.637625001,
+       -3996866.9191249982
+      ],
+      [
+       16839410.317125,
+       -3996896.3394999988
+      ],
+      [
+       16839397.467625,
+       -3996905.3368749991
+      ],
+      [
+       16839381.994750001,
+       -3996916.1227499992
+      ],
+      [
+       16839366.166625001,
+       -3996927.1306249984
+      ],
+      [
+       16839359.815125003,
+       -3996931.5104999989
+      ],
+      [
+       16839355.968374997,
+       -3996933.6842500009
+      ],
+      [
+       16839341.429499999,
+       -3996941.8317500018
+      ],
+      [
+       16839323.337250002,
+       -3996951.8878749982
+      ],
+      [
+       16839314.068000004,
+       -3996948.644749999
+      ],
+      [
+       16839280.277249999,
+       -3996936.7906249985
+      ],
+      [
+       16839306.210874997,
+       -3996789.9377500005
+      ],
+      [
+       16839308.943999998,
+       -3996774.401250001
+      ],
+      [
+       16839311.165250003,
+       -3996761.7707500011
+      ],
+      [
+       16839364.724624999,
+       -3996771.5626249984
+      ],
+      [
+       16839378.198875003,
+       -3996757.6646250002
+      ],
+      [
+       16839386.408249997,
+       -3996759.2729999982
+      ],
+      [
+       16839403.99075,
+       -3996738.5789999999
+      ],
+      [
+       16839419.9745,
+       -3996741.6277500018
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3347810,
+    "createdate": 1135036800000,
+    "gurasid": 51682073,
+    "principaladdresssiteoid": 2159115,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 20,
+    "valnetlotcount": 20,
+    "valnetworkflowid": null,
+    "propid": 1617565,
+    "uuid": "b4e85bb4-6eab-30d5-a660-cf3f6ed9d3cb",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "52-70",
+    "address": "52-70 NORTHCOTE AVENUE CARINGBAH SOUTH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 763.50974539482127,
+    "shape_Area": 33479.913207144491
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16822803.263999999,
+       -4036007.5443749987
+      ],
+      [
+       16822805.067125,
+       -4035995.8460000008
+      ],
+      [
+       16822806.979000002,
+       -4035983.3249999993
+      ],
+      [
+       16822809.006750003,
+       -4035970.1573750004
+      ],
+      [
+       16822810.690125003,
+       -4035959.0912499987
+      ],
+      [
+       16822814.407125004,
+       -4035934.8563750014
+      ],
+      [
+       16822818.130125001,
+       -4035910.6251249984
+      ],
+      [
+       16822821.196625002,
+       -4035890.6707499996
+      ],
+      [
+       16822828.899125002,
+       -4035892.047375001
+      ],
+      [
+       16822896.166249998,
+       -4035904.0540000014
+      ],
+      [
+       16822920.193875,
+       -4035908.3356250003
+      ],
+      [
+       16822944.226499997,
+       -4035912.6268749982
+      ],
+      [
+       16822968.261124998,
+       -4035916.9193749987
+      ],
+      [
+       16822992.295625001,
+       -4035921.2117500007
+      ],
+      [
+       16823016.330250002,
+       -4035925.5055
+      ],
+      [
+       16823040.367875002,
+       -4035929.8027499989
+      ],
+      [
+       16823064.409374997,
+       -4035934.1156250015
+      ],
+      [
+       16823052.172624998,
+       -4036001.8523750007
+      ],
+      [
+       16823040.081500001,
+       -4036068.7102500014
+      ],
+      [
+       16823016.095749997,
+       -4036064.3622500002
+      ],
+      [
+       16822992.086125001,
+       -4036060.0192500018
+      ],
+      [
+       16822968.069499999,
+       -4036055.6785000004
+      ],
+      [
+       16822944.052874997,
+       -4036051.3353749998
+      ],
+      [
+       16822920.034249999,
+       -4036046.9911249988
+      ],
+      [
+       16822896.017624997,
+       -4036042.6467499994
+      ],
+      [
+       16822872,
+       -4036038.3012499996
+      ],
+      [
+       16822800.544749998,
+       -4036025.3358750008
+      ],
+      [
+       16822803.263999999,
+       -4036007.5443749987
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

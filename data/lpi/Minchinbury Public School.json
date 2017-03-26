@@ -1,0 +1,270 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 2220008,
+    "createdate": 1137974400000,
+    "gurasid": 50231203,
+    "principaladdresssiteoid": 721415,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2201535,
+    "uuid": "542212fd-178e-320d-ac6f-e87220bd3cec",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "202",
+    "address": "202 MCFARLANE DRIVE MINCHINBURY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 841.86322309159698,
+    "shape_Area": 43440.032181665556
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16790618.295374997,
+       -4000343.9376249984
+      ],
+      [
+       16790709.093125001,
+       -4000449.3733749986
+      ],
+      [
+       16790713.370999999,
+       -4000473.8332500011
+      ],
+      [
+       16790691.799125001,
+       -4000493.1196249984
+      ],
+      [
+       16790660.264624998,
+       -4000521.3244999982
+      ],
+      [
+       16790651.614124998,
+       -4000591.3887500018
+      ],
+      [
+       16790650.004625,
+       -4000603.5587499999
+      ],
+      [
+       16790636.849749997,
+       -4000599.2135000005
+      ],
+      [
+       16790616.868500002,
+       -4000592.5989999995
+      ],
+      [
+       16790594.603124999,
+       -4000585.2316249982
+      ],
+      [
+       16790574.042999998,
+       -4000571.9257499985
+      ],
+      [
+       16790555.00175,
+       -4000559.6020000018
+      ],
+      [
+       16790536.569250003,
+       -4000547.6732500009
+      ],
+      [
+       16790518.949874997,
+       -4000536.2705000006
+      ],
+      [
+       16790501.937250003,
+       -4000525.2591250017
+      ],
+      [
+       16790485.228,
+       -4000514.4458750002
+      ],
+      [
+       16790460.762374997,
+       -4000498.6042499989
+      ],
+      [
+       16790500.592124999,
+       -4000379.256000001
+      ],
+      [
+       16790503.14175,
+       -4000373.8289999999
+      ],
+      [
+       16790510.109750003,
+       -4000364.2789999992
+      ],
+      [
+       16790516.092,
+       -4000341.3597499989
+      ],
+      [
+       16790516.758625001,
+       -4000332.4664999992
+      ],
+      [
+       16790517.939999998,
+       -4000327.2737499997
+      ],
+      [
+       16790525.43,
+       -4000304.8323750012
+      ],
+      [
+       16790618.295374997,
+       -4000343.9376249984
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

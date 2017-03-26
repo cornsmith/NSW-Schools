@@ -1,0 +1,334 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 2565238,
+    "createdate": 1339112466000,
+    "gurasid": 50673127,
+    "principaladdresssiteoid": 1180338,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 438004,
+    "uuid": "1cbe27e1-2541-3721-b58a-4a85468bb639",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "1A",
+    "address": "1A UNION STREET GOULBURN",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 907.62606026177491,
+    "shape_Area": 33582.908582399563
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16668564.597000003,
+       -4129162.5948750004
+      ],
+      [
+       16668563.250875004,
+       -4129164.4892500006
+      ],
+      [
+       16668561.912749998,
+       -4129166.3898749985
+      ],
+      [
+       16668560.582625002,
+       -4129168.2939999998
+      ],
+      [
+       16668559.259374999,
+       -4129170.2053750008
+      ],
+      [
+       16668557.94325,
+       -4129172.1204999983
+      ],
+      [
+       16668556.634999998,
+       -4129174.0416250005
+      ],
+      [
+       16668555.334749997,
+       -4129175.9676249996
+      ],
+      [
+       16668554.042625003,
+       -4129177.8984999992
+      ],
+      [
+       16668552.757375002,
+       -4129179.8354999982
+      ],
+      [
+       16668551.479999997,
+       -4129181.7772499993
+      ],
+      [
+       16668517.323124997,
+       -4129233.9195000008
+      ],
+      [
+       16668385.492124997,
+       -4129286.4942499995
+      ],
+      [
+       16668378.64875,
+       -4129289.2230000012
+      ],
+      [
+       16668373.163500004,
+       -4129291.4101249985
+      ],
+      [
+       16668273.054624997,
+       -4129331.3335000016
+      ],
+      [
+       16668286.976750001,
+       -4129258.0155000016
+      ],
+      [
+       16668288.628250003,
+       -4129249.3203749992
+      ],
+      [
+       16668296.840750001,
+       -4129206.0686249994
+      ],
+      [
+       16668297.666874997,
+       -4129201.7138749994
+      ],
+      [
+       16668311.035374999,
+       -4129131.3136250004
+      ],
+      [
+       16668431.088500001,
+       -4129154.4317499995
+      ],
+      [
+       16668449.274625003,
+       -4129157.9388750009
+      ],
+      [
+       16668469.744874999,
+       -4129161.8868749999
+      ],
+      [
+       16668475.812875003,
+       -4129163.057500001
+      ],
+      [
+       16668511.520499997,
+       -4129148.828625001
+      ],
+      [
+       16668499.879375003,
+       -4129118.4496250004
+      ],
+      [
+       16668545.016874999,
+       -4129127.1409999989
+      ],
+      [
+       16668581.410999998,
+       -4129134.1491249986
+      ],
+      [
+       16668579.893250003,
+       -4129142.1216249987
+      ],
+      [
+       16668578.466375001,
+       -4129143.9552499987
+      ],
+      [
+       16668577.045374997,
+       -4129145.7938750014
+      ],
+      [
+       16668575.633374996,
+       -4129147.6385000013
+      ],
+      [
+       16668574.227375001,
+       -4129149.4880000018
+      ],
+      [
+       16668572.829374999,
+       -4129151.3436250016
+      ],
+      [
+       16668571.439374998,
+       -4129153.2052499987
+      ],
+      [
+       16668570.055375002,
+       -4129155.0729999989
+      ],
+      [
+       16668568.680249996,
+       -4129156.9455000013
+      ],
+      [
+       16668567.311125003,
+       -4129158.8229999989
+      ],
+      [
+       16668565.950125001,
+       -4129160.7065000013
+      ],
+      [
+       16668564.597000003,
+       -4129162.5948750004
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

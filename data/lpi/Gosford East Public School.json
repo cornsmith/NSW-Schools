@@ -1,0 +1,262 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3492215,
+    "createdate": 1229557313000,
+    "gurasid": 65783610,
+    "principaladdresssiteoid": 2930102,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 4,
+    "valnetlotcount": 4,
+    "valnetworkflowid": null,
+    "propid": 3373494,
+    "uuid": "2cb99f5c-d623-3246-a00a-b1eb50966fea",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "47",
+    "address": "47 YORK STREET EAST GOSFORD",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 950.76919305179001,
+    "shape_Area": 44937.918003628729
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16848099.6655,
+       -3953619.1296250001
+      ],
+      [
+       16848134.716499999,
+       -3953670.3228750005
+      ],
+      [
+       16848017.181000002,
+       -3953651.6468750015
+      ],
+      [
+       16848000.502625003,
+       -3953642.7848750018
+      ],
+      [
+       16847993.90975,
+       -3953630.4023750015
+      ],
+      [
+       16847991.489875004,
+       -3953630.0208749995
+      ],
+      [
+       16848008.355875,
+       -3953526.0219999999
+      ],
+      [
+       16848005.150624998,
+       -3953499.5329999998
+      ],
+      [
+       16847980.789750002,
+       -3953495.4613750018
+      ],
+      [
+       16847957.137374997,
+       -3953491.5081249997
+      ],
+      [
+       16847977.892999999,
+       -3953379.0766250007
+      ],
+      [
+       16847986.075499997,
+       -3953380.5833749995
+      ],
+      [
+       16848001.223125003,
+       -3953383.2618749999
+      ],
+      [
+       16848025.336499996,
+       -3953387.5236250013
+      ],
+      [
+       16848125.596000001,
+       -3953405.2461250015
+      ],
+      [
+       16848142.963875003,
+       -3953429.1483750008
+      ],
+      [
+       16848164.509875,
+       -3953458.8012499996
+      ],
+      [
+       16848173.289999999,
+       -3953470.8845000006
+      ],
+      [
+       16848202.482625,
+       -3953512.3900000006
+      ],
+      [
+       16848195.686125003,
+       -3953552.167750001
+      ],
+      [
+       16848170.013999999,
+       -3953570.0698749982
+      ],
+      [
+       16848119.585874997,
+       -3953605.2381250001
+      ],
+      [
+       16848099.6655,
+       -3953619.1296250001
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

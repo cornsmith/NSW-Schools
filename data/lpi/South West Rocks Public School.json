@@ -1,0 +1,282 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3402409,
+    "createdate": 1386272702000,
+    "gurasid": 51793180,
+    "principaladdresssiteoid": 2241256,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 17,
+    "valnetlotcount": 17,
+    "valnetworkflowid": null,
+    "propid": 1730722,
+    "uuid": "83d942ae-2eb4-3608-8c7d-3e287110ec3a",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "62-82",
+    "address": "62-82 GREGORY STREET SOUTH WEST ROCKS",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 765.36021240491004,
+    "shape_Area": 34907.363579787387
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17036369.447375,
+       -3618780.5467500016
+      ],
+      [
+       17036366.456749998,
+       -3618799.2078749985
+      ],
+      [
+       17036327.269625001,
+       -3618792.863499999
+      ],
+      [
+       17036308.895874999,
+       -3618789.8877499998
+      ],
+      [
+       17036256.704499997,
+       -3618781.4375
+      ],
+      [
+       17036235.1765,
+       -3618673.9061250016
+      ],
+      [
+       17036234.655625001,
+       -3618658.6626249999
+      ],
+      [
+       17036233.338500001,
+       -3618618.7314999998
+      ],
+      [
+       17036232.022249997,
+       -3618578.8223749995
+      ],
+      [
+       17036230.815875001,
+       -3618542.245000001
+      ],
+      [
+       17036231.713,
+       -3618539.0763750002
+      ],
+      [
+       17036303.714000002,
+       -3618550.6799999997
+      ],
+      [
+       17036316.531499997,
+       -3618552.7463749982
+      ],
+      [
+       17036325.951375,
+       -3618554.2638750002
+      ],
+      [
+       17036364.454999998,
+       -3618560.4697499983
+      ],
+      [
+       17036376.859499998,
+       -3618562.4767500013
+      ],
+      [
+       17036384.041125,
+       -3618563.6396250017
+      ],
+      [
+       17036403.626249999,
+       -3618566.8106250018
+      ],
+      [
+       17036396.206124999,
+       -3618613.2917499989
+      ],
+      [
+       17036393.338249996,
+       -3618631.2573749982
+      ],
+      [
+       17036390.358625002,
+       -3618649.9193749987
+      ],
+      [
+       17036387.380000003,
+       -3618668.5827500001
+      ],
+      [
+       17036384.397375003,
+       -3618687.2437499985
+      ],
+      [
+       17036381.407750003,
+       -3618705.9047500007
+      ],
+      [
+       17036378.417125002,
+       -3618724.5646249987
+      ],
+      [
+       17036375.427625,
+       -3618743.2256250009
+      ],
+      [
+       17036372.436999999,
+       -3618761.8867500015
+      ],
+      [
+       17036369.447375,
+       -3618780.5467500016
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

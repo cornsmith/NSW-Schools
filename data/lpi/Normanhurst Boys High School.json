@@ -1,0 +1,286 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 679255,
+    "createdate": 1137974400000,
+    "gurasid": 51462777,
+    "principaladdresssiteoid": 1954134,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 664400,
+    "uuid": "4a2d7720-75f7-31bf-8f73-fff46b330345",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "52-74",
+    "address": "52-74 PENNANT HILLS ROAD NORMANHURST",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1223.3742844485325,
+    "shape_Area": 88236.30720143074
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16820623.407499999,
+       -3991367.120000001
+      ],
+      [
+       16820634.674374998,
+       -3991384.1834999993
+      ],
+      [
+       16820701.031499997,
+       -3991484.6613750011
+      ],
+      [
+       16820727.522749998,
+       -3991524.7933750004
+      ],
+      [
+       16820726.403125003,
+       -3991528.1634999998
+      ],
+      [
+       16820718.619874999,
+       -3991530.7285000011
+      ],
+      [
+       16820695.722750001,
+       -3991538.391125001
+      ],
+      [
+       16820693.19325,
+       -3991539.2226249985
+      ],
+      [
+       16820662.589625001,
+       -3991551.1983750015
+      ],
+      [
+       16820634.739249997,
+       -3991564.8825000003
+      ],
+      [
+       16820624.276625,
+       -3991571.4533750005
+      ],
+      [
+       16820598.267250001,
+       -3991587.7375000007
+      ],
+      [
+       16820593.722999997,
+       -3991590.6252500005
+      ],
+      [
+       16820591.918875001,
+       -3991587.7650000006
+      ],
+      [
+       16820586.955499999,
+       -3991591.0618750006
+      ],
+      [
+       16820588.773500003,
+       -3991593.6510000005
+      ],
+      [
+       16820517.066875003,
+       -3991637.4978750013
+      ],
+      [
+       16820482.465875,
+       -3991659.0283749998
+      ],
+      [
+       16820456.560374998,
+       -3991675.1493749991
+      ],
+      [
+       16820452.343374997,
+       -3991673.2213749997
+      ],
+      [
+       16820399.517375,
+       -3991501.0891249999
+      ],
+      [
+       16820385.365625001,
+       -3991455.2608750015
+      ],
+      [
+       16820372.473250002,
+       -3991413.9341249987
+      ],
+      [
+       16820360.414999999,
+       -3991374.8005000018
+      ],
+      [
+       16820346.022749998,
+       -3991328.1041250005
+      ],
+      [
+       16820402.199625,
+       -3991307.9982500002
+      ],
+      [
+       16820484.641249999,
+       -3991278.7446249984
+      ],
+      [
+       16820549.723125003,
+       -3991255.5218750015
+      ],
+      [
+       16820623.407499999,
+       -3991367.120000001
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

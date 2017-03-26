@@ -1,0 +1,246 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 2824742,
+    "createdate": 1135036800000,
+    "gurasid": 51009559,
+    "principaladdresssiteoid": 1468802,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2008414,
+    "uuid": "239fee78-00d1-387b-b986-2e582931546b",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "29-39",
+    "address": "29-39 MENIN ROAD MATRAVILLE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 588.70141695382415,
+    "shape_Area": 18163.787074109499
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16835947.799125001,
+       -4023085.2672500014
+      ],
+      [
+       16835967.952,
+       -4023085.5716250017
+      ],
+      [
+       16835988.214749999,
+       -4023085.8808749989
+      ],
+      [
+       16836008.199000001,
+       -4023086.1840000004
+      ],
+      [
+       16836032.739500001,
+       -4023086.5737500004
+      ],
+      [
+       16836038.088,
+       -4023149.2679999992
+      ],
+      [
+       16835992.644249998,
+       -4023148.7580000013
+      ],
+      [
+       16835993.505374998,
+       -4023158.2512499988
+      ],
+      [
+       16835994.351625003,
+       -4023167.6012500003
+      ],
+      [
+       16835996.031000003,
+       -4023186.0982500017
+      ],
+      [
+       16835997.502875,
+       -4023202.8097499982
+      ],
+      [
+       16835997.6765,
+       -4023203.7529999986
+      ],
+      [
+       16835993.383625001,
+       -4023219.1328749992
+      ],
+      [
+       16835988.468125001,
+       -4023236.7106250003
+      ],
+      [
+       16835983.578625001,
+       -4023254.1586249992
+      ],
+      [
+       16835879.324625,
+       -4023225.1938749999
+      ],
+      [
+       16835876.662249997,
+       -4023220.285374999
+      ],
+      [
+       16835914.450499997,
+       -4023084.78125
+      ],
+      [
+       16835947.799125001,
+       -4023085.2672500014
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

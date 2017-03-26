@@ -1,0 +1,230 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 843614,
+    "createdate": 1203601750000,
+    "gurasid": 63878707,
+    "principaladdresssiteoid": 2197192,
+    "propertytype": 6,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 7,
+    "valnetlotcount": 9,
+    "valnetworkflowid": null,
+    "propid": 1123413,
+    "uuid": "20c284d8-228c-36a2-9515-28e896b74d79",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "47-53",
+    "address": "47-53 HODDLE STREET ROBERTSON",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 748.3326618243774,
+    "shape_Area": 22402.80433384249
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16764012.894625001,
+       -4108231.3874999993
+      ],
+      [
+       16764002.872125,
+       -4108291.8506250009
+      ],
+      [
+       16763954.721124999,
+       -4108283.7960000001
+      ],
+      [
+       16763906.569124997,
+       -4108275.7402499989
+      ],
+      [
+       16763858.418125004,
+       -4108267.6845000014
+      ],
+      [
+       16763762.115999997,
+       -4108251.5729999989
+      ],
+      [
+       16763772.140625,
+       -4108191.1101250015
+      ],
+      [
+       16763773.353,
+       -4108183.7841250002
+      ],
+      [
+       16763783.519249998,
+       -4108123.1094999984
+      ],
+      [
+       16763879.677625,
+       -4108139.4341249987
+      ],
+      [
+       16763869.655000001,
+       -4108199.8955000006
+      ],
+      [
+       16763917.806000002,
+       -4108207.9512500018
+      ],
+      [
+       16763965.957125001,
+       -4108216.0057500005
+      ],
+      [
+       16763964.743625,
+       -4108223.3330000006
+      ],
+      [
+       16764012.894625001,
+       -4108231.3874999993
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

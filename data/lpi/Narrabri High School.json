@@ -1,0 +1,298 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 790183,
+    "createdate": 1174932177000,
+    "gurasid": 61976615,
+    "principaladdresssiteoid": 2581877,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 23,
+    "valnetlotcount": 23,
+    "valnetworkflowid": null,
+    "propid": 3225550,
+    "uuid": "9d9e1c79-7ba1-3eb9-83a4-fdda1d4b681f",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "2",
+    "address": "2 GIBBONS STREET NARRABRI",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1329.4104514787768,
+    "shape_Area": 94167.478270874024
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16673551.237125002,
+       -3546638.0186249986
+      ],
+      [
+       16673540.542000003,
+       -3546617.7085000016
+      ],
+      [
+       16673580.639124997,
+       -3546596.2433749996
+      ],
+      [
+       16673570.062749997,
+       -3546575.6142500006
+      ],
+      [
+       16673590.467124999,
+       -3546564.6736249998
+      ],
+      [
+       16673610.8715,
+       -3546553.7341249995
+      ],
+      [
+       16673631.275875002,
+       -3546542.7946249992
+      ],
+      [
+       16673651.681249999,
+       -3546531.855250001
+      ],
+      [
+       16673672.085625,
+       -3546520.9146250002
+      ],
+      [
+       16673691.866250001,
+       -3546510.3104999997
+      ],
+      [
+       16673702.332874998,
+       -3546531.0656250007
+      ],
+      [
+       16673712.852375001,
+       -3546551.9236249998
+      ],
+      [
+       16673754.222874999,
+       -3546529.3232499994
+      ],
+      [
+       16673764.077875003,
+       -3546548.568500001
+      ],
+      [
+       16673782.685000002,
+       -3546584.90625
+      ],
+      [
+       16673792.5,
+       -3546604.074000001
+      ],
+      [
+       16673803.982500002,
+       -3546626.4976250008
+      ],
+      [
+       16673816.008749999,
+       -3546649.984875001
+      ],
+      [
+       16673882.711125001,
+       -3546780.2437499985
+      ],
+      [
+       16673919.267875001,
+       -3546851.6327500008
+      ],
+      [
+       16673878.052000001,
+       -3546879.7369999997
+      ],
+      [
+       16673840.969374999,
+       -3546906.4262499996
+      ],
+      [
+       16673805.226750001,
+       -3546936.8811249994
+      ],
+      [
+       16673772.423,
+       -3546967.3026250005
+      ],
+      [
+       16673742.748499997,
+       -3547001.7049999982
+      ],
+      [
+       16673728.023999996,
+       -3546973.7437499985
+      ],
+      [
+       16673613.613624997,
+       -3546756.4765000008
+      ],
+      [
+       16673602.541374996,
+       -3546735.448125001
+      ],
+      [
+       16673590.628749996,
+       -3546712.8255000003
+      ],
+      [
+       16673580.008500002,
+       -3546692.6586249992
+      ],
+      [
+       16673560.709749997,
+       -3546656.0083750002
+      ],
+      [
+       16673551.237125002,
+       -3546638.0186249986
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

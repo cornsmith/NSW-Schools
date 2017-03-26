@@ -1,0 +1,242 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3390020,
+    "createdate": 1411503860000,
+    "gurasid": 51753524,
+    "principaladdresssiteoid": 2224860,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 1100876,
+    "uuid": "f0d6aa7f-358c-37f0-a605-7c2946f8f0bb",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "1",
+    "address": "1 CLARENCE STREET BERRY",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1214.6070371364863,
+    "shape_Area": 66052.495141623207
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16774818.510499999,
+       -4133593.1308749989
+      ],
+      [
+       16774798.523249999,
+       -4133714.4710000008
+      ],
+      [
+       16774786.245499998,
+       -4133792.7751250006
+      ],
+      [
+       16774756.748625003,
+       -4133980.8933750018
+      ],
+      [
+       16774752.955750003,
+       -4134005.0833749995
+      ],
+      [
+       16774709.235250004,
+       -4133998.1279999986
+      ],
+      [
+       16774673.197375,
+       -4133992.3948750012
+      ],
+      [
+       16774637.158375002,
+       -4133986.66175
+      ],
+      [
+       16774601.120499998,
+       -4133980.9285000004
+      ],
+      [
+       16774565.082625002,
+       -4133975.1953749992
+      ],
+      [
+       16774594.103500001,
+       -4133792.6997499987
+      ],
+      [
+       16774611.488375001,
+       -4133683.3738749996
+      ],
+      [
+       16774658.750249997,
+       -4133691.2316249982
+      ],
+      [
+       16774702.653375,
+       -4133698.5318749994
+      ],
+      [
+       16774712.895499997,
+       -4133633.9711249992
+      ],
+      [
+       16774746.054499999,
+       -4133638.6386249997
+      ],
+      [
+       16774755.674000002,
+       -4133582.6842500009
+      ],
+      [
+       16774818.510499999,
+       -4133593.1308749989
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

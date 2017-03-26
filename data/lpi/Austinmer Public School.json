@@ -1,0 +1,298 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 955789,
+    "createdate": 1303161722000,
+    "gurasid": 73465009,
+    "principaladdresssiteoid": 3272665,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 3570933,
+    "uuid": "28e57b29-ec04-33bc-999c-2979b866b7c3",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "92-94",
+    "address": "92-94 LAWRENCE HARGRAVE DRIVE AUSTINMER",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 642.48264091613555,
+    "shape_Area": 16580.764634512059
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16801954.348750003,
+       -4069982.989374999
+      ],
+      [
+       16801951.925875001,
+       -4069988.4543749988
+      ],
+      [
+       16801935.479125001,
+       -4069988.0787499994
+      ],
+      [
+       16801932.093374997,
+       -4069986.9842500016
+      ],
+      [
+       16801928.588749997,
+       -4069983.8241249993
+      ],
+      [
+       16801927.865374997,
+       -4069980.2991250008
+      ],
+      [
+       16801925.831749998,
+       -4069951.6257500015
+      ],
+      [
+       16801924.397749998,
+       -4069931.5691250004
+      ],
+      [
+       16801939.894625001,
+       -4069930.4686250016
+      ],
+      [
+       16801949.725625001,
+       -4069911.5742500015
+      ],
+      [
+       16801952.714249998,
+       -4069905.8313749991
+      ],
+      [
+       16801951.29225,
+       -4069905.0521249995
+      ],
+      [
+       16801921.393250003,
+       -4069888.6884999983
+      ],
+      [
+       16801910.755999997,
+       -4069882.8502499983
+      ],
+      [
+       16801930.221375003,
+       -4069851.6645000018
+      ],
+      [
+       16801940.388625003,
+       -4069835.4808750004
+      ],
+      [
+       16801949.937124997,
+       -4069820.1091249995
+      ],
+      [
+       16801959.651375003,
+       -4069804.5091250017
+      ],
+      [
+       16801969.54225,
+       -4069788.6565000005
+      ],
+      [
+       16801975.251000002,
+       -4069779.5181250013
+      ],
+      [
+       16801994.253375001,
+       -4069790.3441249989
+      ],
+      [
+       16802010.191249996,
+       -4069799.353374999
+      ],
+      [
+       16802026.272875004,
+       -4069808.4362500012
+      ],
+      [
+       16802042.363499999,
+       -4069817.5905000009
+      ],
+      [
+       16802058.540875003,
+       -4069826.8303750008
+      ],
+      [
+       16802074.886875004,
+       -4069836.0607500002
+      ],
+      [
+       16802090.210124999,
+       -4069844.7993750013
+      ],
+      [
+       16802097.617250003,
+       -4069848.9573750012
+      ],
+      [
+       16802062.430500001,
+       -4069851.2380000018
+      ],
+      [
+       16801997.557250001,
+       -4069930.2886249982
+      ],
+      [
+       16801963.147875004,
+       -4069972.3044999987
+      ],
+      [
+       16801954.348750003,
+       -4069982.989374999
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 842024,
+    "createdate": 1401409160000,
+    "gurasid": 63820171,
+    "principaladdresssiteoid": 2539805,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 7,
+    "valnetlotcount": 7,
+    "valnetworkflowid": null,
+    "propid": 3197255,
+    "uuid": "45f7a47e-6d99-35ee-b569-8e7d8c8837c7",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": null,
+    "address": "GREAT WESTERN HIGHWAY LEURA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 790.76412530448329,
+    "shape_Area": 32021.135308126792
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16735482.255874999,
+       -3990126.4537499994
+      ],
+      [
+       16735531.153250001,
+       -3990174.6554999985
+      ],
+      [
+       16735518.013374999,
+       -3990178.1534999982
+      ],
+      [
+       16735478.737374999,
+       -3990180.6318750009
+      ],
+      [
+       16735473.433750004,
+       -3990178.634624999
+      ],
+      [
+       16735473.020625003,
+       -3990180.9917499982
+      ],
+      [
+       16735448.608750001,
+       -3990174.7058750018
+      ],
+      [
+       16735349.582625002,
+       -3990146.2457499988
+      ],
+      [
+       16735350.495624997,
+       -3990143.061999999
+      ],
+      [
+       16735344.147249997,
+       -3990141.2386250012
+      ],
+      [
+       16735343.234250002,
+       -3990144.4211249985
+      ],
+      [
+       16735329.930624999,
+       -3990140.5968750007
+      ],
+      [
+       16735330.884625003,
+       -3990137.0641250014
+      ],
+      [
+       16735328.183375001,
+       -3990136.2459999993
+      ],
+      [
+       16735301.416625001,
+       -3990128.1211250015
+      ],
+      [
+       16735282.560999997,
+       -3990048.4534999989
+      ],
+      [
+       16735295.439374998,
+       -3990030.1000000015
+      ],
+      [
+       16735295.963249996,
+       -3990011.1191250011
+      ],
+      [
+       16735291.986749999,
+       -3989983.4030000009
+      ],
+      [
+       16735369.135750003,
+       -3989996.4375
+      ],
+      [
+       16735477.549874999,
+       -3990015.72425
+      ],
+      [
+       16735500.598624997,
+       -3990019.7248749994
+      ],
+      [
+       16735482.255874999,
+       -3990126.4537499994
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

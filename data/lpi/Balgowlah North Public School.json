@@ -1,0 +1,298 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3447916,
+    "createdate": 1270760805000,
+    "gurasid": 63645835,
+    "principaladdresssiteoid": 2196638,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 6,
+    "valnetlotcount": 6,
+    "valnetworkflowid": null,
+    "propid": 900569,
+    "uuid": "aa7c6f8b-2460-35cf-aa06-4eaebff1a33d",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "9",
+    "address": "9 BARDOO AVENUE NORTH BALGOWLAH",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 850.89503535367101,
+    "shape_Area": 45184.788027694856
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16836785.743874997,
+       -3999835.551874999
+      ],
+      [
+       16836783.549500003,
+       -3999847.9287500009
+      ],
+      [
+       16836742.151124999,
+       -3999841.4983749986
+      ],
+      [
+       16836726.205250002,
+       -3999839.0347499996
+      ],
+      [
+       16836708.158749998,
+       -3999836.2326250002
+      ],
+      [
+       16836689.570500001,
+       -3999833.3295000009
+      ],
+      [
+       16836671.129000001,
+       -3999830.4661250003
+      ],
+      [
+       16836652.721375003,
+       -3999827.6326249987
+      ],
+      [
+       16836637.639624998,
+       -3999825.2435000017
+      ],
+      [
+       16836634.133125,
+       -3999824.7056250013
+      ],
+      [
+       16836615.687624998,
+       -3999821.8542499989
+      ],
+      [
+       16836596.962624997,
+       -3999818.9247500002
+      ],
+      [
+       16836578.241625004,
+       -3999816.0072499998
+      ],
+      [
+       16836559.987750001,
+       -3999813.2051250003
+      ],
+      [
+       16836540.808750004,
+       -3999810.2252499983
+      ],
+      [
+       16836545.00575,
+       -3999786.948125001
+      ],
+      [
+       16836545.821000002,
+       -3999782.4290000014
+      ],
+      [
+       16836551.268375002,
+       -3999752.2593749985
+      ],
+      [
+       16836561.941500001,
+       -3999692.5686249994
+      ],
+      [
+       16836571.903250001,
+       -3999632.3978749998
+      ],
+      [
+       16836579.224624999,
+       -3999627.7912500016
+      ],
+      [
+       16836632.865874998,
+       -3999636.9432500005
+      ],
+      [
+       16836802.050999999,
+       -3999666.2073750012
+      ],
+      [
+       16836810.114749998,
+       -3999670.5355000012
+      ],
+      [
+       16836813.594250001,
+       -3999678.0198750012
+      ],
+      [
+       16836808.293624997,
+       -3999707.9036250003
+      ],
+      [
+       16836806.204125002,
+       -3999719.7053750008
+      ],
+      [
+       16836804.681374997,
+       -3999728.3063750006
+      ],
+      [
+       16836800.924374998,
+       -3999749.6012500003
+      ],
+      [
+       16836794.000249997,
+       -3999788.8462500013
+      ],
+      [
+       16836788.092874996,
+       -3999822.2960000001
+      ],
+      [
+       16836785.743874997,
+       -3999835.551874999
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

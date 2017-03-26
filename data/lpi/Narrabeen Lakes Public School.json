@@ -1,0 +1,266 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1499666,
+    "createdate": 1353462836000,
+    "gurasid": 63646413,
+    "principaladdresssiteoid": 2210535,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 19,
+    "valnetlotcount": 19,
+    "valnetworkflowid": null,
+    "propid": 934366,
+    "uuid": "97c3e9f3-918d-3dc0-a242-b24f5c114931",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "1299",
+    "address": "1299 PITTWATER ROAD NARRABEEN",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 548.01127076656712,
+    "shape_Area": 15671.074587718573
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16842419.003875002,
+       -3991371.8923749998
+      ],
+      [
+       16842421.797875002,
+       -3991390.9678750001
+      ],
+      [
+       16842349.690125003,
+       -3991380.0576249994
+      ],
+      [
+       16842331.064999998,
+       -3991377.2551250011
+      ],
+      [
+       16842312.902874999,
+       -3991374.4910000004
+      ],
+      [
+       16842295.112875,
+       -3991371.7879999988
+      ],
+      [
+       16842276.738124996,
+       -3991369.0238750018
+      ],
+      [
+       16842287.679750003,
+       -3991296.2866250016
+      ],
+      [
+       16842289.216499999,
+       -3991286.0387500003
+      ],
+      [
+       16842290.720250003,
+       -3991276.0176250003
+      ],
+      [
+       16842292.189125001,
+       -3991266.2281249985
+      ],
+      [
+       16842297.701375,
+       -3991229.8051250018
+      ],
+      [
+       16842316.042125002,
+       -3991232.7216250002
+      ],
+      [
+       16842338.187749997,
+       -3991236.2451249994
+      ],
+      [
+       16842352.251625001,
+       -3991238.4826250002
+      ],
+      [
+       16842346.739500001,
+       -3991273.9217500016
+      ],
+      [
+       16842364.979374997,
+       -3991276.5214999989
+      ],
+      [
+       16842405.756250001,
+       -3991282.3508750014
+      ],
+      [
+       16842407.737000003,
+       -3991295.7996250018
+      ],
+      [
+       16842407.983499996,
+       -3991297.7298749983
+      ],
+      [
+       16842410.552000001,
+       -3991314.8401249982
+      ],
+      [
+       16842413.364,
+       -3991334.1518750004
+      ],
+      [
+       16842416.187875003,
+       -3991352.7246249989
+      ],
+      [
+       16842419.003875002,
+       -3991371.8923749998
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

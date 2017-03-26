@@ -1,0 +1,306 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3401308,
+    "createdate": 1361665083000,
+    "gurasid": 51786210,
+    "principaladdresssiteoid": 2234205,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 22,
+    "valnetlotcount": 22,
+    "valnetworkflowid": null,
+    "propid": 3134827,
+    "uuid": "272c493e-6826-3755-ac37-d6213440434c",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "1-13",
+    "address": "1-13 FAWCETT STREET TUMBULGUM",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 529.87459955008933,
+    "shape_Area": 14838.34649523565
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       17083438.767875001,
+       -3283496.5599999987
+      ],
+      [
+       17083481.633125,
+       -3283521.0031250007
+      ],
+      [
+       17083486.629500002,
+       -3283510.4250000007
+      ],
+      [
+       17083487.060500003,
+       -3283509.510625001
+      ],
+      [
+       17083488.777874999,
+       -3283498.4872500002
+      ],
+      [
+       17083489.007375002,
+       -3283497.0121250004
+      ],
+      [
+       17083500.307250001,
+       -3283498.7659999989
+      ],
+      [
+       17083511.607000001,
+       -3283500.5199999996
+      ],
+      [
+       17083534.206625,
+       -3283504.0278749987
+      ],
+      [
+       17083532.259875,
+       -3283516.5265000015
+      ],
+      [
+       17083530.383874997,
+       -3283528.5707500018
+      ],
+      [
+       17083528.685500003,
+       -3283539.4773750007
+      ],
+      [
+       17083526.986125,
+       -3283550.3852499984
+      ],
+      [
+       17083525.287749998,
+       -3283561.2931249999
+      ],
+      [
+       17083523.588375002,
+       -3283572.2008749992
+      ],
+      [
+       17083521.890000001,
+       -3283583.1087500006
+      ],
+      [
+       17083521.073749997,
+       -3283588.3434999995
+      ],
+      [
+       17083517.783749998,
+       -3283609.4691249989
+      ],
+      [
+       17083513.678625003,
+       -3283635.8296249993
+      ],
+      [
+       17083482.779624999,
+       -3283630.9189999998
+      ],
+      [
+       17083471.503749996,
+       -3283629.1264999993
+      ],
+      [
+       17083460.226875,
+       -3283627.3351249993
+      ],
+      [
+       17083448.950999998,
+       -3283625.5426249988
+      ],
+      [
+       17083429.781000003,
+       -3283622.495875001
+      ],
+      [
+       17083407.228249997,
+       -3283618.9108750001
+      ],
+      [
+       17083373.399625003,
+       -3283613.5344999991
+      ],
+      [
+       17083390.160750002,
+       -3283583.5405000001
+      ],
+      [
+       17083401.334875003,
+       -3283563.5443749987
+      ],
+      [
+       17083410.833625004,
+       -3283546.5476250015
+      ],
+      [
+       17083416.420625001,
+       -3283536.5496250018
+      ],
+      [
+       17083422.007624999,
+       -3283526.5516249985
+      ],
+      [
+       17083427.594750002,
+       -3283516.5547499992
+      ],
+      [
+       17083433.18175,
+       -3283506.5568750016
+      ],
+      [
+       17083438.767875001,
+       -3283496.5599999987
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

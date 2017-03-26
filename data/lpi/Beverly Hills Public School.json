@@ -1,0 +1,302 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1466703,
+    "createdate": 1137974400000,
+    "gurasid": 51667066,
+    "principaladdresssiteoid": 2171515,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 1472194,
+    "uuid": "4e8aa409-6886-3fc6-ab57-6c0931ddb664",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "562",
+    "address": "562 KING GEORGES ROAD BEVERLY HILLS",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 853.83357650744495,
+    "shape_Area": 35589.23045345219
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16818684.949625,
+       -4022604.9261250012
+      ],
+      [
+       16818673.864375003,
+       -4022589.6145000011
+      ],
+      [
+       16818658.692749999,
+       -4022574.3268750012
+      ],
+      [
+       16818587.032125004,
+       -4022469.8948750012
+      ],
+      [
+       16818588.441,
+       -4022468.8434999995
+      ],
+      [
+       16818580.704625003,
+       -4022457.3874999993
+      ],
+      [
+       16818582.288249999,
+       -4022448.2065000013
+      ],
+      [
+       16818595.285374999,
+       -4022444.8633750007
+      ],
+      [
+       16818594.739624999,
+       -4022442.5801250003
+      ],
+      [
+       16818675.33625,
+       -4022421.6267499998
+      ],
+      [
+       16818693.127125002,
+       -4022417.0026249997
+      ],
+      [
+       16818711.537749998,
+       -4022442.7978749983
+      ],
+      [
+       16818720.998499997,
+       -4022456.0546250008
+      ],
+      [
+       16818732.464000002,
+       -4022472.114374999
+      ],
+      [
+       16818743.808750004,
+       -4022488.0117500015
+      ],
+      [
+       16818754.846124999,
+       -4022503.4736250006
+      ],
+      [
+       16818766.100125,
+       -4022519.2411249988
+      ],
+      [
+       16818777.417874999,
+       -4022535.098749999
+      ],
+      [
+       16818786.194124997,
+       -4022547.3932499997
+      ],
+      [
+       16818794.195,
+       -4022558.603875
+      ],
+      [
+       16818802.720749997,
+       -4022570.5483749993
+      ],
+      [
+       16818811.111749999,
+       -4022582.3038749993
+      ],
+      [
+       16818822.245999999,
+       -4022597.9018750004
+      ],
+      [
+       16818829.369750001,
+       -4022607.8831249997
+      ],
+      [
+       16818842.639375001,
+       -4022626.472874999
+      ],
+      [
+       16818855.558750004,
+       -4022644.5827500001
+      ],
+      [
+       16818872.315875001,
+       -4022668.0868749991
+      ],
+      [
+       16818809.704750001,
+       -4022678.2341249995
+      ],
+      [
+       16818738.780500002,
+       -4022689.6686250009
+      ],
+      [
+       16818709.527125001,
+       -4022648.1195
+      ],
+      [
+       16818707.460500002,
+       -4022644.8907499984
+      ],
+      [
+       16818698.671250001,
+       -4022625.3517500013
+      ],
+      [
+       16818684.949625,
+       -4022604.9261250012
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

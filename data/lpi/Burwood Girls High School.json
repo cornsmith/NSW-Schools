@@ -1,0 +1,234 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3380968,
+    "createdate": 1135036800000,
+    "gurasid": 51736772,
+    "principaladdresssiteoid": 2186693,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 1396125,
+    "uuid": "e7993720-7f8f-3c67-891e-c087c64921c1",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "95",
+    "address": "95 QUEEN STREET CROYDON",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 691.69134461719443,
+    "shape_Area": 28874.548573879008
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16821851.194375001,
+       -4012159.9554999992
+      ],
+      [
+       16821837.594499998,
+       -4012157.1898749992
+      ],
+      [
+       16821811.327624999,
+       -4012151.9628750011
+      ],
+      [
+       16821725.731749997,
+       -4012138.9114999995
+      ],
+      [
+       16821752.433624998,
+       -4011976.5879999995
+      ],
+      [
+       16821794.680249996,
+       -4011983.037250001
+      ],
+      [
+       16821879.290250003,
+       -4011996.0006249994
+      ],
+      [
+       16821880.498625003,
+       -4011989.0922500007
+      ],
+      [
+       16821885.458125003,
+       -4011989.9155000001
+      ],
+      [
+       16821923.383000001,
+       -4011996.1448750012
+      ],
+      [
+       16821917.770000003,
+       -4012032.6530000009
+      ],
+      [
+       16821916.690250002,
+       -4012039.9087500013
+      ],
+      [
+       16821915.499875002,
+       -4012047.3015000001
+      ],
+      [
+       16821896.617250003,
+       -4012168.9167499989
+      ],
+      [
+       16821891.417374998,
+       -4012168.0430000015
+      ],
+      [
+       16821851.194375001,
+       -4012159.9554999992
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

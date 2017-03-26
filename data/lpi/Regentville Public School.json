@@ -1,0 +1,230 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 257643,
+    "createdate": 1135036800000,
+    "gurasid": 50226367,
+    "principaladdresssiteoid": 749057,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2577430,
+    "uuid": "fb4a33eb-f12a-3e78-86a6-29e87926c4e3",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "28-30",
+    "address": "28-30 SCHOOL HOUSE ROAD REGENTVILLE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 586.53372319116966,
+    "shape_Area": 20861.57673669844
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16772354.050750002,
+       -3998815.1779999994
+      ],
+      [
+       16772426.664499998,
+       -3998826.5034999996
+      ],
+      [
+       16772455.670374997,
+       -3998831.0281249993
+      ],
+      [
+       16772453.320500001,
+       -3998851.1640000008
+      ],
+      [
+       16772451.081249997,
+       -3998870.3491250016
+      ],
+      [
+       16772450.9745,
+       -3998871.2687500007
+      ],
+      [
+       16772448.28125,
+       -3998894.3327500001
+      ],
+      [
+       16772448.175499998,
+       -3998895.2463749982
+      ],
+      [
+       16772445.372500002,
+       -3998919.2540000007
+      ],
+      [
+       16772443.283875003,
+       -3998937.1078750007
+      ],
+      [
+       16772442.713124998,
+       -3998941.7682499997
+      ],
+      [
+       16772441.395999998,
+       -3998952.5500000007
+      ],
+      [
+       16772269.531499997,
+       -3998924.4413749985
+      ],
+      [
+       16772289.152625002,
+       -3998804.6101250015
+      ],
+      [
+       16772354.050750002,
+       -3998815.1779999994
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 744633,
+    "createdate": 1135036800000,
+    "gurasid": 51655099,
+    "principaladdresssiteoid": 2157461,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 12,
+    "valnetlotcount": 12,
+    "valnetworkflowid": null,
+    "propid": 1174451,
+    "uuid": "69cdaeb4-7aef-340f-a699-169f647f725a",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "308",
+    "address": "308 NORTHCLIFFE DRIVE LAKE HEIGHTS",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 522.8724908450331,
+    "shape_Area": 11987.335586764566
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16794482.519249998,
+       -4094772.8342499994
+      ],
+      [
+       16794465.671250001,
+       -4094764.7687500007
+      ],
+      [
+       16794491.187624998,
+       -4094715.327624999
+      ],
+      [
+       16794515.976625003,
+       -4094667.2280000001
+      ],
+      [
+       16794533.137000002,
+       -4094676.2390000001
+      ],
+      [
+       16794549.650624998,
+       -4094684.9108750001
+      ],
+      [
+       16794566.163249999,
+       -4094693.5816249996
+      ],
+      [
+       16794582.677000001,
+       -4094702.2536250018
+      ],
+      [
+       16794599.031000003,
+       -4094710.8421249986
+      ],
+      [
+       16794615.397,
+       -4094719.4366250001
+      ],
+      [
+       16794631.632250004,
+       -4094727.9608750008
+      ],
+      [
+       16794640.733750001,
+       -4094732.7406250015
+      ],
+      [
+       16794638.605374999,
+       -4094786.1891250014
+      ],
+      [
+       16794632.552249998,
+       -4094783.2557500005
+      ],
+      [
+       16794625.854625002,
+       -4094780.0837499984
+      ],
+      [
+       16794609.031625003,
+       -4094772.0291250013
+      ],
+      [
+       16794592.34025,
+       -4094763.9648750015
+      ],
+      [
+       16794575.590125002,
+       -4094755.9332499988
+      ],
+      [
+       16794558.781125002,
+       -4094747.8532500006
+      ],
+      [
+       16794533.023125,
+       -4094797.010125
+      ],
+      [
+       16794516.188249998,
+       -4094788.9518750012
+      ],
+      [
+       16794499.353249997,
+       -4094780.8924999982
+      ],
+      [
+       16794482.519249998,
+       -4094772.8342499994
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

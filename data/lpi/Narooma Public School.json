@@ -1,0 +1,336 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 829510,
+    "createdate": 1376518758000,
+    "gurasid": 62928816,
+    "principaladdresssiteoid": 2823441,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 1017721,
+    "uuid": "f7609484-d77f-3ae8-b68d-6d4d1f767fd9",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "11",
+    "address": "11 MONTAGUE STREET NAROOMA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 629.49474103918737,
+    "shape_Area": 20515.127628133789
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16713230.802500002,
+       -4330711.837749999
+      ],
+      [
+       16713207.139124997,
+       -4330861.5821250007
+      ],
+      [
+       16713108.942125,
+       -4330845.7624999993
+      ],
+      [
+       16713129.483125001,
+       -4330717.2687500007
+      ],
+      [
+       16713129.888250001,
+       -4330714.7332499996
+      ],
+      [
+       16713138.138625003,
+       -4330663.6693749987
+      ],
+      [
+       16713144.172750004,
+       -4330626.3063750006
+      ],
+      [
+       16713146.602499999,
+       -4330611.2563749999
+      ],
+      [
+       16713234.585375004,
+       -4330687.9031249993
+      ],
+      [
+       16713230.802500002,
+       -4330711.837749999
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 839178,
+    "createdate": 1376518758000,
+    "gurasid": 63649783,
+    "principaladdresssiteoid": 2101161,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 8,
+    "valnetlotcount": 8,
+    "valnetworkflowid": null,
+    "propid": 1017720,
+    "uuid": "f68498f1-6ba1-3d32-9bc5-f7aa14c19da4",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "19",
+    "address": "19 MONTAGUE STREET NAROOMA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 771.74398219067393,
+    "shape_Area": 34168.257736239029
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16713294.188874997,
+       -4330871.7616249993
+      ],
+      [
+       16713289.880125001,
+       -4330874.9033749998
+      ],
+      [
+       16713231.728500001,
+       -4330865.5438750014
+      ],
+      [
+       16713208.101999998,
+       -4330861.7367499992
+      ],
+      [
+       16713207.139124997,
+       -4330861.5821250007
+      ],
+      [
+       16713108.942125,
+       -4330845.7624999993
+      ],
+      [
+       16713129.483125001,
+       -4330717.2687500007
+      ],
+      [
+       16713129.888250001,
+       -4330714.7332499996
+      ],
+      [
+       16713138.138625003,
+       -4330663.6693749987
+      ],
+      [
+       16713144.172750004,
+       -4330626.3063750006
+      ],
+      [
+       16713146.602499999,
+       -4330611.2563749999
+      ],
+      [
+       16713234.585375004,
+       -4330687.9031249993
+      ],
+      [
+       16713252.721625,
+       -4330703.7089999989
+      ],
+      [
+       16713288.576875001,
+       -4330722.4017499983
+      ],
+      [
+       16713306.464625001,
+       -4330731.7351250015
+      ],
+      [
+       16713311.059749998,
+       -4330735.8502499983
+      ],
+      [
+       16713313.442749999,
+       -4330740.9188750014
+      ],
+      [
+       16713314.276874997,
+       -4330746.9362500012
+      ],
+      [
+       16713313.489624999,
+       -4330751.8107500002
+      ],
+      [
+       16713309.505125001,
+       -4330776.5579999983
+      ],
+      [
+       16713305.531625003,
+       -4330801.2930000015
+      ],
+      [
+       16713301.547124997,
+       -4330826.0280000009
+      ],
+      [
+       16713297.573624998,
+       -4330850.7631249987
+      ],
+      [
+       16713294.188874997,
+       -4330871.7616249993
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

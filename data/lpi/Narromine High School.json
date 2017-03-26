@@ -1,0 +1,368 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 856561,
+    "createdate": 1227820917000,
+    "gurasid": 65377272,
+    "principaladdresssiteoid": 2789589,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 3305011,
+    "uuid": "23e6ecc9-2749-3e31-9ef6-0954e2f8c540",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "9",
+    "address": "9 MERILBA STREET NARROMINE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1367.7507034342991,
+    "shape_Area": 116876.90786777971
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16502590.486000001,
+       -3793241.2921250015
+      ],
+      [
+       16502580.367624998,
+       -3793308.9731249996
+      ],
+      [
+       16502578.502625003,
+       -3793321.4486249983
+      ],
+      [
+       16502568.372249998,
+       -3793389.2161250003
+      ],
+      [
+       16502561.291374996,
+       -3793436.5766250007
+      ],
+      [
+       16502551.098125003,
+       -3793504.7564999983
+      ],
+      [
+       16502549.214249998,
+       -3793517.3619999997
+      ],
+      [
+       16502538.942125,
+       -3793586.073125001
+      ],
+      [
+       16502390.581500001,
+       -3793563.6920000017
+      ],
+      [
+       16502354.429875001,
+       -3793558.238499999
+      ],
+      [
+       16502286.109999999,
+       -3793547.9308749996
+      ],
+      [
+       16502274.015874997,
+       -3793546.1059999987
+      ],
+      [
+       16502207.45025,
+       -3793536.0638750009
+      ],
+      [
+       16502218.101374999,
+       -3793464.7683750018
+      ],
+      [
+       16502219.324874997,
+       -3793456.5830000006
+      ],
+      [
+       16502229.644749999,
+       -3793387.5045000017
+      ],
+      [
+       16502236.763499998,
+       -3793339.8623749986
+      ],
+      [
+       16502247.184249997,
+       -3793270.1110000014
+      ],
+      [
+       16502248.093249999,
+       -3793264.0277500004
+      ],
+      [
+       16502258.964000002,
+       -3793191.2701250017
+      ],
+      [
+       16502590.486000001,
+       -3793241.2921250015
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 3416489,
+    "createdate": 1174929585000,
+    "gurasid": 61821024,
+    "principaladdresssiteoid": 2570971,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2675211,
+    "uuid": "366b533e-aeca-38ae-af8e-fe42455be6b4",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "11",
+    "address": "11 MERILBA STREET NARROMINE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1367.7507034342991,
+    "shape_Area": 116876.90786777971
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16502590.486000001,
+       -3793241.2921250015
+      ],
+      [
+       16502580.367624998,
+       -3793308.9731249996
+      ],
+      [
+       16502578.502625003,
+       -3793321.4486249983
+      ],
+      [
+       16502568.372249998,
+       -3793389.2161250003
+      ],
+      [
+       16502561.291374996,
+       -3793436.5766250007
+      ],
+      [
+       16502551.098125003,
+       -3793504.7564999983
+      ],
+      [
+       16502549.214249998,
+       -3793517.3619999997
+      ],
+      [
+       16502538.942125,
+       -3793586.073125001
+      ],
+      [
+       16502390.581500001,
+       -3793563.6920000017
+      ],
+      [
+       16502354.429875001,
+       -3793558.238499999
+      ],
+      [
+       16502286.109999999,
+       -3793547.9308749996
+      ],
+      [
+       16502274.015874997,
+       -3793546.1059999987
+      ],
+      [
+       16502207.45025,
+       -3793536.0638750009
+      ],
+      [
+       16502218.101374999,
+       -3793464.7683750018
+      ],
+      [
+       16502219.324874997,
+       -3793456.5830000006
+      ],
+      [
+       16502229.644749999,
+       -3793387.5045000017
+      ],
+      [
+       16502236.763499998,
+       -3793339.8623749986
+      ],
+      [
+       16502247.184249997,
+       -3793270.1110000014
+      ],
+      [
+       16502248.093249999,
+       -3793264.0277500004
+      ],
+      [
+       16502258.964000002,
+       -3793191.2701250017
+      ],
+      [
+       16502590.486000001,
+       -3793241.2921250015
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,294 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3447715,
+    "createdate": 1199452265000,
+    "gurasid": 63641093,
+    "principaladdresssiteoid": 2182420,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 5,
+    "valnetlotcount": 5,
+    "valnetworkflowid": null,
+    "propid": 698306,
+    "uuid": "72f74af6-b1dc-3278-ac19-4cacfd558060",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "60-70",
+    "address": "60-70 HORACE STREET ST IVES",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1441.7828037274062,
+    "shape_Area": 112719.08919963861
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16827859.637874998,
+       -3994076.4134999998
+      ],
+      [
+       16827844.476374999,
+       -3994165.5448749997
+      ],
+      [
+       16827842.359875001,
+       -3994169.0728750005
+      ],
+      [
+       16827839.332374997,
+       -3994171.1105000004
+      ],
+      [
+       16827835.921625003,
+       -3994171.2941249982
+      ],
+      [
+       16827769.565499999,
+       -3994159.3312500007
+      ],
+      [
+       16827728.226000004,
+       -3994151.8611249998
+      ],
+      [
+       16827700.783624999,
+       -3994158.5607500002
+      ],
+      [
+       16827615.578874998,
+       -3994143.2223750018
+      ],
+      [
+       16827631.407125004,
+       -3994050.0052499995
+      ],
+      [
+       16827633.927625,
+       -3994035.2417499982
+      ],
+      [
+       16827650.176875003,
+       -3993939.5727499984
+      ],
+      [
+       16827666.524999999,
+       -3993843.6848750003
+      ],
+      [
+       16827670.828749999,
+       -3993818.3858750015
+      ],
+      [
+       16827682.839000002,
+       -3993747.7954999991
+      ],
+      [
+       16827699.058375001,
+       -3993652.3977500014
+      ],
+      [
+       16827750.098250002,
+       -3993661.6517499983
+      ],
+      [
+       16827775.852124996,
+       -3993666.3315000013
+      ],
+      [
+       16827801.412500001,
+       -3993670.9813750014
+      ],
+      [
+       16827826.803125001,
+       -3993675.6012500003
+      ],
+      [
+       16827852.024125002,
+       -3993680.1898749992
+      ],
+      [
+       16827877.086625002,
+       -3993684.7856249996
+      ],
+      [
+       16827924.945249997,
+       -3993693.4721250013
+      ],
+      [
+       16827908.627125002,
+       -3993789.5351249985
+      ],
+      [
+       16827906.616374999,
+       -3993801.3020000011
+      ],
+      [
+       16827900.237999998,
+       -3993838.6462499984
+      ],
+      [
+       16827892.303000003,
+       -3993885.104375001
+      ],
+      [
+       16827875.922124997,
+       -3993980.881000001
+      ],
+      [
+       16827872.640124999,
+       -3994000.1336250007
+      ],
+      [
+       16827866.327624999,
+       -3994037.167750001
+      ],
+      [
+       16827859.637874998,
+       -3994076.4134999998
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

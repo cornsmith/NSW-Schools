@@ -1,0 +1,246 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 768036,
+    "createdate": 1135036800000,
+    "gurasid": 51747452,
+    "principaladdresssiteoid": 2196588,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 822156,
+    "uuid": "71e25c26-ff3a-305b-84ac-02085422151d",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "59",
+    "address": "59 FITZWILLIAM ROAD OLD TOONGABBIE",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 774.61772118083229,
+    "shape_Area": 35175.150774222078
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16805407.854999997,
+       -4000266.7238750011
+      ],
+      [
+       16805412.094999999,
+       -4000239.7430000007
+      ],
+      [
+       16805421.696374997,
+       -4000178.6293749996
+      ],
+      [
+       16805422.878875002,
+       -4000171.0977500007
+      ],
+      [
+       16805455.008125,
+       -4000176.2797500007
+      ],
+      [
+       16805486.1545,
+       -4000181.3043750003
+      ],
+      [
+       16805542.228625,
+       -4000190.348749999
+      ],
+      [
+       16805615.806249999,
+       -4000202.2122500017
+      ],
+      [
+       16805661.453625001,
+       -4000209.572124999
+      ],
+      [
+       16805654.671125002,
+       -4000253.1302499995
+      ],
+      [
+       16805647.569250003,
+       -4000298.5626249984
+      ],
+      [
+       16805646.494625002,
+       -4000305.4387499988
+      ],
+      [
+       16805643.357249998,
+       -4000325.979375001
+      ],
+      [
+       16805640.567249998,
+       -4000344.0744999982
+      ],
+      [
+       16805639.150250003,
+       -4000353.4887499996
+      ],
+      [
+       16805519.699749999,
+       -4000334.0898750015
+      ],
+      [
+       16805400.317125,
+       -4000314.6993749999
+      ],
+      [
+       16805406.233499996,
+       -4000277.0469999984
+      ],
+      [
+       16805407.854999997,
+       -4000266.7238750011
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

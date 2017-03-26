@@ -1,0 +1,302 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 738709,
+    "createdate": 1340229204000,
+    "gurasid": 51632631,
+    "principaladdresssiteoid": 2115181,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 3,
+    "valnetlotcount": 3,
+    "valnetworkflowid": null,
+    "propid": 1217022,
+    "uuid": "de1380a3-842e-3af0-97ec-42475ce03468",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "2100",
+    "address": "2100 PACKHAM DRIVE MANILDRA",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1311.9139720506912,
+    "shape_Area": 62982.687607254753
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16553362.661375001,
+       -3919708.0386249982
+      ],
+      [
+       16553348.290124997,
+       -3919803.4497499987
+      ],
+      [
+       16553229.590999998,
+       -3919785.4017499983
+      ],
+      [
+       16553222.405374996,
+       -3919833.1075000018
+      ],
+      [
+       16553218.811999999,
+       -3919856.9611250013
+      ],
+      [
+       16553337.493249997,
+       -3919875.0223749988
+      ],
+      [
+       16553284.468625002,
+       -3919911.332249999
+      ],
+      [
+       16553142.013250001,
+       -3919926.3532500006
+      ],
+      [
+       16553142.187875003,
+       -3919920.1602500007
+      ],
+      [
+       16553140.761,
+       -3919910.0291250013
+      ],
+      [
+       16553140.653250001,
+       -3919898.7795000002
+      ],
+      [
+       16553138.931874998,
+       -3919878.2273750007
+      ],
+      [
+       16553135.475249998,
+       -3919857.7038750015
+      ],
+      [
+       16553130.613624997,
+       -3919836.15625
+      ],
+      [
+       16553122.953125,
+       -3919813.260125
+      ],
+      [
+       16553113.101125002,
+       -3919790.4917499982
+      ],
+      [
+       16553110.980625004,
+       -3919781.3645000011
+      ],
+      [
+       16553112.849624999,
+       -3919768.078625001
+      ],
+      [
+       16553109.499875002,
+       -3919754.1810000017
+      ],
+      [
+       16553102.288249999,
+       -3919737.125
+      ],
+      [
+       16553089.394874997,
+       -3919721.7322500013
+      ],
+      [
+       16553079.288500004,
+       -3919710.723749999
+      ],
+      [
+       16553070.089125,
+       -3919700.0597499982
+      ],
+      [
+       16553071.766500004,
+       -3919682.0607500002
+      ],
+      [
+       16553084.136124998,
+       -3919668.2073750012
+      ],
+      [
+       16553104.117375001,
+       -3919656.6551249996
+      ],
+      [
+       16553120.07925,
+       -3919649.2747500017
+      ],
+      [
+       16553144.487000003,
+       -3919643.9332499988
+      ],
+      [
+       16553169.010499999,
+       -3919623.9181249999
+      ],
+      [
+       16553189.388999999,
+       -3919595.7358749993
+      ],
+      [
+       16553384.262125,
+       -3919627.1660000011
+      ],
+      [
+       16553370.032624997,
+       -3919659.0981249996
+      ],
+      [
+       16553362.661375001,
+       -3919708.0386249982
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,258 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 2195010,
+    "createdate": 1135036800000,
+    "gurasid": 50202039,
+    "principaladdresssiteoid": 726199,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 2265665,
+    "uuid": "8be04145-6392-3b06-904b-472e69793400",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "188-204",
+    "address": "188-204 RUSDEN ROAD MOUNT RIVERVIEW",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 858.54533319218081,
+    "shape_Area": 37884.927155932644
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16768205.686750002,
+       -3992447.1829999983
+      ],
+      [
+       16768218.250875004,
+       -3992449.0536249988
+      ],
+      [
+       16768253.798749998,
+       -3992454.3460000008
+      ],
+      [
+       16768288.929624997,
+       -3992459.5712499991
+      ],
+      [
+       16768320.075000003,
+       -3992464.2049999982
+      ],
+      [
+       16768341.808499999,
+       -3992467.4373750016
+      ],
+      [
+       16768363.544124998,
+       -3992470.6708750017
+      ],
+      [
+       16768385.278624997,
+       -3992473.9019999988
+      ],
+      [
+       16768407.011124998,
+       -3992477.1380000003
+      ],
+      [
+       16768428.747625001,
+       -3992480.3642500006
+      ],
+      [
+       16768450.483125001,
+       -3992483.6266250014
+      ],
+      [
+       16768495.715374999,
+       -3992490.3408749998
+      ],
+      [
+       16768444.128749996,
+       -3992585.8058749996
+      ],
+      [
+       16768427.011375003,
+       -3992593.1848750003
+      ],
+      [
+       16768349.916249998,
+       -3992626.4121249989
+      ],
+      [
+       16768335.490125,
+       -3992620.6241250001
+      ],
+      [
+       16768301.833999999,
+       -3992635.1350000016
+      ],
+      [
+       16768296.072375,
+       -3992649.6303750016
+      ],
+      [
+       16768275.273874998,
+       -3992658.5968750007
+      ],
+      [
+       16768270.435249999,
+       -3992656.6627499983
+      ],
+      [
+       16768179.391000003,
+       -3992443.2896250002
+      ],
+      [
+       16768205.686750002,
+       -3992447.1829999983
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

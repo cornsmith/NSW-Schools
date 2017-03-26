@@ -1,0 +1,254 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3447702,
+    "createdate": 1199451735000,
+    "gurasid": 63640895,
+    "principaladdresssiteoid": 2198121,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 7,
+    "valnetlotcount": 7,
+    "valnetworkflowid": null,
+    "propid": 681699,
+    "uuid": "1fcd875b-4c9e-3aad-80d0-f66e69c96d07",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "113",
+    "address": "113 PITTWATER ROAD HUNTERS HILL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 513.74260402903826,
+    "shape_Area": 15316.277539404695
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16824257.079374999,
+       -4004855.7600000016
+      ],
+      [
+       16824266.349624999,
+       -4004839.6253749989
+      ],
+      [
+       16824284.519749999,
+       -4004808.2316249982
+      ],
+      [
+       16824302.699874997,
+       -4004776.8500000015
+      ],
+      [
+       16824311.803374998,
+       -4004760.8716249987
+      ],
+      [
+       16824367.796625003,
+       -4004793.0615000017
+      ],
+      [
+       16824358.693125002,
+       -4004809.0387500003
+      ],
+      [
+       16824414.358999997,
+       -4004841.1099999994
+      ],
+      [
+       16824395.909500003,
+       -4004873.3469999991
+      ],
+      [
+       16824378.167374998,
+       -4004904.3576250002
+      ],
+      [
+       16824372.640249997,
+       -4004914.0447500013
+      ],
+      [
+       16824368.981124997,
+       -4004920.4588750005
+      ],
+      [
+       16824359.917499997,
+       -4004936.2861250006
+      ],
+      [
+       16824344.09025,
+       -4004927.1058750004
+      ],
+      [
+       16824328.354000002,
+       -4004917.9785000011
+      ],
+      [
+       16824312.567749999,
+       -4004908.8222500011
+      ],
+      [
+       16824303.983125001,
+       -4004903.8436250016
+      ],
+      [
+       16824296.850374997,
+       -4004899.7068750001
+      ],
+      [
+       16824280.630000003,
+       -4004890.2972499989
+      ],
+      [
+       16824248.088624999,
+       -4004871.4238750003
+      ],
+      [
+       16824257.079374999,
+       -4004855.7600000016
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

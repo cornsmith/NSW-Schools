@@ -1,0 +1,270 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3342158,
+    "createdate": 1135036800000,
+    "gurasid": 51672669,
+    "principaladdresssiteoid": 2144700,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 11,
+    "valnetlotcount": 11,
+    "valnetworkflowid": null,
+    "propid": 1337559,
+    "uuid": "d9c97386-e1d7-33f5-90c1-51dac0847135",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "5",
+    "address": "5 CAMPBELL HILL ROAD CHESTER HILL",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 957.52061635396717,
+    "shape_Area": 45659.742225502087
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16809202.306999996,
+       -4011753.7498750016
+      ],
+      [
+       16809227.545125,
+       -4011595.6105000004
+      ],
+      [
+       16809228.133874997,
+       -4011592.0771250017
+      ],
+      [
+       16809232.624250002,
+       -4011564.8280000016
+      ],
+      [
+       16809237.413999997,
+       -4011536.3302499987
+      ],
+      [
+       16809314.91725,
+       -4011586.2446249984
+      ],
+      [
+       16809313.463249996,
+       -4011596.7557500005
+      ],
+      [
+       16809312.282875001,
+       -4011605.1241250001
+      ],
+      [
+       16809372.100874998,
+       -4011644.8724999987
+      ],
+      [
+       16809511.817000002,
+       -4011737.7100000009
+      ],
+      [
+       16809504.994625002,
+       -4011749.2056250013
+      ],
+      [
+       16809494.64875,
+       -4011813.8905000016
+      ],
+      [
+       16809485.044249997,
+       -4011812.3304999992
+      ],
+      [
+       16809476.589374997,
+       -4011810.9567500018
+      ],
+      [
+       16809458.404250003,
+       -4011807.989374999
+      ],
+      [
+       16809439.881875001,
+       -4011804.9738750011
+      ],
+      [
+       16809422.198749997,
+       -4011802.0954999998
+      ],
+      [
+       16809404.020625003,
+       -4011799.1413750015
+      ],
+      [
+       16809372.102875002,
+       -4011793.9986249991
+      ],
+      [
+       16809367.609499998,
+       -4011793.2738750018
+      ],
+      [
+       16809356.771624997,
+       -4011791.5287499987
+      ],
+      [
+       16809283.813749999,
+       -4011779.8107500002
+      ],
+      [
+       16809206.127875,
+       -4011767.3716249987
+      ],
+      [
+       16809201.221375003,
+       -4011760.8599999994
+      ],
+      [
+       16809202.306999996,
+       -4011753.7498750016
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 905618,
+    "createdate": 1242764855000,
+    "gurasid": 68414965,
+    "principaladdresssiteoid": 3092977,
+    "propertytype": 1,
+    "valnetpropertystatus": null,
+    "valnetpropertytype": null,
+    "dissolveparcelcount": 1,
+    "valnetlotcount": 1,
+    "valnetworkflowid": null,
+    "propid": 3451602,
+    "uuid": "48185f97-17d4-309a-8f71-82dacd0e0630",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "132-150",
+    "address": "132-150 BOURKE STREET MOUNT AUSTIN",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 897.96543267351217,
+    "shape_Area": 41734.182216446556
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16403044.666500002,
+       -4182188.2586250007
+      ],
+      [
+       16403055.883500002,
+       -4182233.6334999986
+      ],
+      [
+       16403074.318999998,
+       -4182229.0272499993
+      ],
+      [
+       16403090.946500003,
+       -4182224.8811249994
+      ],
+      [
+       16403107.237625003,
+       -4182220.7678750008
+      ],
+      [
+       16403107.379249997,
+       -4182220.7837500013
+      ],
+      [
+       16403122.146750003,
+       -4182222.6469999999
+      ],
+      [
+       16403138.760124996,
+       -4182224.7481250018
+      ],
+      [
+       16403155.751874998,
+       -4182226.884624999
+      ],
+      [
+       16403180.82525,
+       -4182230.0486249998
+      ],
+      [
+       16403154.811875001,
+       -4182383.3841250017
+      ],
+      [
+       16403148.512374997,
+       -4182420.519749999
+      ],
+      [
+       16403142.637874998,
+       -4182455.1492500007
+      ],
+      [
+       16403137.481875002,
+       -4182458.8122499995
+      ],
+      [
+       16402944.358000003,
+       -4182425.1772500016
+      ],
+      [
+       16402956.7535,
+       -4182381.3012499996
+      ],
+      [
+       16402961.123125002,
+       -4182365.8327500001
+      ],
+      [
+       16402965.491750002,
+       -4182350.3508750014
+      ],
+      [
+       16402970.053999998,
+       -4182334.1698749997
+      ],
+      [
+       16402975.243874997,
+       -4182315.8132500015
+      ],
+      [
+       16402980.421875,
+       -4182297.4578749985
+      ],
+      [
+       16402985.201624997,
+       -4182280.5508750007
+      ],
+      [
+       16402989.775875002,
+       -4182264.3566249982
+      ],
+      [
+       16402994.096625,
+       -4182249.0602499992
+      ],
+      [
+       16403005.633874997,
+       -4182246.1843749993
+      ],
+      [
+       16403021.895125002,
+       -4182242.1247499995
+      ],
+      [
+       16403037.803125001,
+       -4182238.1530000009
+      ],
+      [
+       16403026.585124999,
+       -4182192.7658750005
+      ],
+      [
+       16403044.666500002,
+       -4182188.2586250007
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

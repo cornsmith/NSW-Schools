@@ -1,0 +1,246 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3450510,
+    "createdate": 1383036632000,
+    "gurasid": 63723593,
+    "principaladdresssiteoid": 165119,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 2348907,
+    "uuid": "67cb4fbc-c8b7-36ea-969c-9cdb69d98cda",
+    "urbanity": "S",
+    "superlot": "N",
+    "housenumber": "218",
+    "address": "218 BELLS LINE OF ROAD NORTH RICHMOND",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 1679.127546862389,
+    "shape_Area": 150163.28899976803
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16776940.673500001,
+       -3971266.1222499982
+      ],
+      [
+       16776702.005874999,
+       -3971417.932500001
+      ],
+      [
+       16776674.376000002,
+       -3971407.5406249985
+      ],
+      [
+       16776646.740125,
+       -3971391.5581250004
+      ],
+      [
+       16776626.778875001,
+       -3971377.1913749985
+      ],
+      [
+       16776605.885499999,
+       -3971358.2303749993
+      ],
+      [
+       16776586.575874999,
+       -3971335.2946249992
+      ],
+      [
+       16776568.564374998,
+       -3971316.1110000014
+      ],
+      [
+       16776547.138125002,
+       -3971285.8003749996
+      ],
+      [
+       16776541.246749997,
+       -3971267.7773750015
+      ],
+      [
+       16776492.401249997,
+       -3971195.1178749986
+      ],
+      [
+       16776715.269625001,
+       -3971009.2246249989
+      ],
+      [
+       16776860.190624997,
+       -3970888.2658750005
+      ],
+      [
+       16776911.99075,
+       -3970842.9890000001
+      ],
+      [
+       16776916.47225,
+       -3970839.0753749982
+      ],
+      [
+       16777019.023874998,
+       -3970955.879124999
+      ],
+      [
+       16776997.850125,
+       -3970991.0871249996
+      ],
+      [
+       16776877.258125,
+       -3971191.614875
+      ],
+      [
+       16776940.673500001,
+       -3971266.1222499982
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

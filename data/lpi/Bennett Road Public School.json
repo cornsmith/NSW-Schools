@@ -1,0 +1,290 @@
+{
+ "displayFieldName": "uuid",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "createdate": "createdate",
+  "gurasid": "gurasid",
+  "principaladdresssiteoid": "principaladdresssiteoid",
+  "propertytype": "PropertyType",
+  "valnetpropertystatus": "valnetpropertystatus",
+  "valnetpropertytype": "valnetpropertytype",
+  "dissolveparcelcount": "dissolveparcelcount",
+  "valnetlotcount": "valnetlotcount",
+  "valnetworkflowid": "valnetworkflowid",
+  "propid": "propid",
+  "uuid": "uuid",
+  "urbanity": "urbanity",
+  "superlot": "superlot",
+  "housenumber": "housenumber",
+  "address": "address",
+  "_x_centroid": "_x_centroid",
+  "_y_centroid": "_y_centroid",
+  "shape_Length": "shape_Length",
+  "shape_Area": "shape_Area"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "createdate",
+   "type": "esriFieldTypeDate",
+   "alias": "createdate",
+   "length": 8
+  },
+  {
+   "name": "gurasid",
+   "type": "esriFieldTypeInteger",
+   "alias": "gurasid"
+  },
+  {
+   "name": "principaladdresssiteoid",
+   "type": "esriFieldTypeInteger",
+   "alias": "principaladdresssiteoid"
+  },
+  {
+   "name": "propertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "PropertyType"
+  },
+  {
+   "name": "valnetpropertystatus",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertystatus"
+  },
+  {
+   "name": "valnetpropertytype",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetpropertytype"
+  },
+  {
+   "name": "dissolveparcelcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "dissolveparcelcount"
+  },
+  {
+   "name": "valnetlotcount",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetlotcount"
+  },
+  {
+   "name": "valnetworkflowid",
+   "type": "esriFieldTypeInteger",
+   "alias": "valnetworkflowid"
+  },
+  {
+   "name": "propid",
+   "type": "esriFieldTypeInteger",
+   "alias": "propid"
+  },
+  {
+   "name": "uuid",
+   "type": "esriFieldTypeString",
+   "alias": "uuid",
+   "length": 50
+  },
+  {
+   "name": "urbanity",
+   "type": "esriFieldTypeString",
+   "alias": "urbanity",
+   "length": 1
+  },
+  {
+   "name": "superlot",
+   "type": "esriFieldTypeString",
+   "alias": "superlot",
+   "length": 1
+  },
+  {
+   "name": "housenumber",
+   "type": "esriFieldTypeString",
+   "alias": "housenumber",
+   "length": 20
+  },
+  {
+   "name": "address",
+   "type": "esriFieldTypeString",
+   "alias": "address",
+   "length": 100
+  },
+  {
+   "name": "_x_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_x_centroid"
+  },
+  {
+   "name": "_y_centroid",
+   "type": "esriFieldTypeDouble",
+   "alias": "_y_centroid"
+  },
+  {
+   "name": "shape_Length",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Length"
+  },
+  {
+   "name": "shape_Area",
+   "type": "esriFieldTypeDouble",
+   "alias": "shape_Area"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 3340995,
+    "createdate": 1135036800000,
+    "gurasid": 51670741,
+    "principaladdresssiteoid": 2175265,
+    "propertytype": 1,
+    "valnetpropertystatus": 2,
+    "valnetpropertytype": 2,
+    "dissolveparcelcount": 2,
+    "valnetlotcount": 2,
+    "valnetworkflowid": null,
+    "propid": 2543896,
+    "uuid": "de235be7-e4c5-3f31-87ee-eff2242b55c6",
+    "urbanity": "U",
+    "superlot": "N",
+    "housenumber": "100-126",
+    "address": "100-126 DESBOROUGH ROAD COLYTON",
+    "_x_centroid": null,
+    "_y_centroid": null,
+    "shape_Length": 970.3303308961066,
+    "shape_Area": 54146.946887875441
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       16785994.319624998,
+       -3999827.9628750011
+      ],
+      [
+       16786003.766374998,
+       -3999793.3376250006
+      ],
+      [
+       16786037.025250003,
+       -3999671.4287500009
+      ],
+      [
+       16786106.878875002,
+       -3999690.7988750003
+      ],
+      [
+       16786107.220124997,
+       -3999690.8937500007
+      ],
+      [
+       16786123.997249998,
+       -3999628.6964999996
+      ],
+      [
+       16786287.201125003,
+       -3999673.9078750014
+      ],
+      [
+       16786276.649750002,
+       -3999712.6687499993
+      ],
+      [
+       16786271.332125001,
+       -3999732.4532499984
+      ],
+      [
+       16786266.490500003,
+       -3999750.1067500003
+      ],
+      [
+       16786261.648874998,
+       -3999767.9978750013
+      ],
+      [
+       16786256.334250003,
+       -3999787.4078750014
+      ],
+      [
+       16786250.519625001,
+       -3999808.7448749989
+      ],
+      [
+       16786244.711999997,
+       -3999829.8706250004
+      ],
+      [
+       16786238.887500003,
+       -3999851.1380000003
+      ],
+      [
+       16786234.155625001,
+       -3999868.6176250018
+      ],
+      [
+       16786229.327,
+       -3999886.2412500009
+      ],
+      [
+       16786224.623000003,
+       -3999903.4111250006
+      ],
+      [
+       16786223.271875001,
+       -3999908.3383749984
+      ],
+      [
+       16786199.6285,
+       -3999901.7986249998
+      ],
+      [
+       16786176.379249997,
+       -3999895.3693750016
+      ],
+      [
+       16786152.944375001,
+       -3999888.8873750009
+      ],
+      [
+       16786129.726000004,
+       -3999882.4653749987
+      ],
+      [
+       16786106.494625002,
+       -3999876.040874999
+      ],
+      [
+       16786082.606749997,
+       -3999869.4327500015
+      ],
+      [
+       16786059.409374997,
+       -3999863.0167500004
+      ],
+      [
+       16786037.640000001,
+       -3999856.9970000014
+      ],
+      [
+       16786023.796499997,
+       -3999853.1669999994
+      ],
+      [
+       16785989.994874999,
+       -3999843.818
+      ],
+      [
+       16785994.319624998,
+       -3999827.9628750011
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
